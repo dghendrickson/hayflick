@@ -1,0 +1,103 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	lisa_combine_chipseq_ranks
+	1	lisa_combine_motif_ranks
+	1	lisa_direct_beta
+	2	lisa_in_silico_knockout_motif_99
+	2	lisa_in_silico_knockout_tf_chipseqpeak
+	2	lisa_regress
+	1	lisa_select_background
+	11
+
+[Sat Aug  8 14:21:23 2020]
+Job 10: lisa selecting background genes...
+
+[Sat Aug  8 14:21:44 2020]
+Finished job 10.
+1 of 11 steps (9%) done
+
+[Sat Aug  8 14:21:44 2020]
+Job 1: lisa regression steps...
+Downstream jobs will be updated after completion.
+
+
+[Sat Aug  8 14:21:44 2020]
+Job 3: lisa rank TF from peak directly...
+
+
+[Sat Aug  8 14:21:44 2020]
+Job 2: lisa regression steps...
+Downstream jobs will be updated after completion.
+
+Updating job 4 (lisa_in_silico_knockout_motif_99).
+Updating job 6 (lisa_in_silico_knockout_tf_chipseqpeak).
+Updating job 0 (all).
+[Sat Aug  8 14:22:06 2020]
+Finished job 1.
+2 of 11 steps (18%) done
+
+[Sat Aug  8 14:22:06 2020]
+Job 4: lisa In silico Knockout motif...
+
+
+[Sat Aug  8 14:22:10 2020]
+Job 6: lisa In silico Knockout chip-seq ...
+
+Updating job 5 (lisa_in_silico_knockout_motif_99).
+Updating job 7 (lisa_in_silico_knockout_tf_chipseqpeak).
+Updating job 0 (all).
+[Sat Aug  8 14:22:16 2020]
+Finished job 2.
+3 of 11 steps (27%) done
+
+[Sat Aug  8 14:22:16 2020]
+Job 5: lisa In silico Knockout motif...
+
+[Sat Aug  8 14:22:52 2020]
+Finished job 3.
+4 of 11 steps (36%) done
+
+[Sat Aug  8 14:22:52 2020]
+Job 7: lisa In silico Knockout chip-seq ...
+
+[Sat Aug  8 14:25:40 2020]
+Finished job 5.
+5 of 11 steps (45%) done
+[Sat Aug  8 14:26:06 2020]
+Finished job 4.
+6 of 11 steps (55%) done
+
+[Sat Aug  8 14:26:06 2020]
+Job 8: combine p values of TF from motif
+
+[Sat Aug  8 14:26:10 2020]
+Finished job 8.
+7 of 11 steps (64%) done
+[Sat Aug  8 14:27:01 2020]
+Finished job 7.
+8 of 11 steps (73%) done
+[Sat Aug  8 14:29:20 2020]
+Finished job 6.
+9 of 11 steps (82%) done
+
+[Sat Aug  8 14:30:05 2020]
+Job 9: combine p values of TF from ChIP-seq
+
+[Sat Aug  8 14:30:21 2020]
+Finished job 9.
+10 of 11 steps (91%) done
+
+[Sat Aug  8 14:30:21 2020]
+localrule all:
+    input: /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.DNase.coefs.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.H3K27ac.coefs.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.DNase.lisa_predicted_rp.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.H3K27ac.lisa_predicted_rp.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.3000.lisa_direct.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.DNase.motif99.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.H3K27ac.motif99.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.DNase.chipseq.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt.H3K27ac.chipseq.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt_motif_cauchy_combine_dedup.csv, /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38.txt_chipseq_cauchy_combine_dedup.csv
+    jobid: 0
+
+[Sat Aug  8 14:30:21 2020]
+Finished job 0.
+11 of 11 steps (100%) done
+Complete log: /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c3_2020_08_08_1420560.877__hg38/.snakemake/log/2020-08-08T142120.083714.snakemake.log

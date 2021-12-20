@@ -1,0 +1,225 @@
+INFO  @ Fri, 02 Aug 2019 13:38:33: 
+# Command line: callpeak -t /home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP1_omni_A_S1_SE.bed /home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP1_omni_B_S2_SE.bed /home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP1_omni_C_S3_SE.bed -f BED -n hTERT_TP1_omni --outdir /home/yuanh/analysis/WI38_ATAC/process/macs2out_pool/ --keep-dup all -g hs -p 1e-1 --nomodel --shift -37 --extsize 73
+# ARGUMENTS LIST:
+# name = hTERT_TP1_omni
+# format = BED
+# ChIP-seq file = ['/home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP1_omni_A_S1_SE.bed', '/home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP1_omni_B_S2_SE.bed', '/home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP1_omni_C_S3_SE.bed']
+# control file = None
+# effective genome size = 2.70e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-01
+# qvalue will not be calculated and reported as -1 in the final output.
+# The maximum gap between significant sites is assigned as the read length/tag size.
+# The minimum length of peaks is assigned as the predicted fragment length "d".
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Paired-End mode is off
+ 
+INFO  @ Fri, 02 Aug 2019 13:38:33: #1 read tag files... 
+INFO  @ Fri, 02 Aug 2019 13:38:33: #1 read treatment tags... 
+INFO  @ Fri, 02 Aug 2019 13:38:34:  1000000 
+INFO  @ Fri, 02 Aug 2019 13:38:36:  2000000 
+INFO  @ Fri, 02 Aug 2019 13:38:37:  3000000 
+INFO  @ Fri, 02 Aug 2019 13:38:38:  4000000 
+INFO  @ Fri, 02 Aug 2019 13:38:39:  5000000 
+INFO  @ Fri, 02 Aug 2019 13:38:40:  6000000 
+INFO  @ Fri, 02 Aug 2019 13:38:41:  7000000 
+INFO  @ Fri, 02 Aug 2019 13:38:43:  8000000 
+INFO  @ Fri, 02 Aug 2019 13:38:44:  9000000 
+INFO  @ Fri, 02 Aug 2019 13:38:45:  10000000 
+INFO  @ Fri, 02 Aug 2019 13:38:46:  11000000 
+INFO  @ Fri, 02 Aug 2019 13:38:47:  12000000 
+INFO  @ Fri, 02 Aug 2019 13:38:48:  13000000 
+INFO  @ Fri, 02 Aug 2019 13:38:49:  14000000 
+INFO  @ Fri, 02 Aug 2019 13:38:51:  15000000 
+INFO  @ Fri, 02 Aug 2019 13:38:52:  16000000 
+INFO  @ Fri, 02 Aug 2019 13:38:53:  17000000 
+INFO  @ Fri, 02 Aug 2019 13:38:54:  18000000 
+INFO  @ Fri, 02 Aug 2019 13:38:55:  19000000 
+INFO  @ Fri, 02 Aug 2019 13:38:56:  20000000 
+INFO  @ Fri, 02 Aug 2019 13:38:57:  21000000 
+INFO  @ Fri, 02 Aug 2019 13:38:58:  22000000 
+INFO  @ Fri, 02 Aug 2019 13:39:00:  23000000 
+INFO  @ Fri, 02 Aug 2019 13:39:01:  24000000 
+INFO  @ Fri, 02 Aug 2019 13:39:02:  25000000 
+INFO  @ Fri, 02 Aug 2019 13:39:03:  26000000 
+INFO  @ Fri, 02 Aug 2019 13:39:04:  27000000 
+INFO  @ Fri, 02 Aug 2019 13:39:05:  28000000 
+INFO  @ Fri, 02 Aug 2019 13:39:06:  29000000 
+INFO  @ Fri, 02 Aug 2019 13:39:08:  30000000 
+INFO  @ Fri, 02 Aug 2019 13:39:09:  31000000 
+INFO  @ Fri, 02 Aug 2019 13:39:10:  32000000 
+INFO  @ Fri, 02 Aug 2019 13:39:11:  33000000 
+INFO  @ Fri, 02 Aug 2019 13:39:12:  34000000 
+INFO  @ Fri, 02 Aug 2019 13:39:13:  35000000 
+INFO  @ Fri, 02 Aug 2019 13:39:14:  36000000 
+INFO  @ Fri, 02 Aug 2019 13:39:15:  37000000 
+INFO  @ Fri, 02 Aug 2019 13:39:16:  38000000 
+INFO  @ Fri, 02 Aug 2019 13:39:18:  39000000 
+INFO  @ Fri, 02 Aug 2019 13:39:19:  40000000 
+INFO  @ Fri, 02 Aug 2019 13:39:20:  41000000 
+INFO  @ Fri, 02 Aug 2019 13:39:21:  42000000 
+INFO  @ Fri, 02 Aug 2019 13:39:22:  43000000 
+INFO  @ Fri, 02 Aug 2019 13:39:23:  44000000 
+INFO  @ Fri, 02 Aug 2019 13:39:24:  45000000 
+INFO  @ Fri, 02 Aug 2019 13:39:25:  46000000 
+INFO  @ Fri, 02 Aug 2019 13:39:27:  47000000 
+INFO  @ Fri, 02 Aug 2019 13:39:28:  48000000 
+INFO  @ Fri, 02 Aug 2019 13:39:29:  49000000 
+INFO  @ Fri, 02 Aug 2019 13:39:30:  1000000 
+INFO  @ Fri, 02 Aug 2019 13:39:32:  2000000 
+INFO  @ Fri, 02 Aug 2019 13:39:33:  3000000 
+INFO  @ Fri, 02 Aug 2019 13:39:34:  4000000 
+INFO  @ Fri, 02 Aug 2019 13:39:35:  5000000 
+INFO  @ Fri, 02 Aug 2019 13:39:36:  6000000 
+INFO  @ Fri, 02 Aug 2019 13:39:37:  7000000 
+INFO  @ Fri, 02 Aug 2019 13:39:38:  8000000 
+INFO  @ Fri, 02 Aug 2019 13:39:39:  9000000 
+INFO  @ Fri, 02 Aug 2019 13:39:41:  10000000 
+INFO  @ Fri, 02 Aug 2019 13:39:42:  11000000 
+INFO  @ Fri, 02 Aug 2019 13:39:43:  12000000 
+INFO  @ Fri, 02 Aug 2019 13:39:44:  13000000 
+INFO  @ Fri, 02 Aug 2019 13:39:45:  14000000 
+INFO  @ Fri, 02 Aug 2019 13:39:46:  15000000 
+INFO  @ Fri, 02 Aug 2019 13:39:47:  16000000 
+INFO  @ Fri, 02 Aug 2019 13:39:49:  17000000 
+INFO  @ Fri, 02 Aug 2019 13:39:50:  18000000 
+INFO  @ Fri, 02 Aug 2019 13:39:51:  19000000 
+INFO  @ Fri, 02 Aug 2019 13:39:52:  20000000 
+INFO  @ Fri, 02 Aug 2019 13:39:53:  21000000 
+INFO  @ Fri, 02 Aug 2019 13:39:54:  22000000 
+INFO  @ Fri, 02 Aug 2019 13:39:55:  23000000 
+INFO  @ Fri, 02 Aug 2019 13:39:56:  24000000 
+INFO  @ Fri, 02 Aug 2019 13:39:58:  25000000 
+INFO  @ Fri, 02 Aug 2019 13:39:59:  26000000 
+INFO  @ Fri, 02 Aug 2019 13:40:00:  27000000 
+INFO  @ Fri, 02 Aug 2019 13:40:01:  28000000 
+INFO  @ Fri, 02 Aug 2019 13:40:02:  29000000 
+INFO  @ Fri, 02 Aug 2019 13:40:03:  30000000 
+INFO  @ Fri, 02 Aug 2019 13:40:04:  31000000 
+INFO  @ Fri, 02 Aug 2019 13:40:05:  32000000 
+INFO  @ Fri, 02 Aug 2019 13:40:07:  33000000 
+INFO  @ Fri, 02 Aug 2019 13:40:08:  34000000 
+INFO  @ Fri, 02 Aug 2019 13:40:09:  35000000 
+INFO  @ Fri, 02 Aug 2019 13:40:10:  36000000 
+INFO  @ Fri, 02 Aug 2019 13:40:11:  37000000 
+INFO  @ Fri, 02 Aug 2019 13:40:12:  38000000 
+INFO  @ Fri, 02 Aug 2019 13:40:13:  39000000 
+INFO  @ Fri, 02 Aug 2019 13:40:14:  40000000 
+INFO  @ Fri, 02 Aug 2019 13:40:15:  41000000 
+INFO  @ Fri, 02 Aug 2019 13:40:17:  42000000 
+INFO  @ Fri, 02 Aug 2019 13:40:18:  43000000 
+INFO  @ Fri, 02 Aug 2019 13:40:19:  44000000 
+INFO  @ Fri, 02 Aug 2019 13:40:20:  45000000 
+INFO  @ Fri, 02 Aug 2019 13:40:21:  46000000 
+INFO  @ Fri, 02 Aug 2019 13:40:22:  47000000 
+INFO  @ Fri, 02 Aug 2019 13:40:23:  48000000 
+INFO  @ Fri, 02 Aug 2019 13:40:25:  49000000 
+INFO  @ Fri, 02 Aug 2019 13:40:26:  50000000 
+INFO  @ Fri, 02 Aug 2019 13:40:27:  51000000 
+INFO  @ Fri, 02 Aug 2019 13:40:28:  52000000 
+INFO  @ Fri, 02 Aug 2019 13:40:29:  53000000 
+INFO  @ Fri, 02 Aug 2019 13:40:30:  54000000 
+INFO  @ Fri, 02 Aug 2019 13:40:31:  55000000 
+INFO  @ Fri, 02 Aug 2019 13:40:32:  56000000 
+INFO  @ Fri, 02 Aug 2019 13:40:34:  57000000 
+INFO  @ Fri, 02 Aug 2019 13:40:35:  58000000 
+INFO  @ Fri, 02 Aug 2019 13:40:36:  59000000 
+INFO  @ Fri, 02 Aug 2019 13:40:37:  60000000 
+INFO  @ Fri, 02 Aug 2019 13:40:38:  61000000 
+INFO  @ Fri, 02 Aug 2019 13:40:39:  62000000 
+INFO  @ Fri, 02 Aug 2019 13:40:40:  63000000 
+INFO  @ Fri, 02 Aug 2019 13:40:42:  64000000 
+INFO  @ Fri, 02 Aug 2019 13:40:43:  65000000 
+INFO  @ Fri, 02 Aug 2019 13:40:44:  66000000 
+INFO  @ Fri, 02 Aug 2019 13:40:45:  67000000 
+INFO  @ Fri, 02 Aug 2019 13:40:46:  68000000 
+INFO  @ Fri, 02 Aug 2019 13:40:47:  69000000 
+INFO  @ Fri, 02 Aug 2019 13:40:48:  70000000 
+INFO  @ Fri, 02 Aug 2019 13:40:49:  71000000 
+INFO  @ Fri, 02 Aug 2019 13:40:50:  72000000 
+INFO  @ Fri, 02 Aug 2019 13:40:52:  73000000 
+INFO  @ Fri, 02 Aug 2019 13:40:53:  74000000 
+INFO  @ Fri, 02 Aug 2019 13:40:54:  75000000 
+INFO  @ Fri, 02 Aug 2019 13:40:55:  76000000 
+INFO  @ Fri, 02 Aug 2019 13:40:56:  77000000 
+INFO  @ Fri, 02 Aug 2019 13:40:57:  78000000 
+INFO  @ Fri, 02 Aug 2019 13:40:58:  79000000 
+INFO  @ Fri, 02 Aug 2019 13:40:59:  80000000 
+INFO  @ Fri, 02 Aug 2019 13:41:01:  1000000 
+INFO  @ Fri, 02 Aug 2019 13:41:02:  2000000 
+INFO  @ Fri, 02 Aug 2019 13:41:03:  3000000 
+INFO  @ Fri, 02 Aug 2019 13:41:04:  4000000 
+INFO  @ Fri, 02 Aug 2019 13:41:05:  5000000 
+INFO  @ Fri, 02 Aug 2019 13:41:06:  6000000 
+INFO  @ Fri, 02 Aug 2019 13:41:07:  7000000 
+INFO  @ Fri, 02 Aug 2019 13:41:08:  8000000 
+INFO  @ Fri, 02 Aug 2019 13:41:10:  9000000 
+INFO  @ Fri, 02 Aug 2019 13:41:11:  10000000 
+INFO  @ Fri, 02 Aug 2019 13:41:12:  11000000 
+INFO  @ Fri, 02 Aug 2019 13:41:13:  12000000 
+INFO  @ Fri, 02 Aug 2019 13:41:14:  13000000 
+INFO  @ Fri, 02 Aug 2019 13:41:15:  14000000 
+INFO  @ Fri, 02 Aug 2019 13:41:17:  15000000 
+INFO  @ Fri, 02 Aug 2019 13:41:18:  16000000 
+INFO  @ Fri, 02 Aug 2019 13:41:19:  17000000 
+INFO  @ Fri, 02 Aug 2019 13:41:20:  18000000 
+INFO  @ Fri, 02 Aug 2019 13:41:21:  19000000 
+INFO  @ Fri, 02 Aug 2019 13:41:22:  20000000 
+INFO  @ Fri, 02 Aug 2019 13:41:23:  21000000 
+INFO  @ Fri, 02 Aug 2019 13:41:25:  22000000 
+INFO  @ Fri, 02 Aug 2019 13:41:26:  23000000 
+INFO  @ Fri, 02 Aug 2019 13:41:27:  24000000 
+INFO  @ Fri, 02 Aug 2019 13:41:28:  25000000 
+INFO  @ Fri, 02 Aug 2019 13:41:29:  26000000 
+INFO  @ Fri, 02 Aug 2019 13:41:30:  27000000 
+INFO  @ Fri, 02 Aug 2019 13:41:31:  28000000 
+INFO  @ Fri, 02 Aug 2019 13:41:32:  29000000 
+INFO  @ Fri, 02 Aug 2019 13:41:34:  30000000 
+INFO  @ Fri, 02 Aug 2019 13:41:35:  31000000 
+INFO  @ Fri, 02 Aug 2019 13:41:36:  32000000 
+INFO  @ Fri, 02 Aug 2019 13:41:37:  33000000 
+INFO  @ Fri, 02 Aug 2019 13:41:38:  34000000 
+INFO  @ Fri, 02 Aug 2019 13:41:39:  35000000 
+INFO  @ Fri, 02 Aug 2019 13:41:40:  36000000 
+INFO  @ Fri, 02 Aug 2019 13:41:42:  37000000 
+INFO  @ Fri, 02 Aug 2019 13:41:43:  38000000 
+INFO  @ Fri, 02 Aug 2019 13:41:44:  39000000 
+INFO  @ Fri, 02 Aug 2019 13:41:45:  40000000 
+INFO  @ Fri, 02 Aug 2019 13:41:46:  41000000 
+INFO  @ Fri, 02 Aug 2019 13:41:47:  42000000 
+INFO  @ Fri, 02 Aug 2019 13:41:48:  43000000 
+INFO  @ Fri, 02 Aug 2019 13:41:50:  44000000 
+INFO  @ Fri, 02 Aug 2019 13:41:51:  45000000 
+INFO  @ Fri, 02 Aug 2019 13:41:52:  46000000 
+INFO  @ Fri, 02 Aug 2019 13:41:53:  47000000 
+INFO  @ Fri, 02 Aug 2019 13:41:54:  48000000 
+INFO  @ Fri, 02 Aug 2019 13:41:55:  49000000 
+INFO  @ Fri, 02 Aug 2019 13:41:57:  50000000 
+INFO  @ Fri, 02 Aug 2019 13:41:58:  51000000 
+INFO  @ Fri, 02 Aug 2019 13:41:59:  52000000 
+INFO  @ Fri, 02 Aug 2019 13:42:00:  53000000 
+INFO  @ Fri, 02 Aug 2019 13:42:01:  54000000 
+INFO  @ Fri, 02 Aug 2019 13:42:02:  55000000 
+INFO  @ Fri, 02 Aug 2019 13:42:04:  56000000 
+INFO  @ Fri, 02 Aug 2019 13:42:05:  57000000 
+INFO  @ Fri, 02 Aug 2019 13:42:06:  58000000 
+INFO  @ Fri, 02 Aug 2019 13:42:07:  59000000 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #1 tag size is determined as 73 bps 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #1 tag size = 73.0 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #1  total tags in treatment: 188600624 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #1 finished! 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #2 Build Peak Model... 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #2 Skipped... 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #2 Use 73 as fragment length 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #2 Sequencing ends will be shifted towards 5' by 37 bp(s) 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #3 Call peaks... 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #3 Call peaks with given -log10pvalue cutoff: 1.00000 ... 
+INFO  @ Fri, 02 Aug 2019 13:42:23: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Fri, 02 Aug 2019 13:50:04: #3 Call peaks for each chromosome... 
+INFO  @ Fri, 02 Aug 2019 13:52:56: #4 Write output xls file... /home/yuanh/analysis/WI38_ATAC/process/macs2out_pool/hTERT_TP1_omni_peaks.xls 
+INFO  @ Fri, 02 Aug 2019 13:52:59: #4 Write peak in narrowPeak format file... /home/yuanh/analysis/WI38_ATAC/process/macs2out_pool/hTERT_TP1_omni_peaks.narrowPeak 
+INFO  @ Fri, 02 Aug 2019 13:53:02: #4 Write summits bed file... /home/yuanh/analysis/WI38_ATAC/process/macs2out_pool/hTERT_TP1_omni_summits.bed 
+INFO  @ Fri, 02 Aug 2019 13:53:03: Done! 

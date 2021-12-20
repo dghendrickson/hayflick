@@ -1,0 +1,37 @@
+INFO  @ Fri, 26 Jul 2019 14:18:01: 
+# Command line: callpeak -t /home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP7_omni_C_S47_SE.bed -f BED -n hTERT_TP7_omni_C_S47 --outdir /home/yuanh/analysis/WI38_ATAC/process/macs2out/ --keep-dup all -g hs -p 1e-1 --nomodel --shift -37 --extsize 73
+# ARGUMENTS LIST:
+# name = hTERT_TP7_omni_C_S47
+# format = BED
+# ChIP-seq file = ['/home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP7_omni_C_S47_SE.bed']
+# control file = None
+# effective genome size = 2.70e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-01
+# qvalue will not be calculated and reported as -1 in the final output.
+# The maximum gap between significant sites is assigned as the read length/tag size.
+# The minimum length of peaks is assigned as the predicted fragment length "d".
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Paired-End mode is off
+ 
+INFO  @ Fri, 26 Jul 2019 14:18:01: #1 read tag files... 
+INFO  @ Fri, 26 Jul 2019 14:18:01: #1 read treatment tags... 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #1 tag size is determined as 97 bps 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #1 tag size = 97.0 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #1  total tags in treatment: 102290 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #1 finished! 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #2 Build Peak Model... 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #2 Skipped... 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #2 Use 73 as fragment length 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #2 Sequencing ends will be shifted towards 5' by 37 bp(s) 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #3 Call peaks... 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #3 Call peaks with given -log10pvalue cutoff: 1.00000 ... 
+INFO  @ Fri, 26 Jul 2019 14:18:02: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Fri, 26 Jul 2019 14:18:03: #3 Call peaks for each chromosome... 
+INFO  @ Fri, 26 Jul 2019 14:18:03: #4 Write output xls file... /home/yuanh/analysis/WI38_ATAC/process/macs2out/hTERT_TP7_omni_C_S47_peaks.xls 
+INFO  @ Fri, 26 Jul 2019 14:18:04: #4 Write peak in narrowPeak format file... /home/yuanh/analysis/WI38_ATAC/process/macs2out/hTERT_TP7_omni_C_S47_peaks.narrowPeak 
+INFO  @ Fri, 26 Jul 2019 14:18:04: #4 Write summits bed file... /home/yuanh/analysis/WI38_ATAC/process/macs2out/hTERT_TP7_omni_C_S47_summits.bed 
+INFO  @ Fri, 26 Jul 2019 14:18:04: Done! 

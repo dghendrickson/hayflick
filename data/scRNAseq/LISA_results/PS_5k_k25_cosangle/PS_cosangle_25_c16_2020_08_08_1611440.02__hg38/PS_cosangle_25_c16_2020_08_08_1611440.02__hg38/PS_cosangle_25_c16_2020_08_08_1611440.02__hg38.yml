@@ -1,0 +1,22 @@
+background: dynamic_auto_tad
+bigwigs: null
+clean: true
+cluster: false
+covariates: false
+epigenome:
+- DNase
+- H3K27ac
+fastqs: null
+gene_sets: !!python/tuple
+- /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c16_2020_08_08_1611440.02__hg38.txt
+method: all
+model: true
+new_count_h5: null
+new_rp_h5: null
+only_newhdf5: false
+prefix: PS_cosangle_25_c16_2020_08_08_1611440.02__hg38
+random: true
+sample_number: 10
+species: hg38
+stat_background_num: 300
+web: true

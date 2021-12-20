@@ -1,0 +1,17 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 1
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	clean
+	1
+
+[Sat Aug  8 14:34:07 2020]
+rule clean:
+    jobid: 0
+
+[Sat Aug  8 14:34:21 2020]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: /project/Cistrome/LISA/lisa_web/upload/PS_cosangle_25_c6_2020_08_08_1422180.349__hg38/.snakemake/log/2020-08-08T143407.425369.snakemake.log

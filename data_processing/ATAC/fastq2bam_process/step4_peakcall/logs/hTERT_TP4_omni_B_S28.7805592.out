@@ -1,0 +1,135 @@
+INFO  @ Fri, 26 Jul 2019 14:17:44: 
+# Command line: callpeak -t /home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP4_omni_B_S28_SE.bed -f BED -n hTERT_TP4_omni_B_S28 --outdir /home/yuanh/analysis/WI38_ATAC/process/macs2out/ --keep-dup all -g hs -p 1e-1 --nomodel --shift -37 --extsize 73
+# ARGUMENTS LIST:
+# name = hTERT_TP4_omni_B_S28
+# format = BED
+# ChIP-seq file = ['/home/yuanh/analysis/WI38_ATAC/process/shift_bed/hTERT_TP4_omni_B_S28_SE.bed']
+# control file = None
+# effective genome size = 2.70e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-01
+# qvalue will not be calculated and reported as -1 in the final output.
+# The maximum gap between significant sites is assigned as the read length/tag size.
+# The minimum length of peaks is assigned as the predicted fragment length "d".
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Paired-End mode is off
+ 
+INFO  @ Fri, 26 Jul 2019 14:17:44: #1 read tag files... 
+INFO  @ Fri, 26 Jul 2019 14:17:44: #1 read treatment tags... 
+INFO  @ Fri, 26 Jul 2019 14:17:45:  1000000 
+INFO  @ Fri, 26 Jul 2019 14:17:46:  2000000 
+INFO  @ Fri, 26 Jul 2019 14:17:48:  3000000 
+INFO  @ Fri, 26 Jul 2019 14:17:50:  4000000 
+INFO  @ Fri, 26 Jul 2019 14:17:51:  5000000 
+INFO  @ Fri, 26 Jul 2019 14:17:52:  6000000 
+INFO  @ Fri, 26 Jul 2019 14:17:53:  7000000 
+INFO  @ Fri, 26 Jul 2019 14:17:54:  8000000 
+INFO  @ Fri, 26 Jul 2019 14:17:56:  9000000 
+INFO  @ Fri, 26 Jul 2019 14:17:57:  10000000 
+INFO  @ Fri, 26 Jul 2019 14:17:58:  11000000 
+INFO  @ Fri, 26 Jul 2019 14:18:00:  12000000 
+INFO  @ Fri, 26 Jul 2019 14:18:01:  13000000 
+INFO  @ Fri, 26 Jul 2019 14:18:02:  14000000 
+INFO  @ Fri, 26 Jul 2019 14:18:03:  15000000 
+INFO  @ Fri, 26 Jul 2019 14:18:05:  16000000 
+INFO  @ Fri, 26 Jul 2019 14:18:06:  17000000 
+INFO  @ Fri, 26 Jul 2019 14:18:08:  18000000 
+INFO  @ Fri, 26 Jul 2019 14:18:09:  19000000 
+INFO  @ Fri, 26 Jul 2019 14:18:11:  20000000 
+INFO  @ Fri, 26 Jul 2019 14:18:12:  21000000 
+INFO  @ Fri, 26 Jul 2019 14:18:13:  22000000 
+INFO  @ Fri, 26 Jul 2019 14:18:15:  23000000 
+INFO  @ Fri, 26 Jul 2019 14:18:16:  24000000 
+INFO  @ Fri, 26 Jul 2019 14:18:18:  25000000 
+INFO  @ Fri, 26 Jul 2019 14:18:19:  26000000 
+INFO  @ Fri, 26 Jul 2019 14:18:20:  27000000 
+INFO  @ Fri, 26 Jul 2019 14:18:21:  28000000 
+INFO  @ Fri, 26 Jul 2019 14:18:23:  29000000 
+INFO  @ Fri, 26 Jul 2019 14:18:24:  30000000 
+INFO  @ Fri, 26 Jul 2019 14:18:25:  31000000 
+INFO  @ Fri, 26 Jul 2019 14:18:26:  32000000 
+INFO  @ Fri, 26 Jul 2019 14:18:27:  33000000 
+INFO  @ Fri, 26 Jul 2019 14:18:29:  34000000 
+INFO  @ Fri, 26 Jul 2019 14:18:30:  35000000 
+INFO  @ Fri, 26 Jul 2019 14:18:32:  36000000 
+INFO  @ Fri, 26 Jul 2019 14:18:33:  37000000 
+INFO  @ Fri, 26 Jul 2019 14:18:34:  38000000 
+INFO  @ Fri, 26 Jul 2019 14:18:35:  39000000 
+INFO  @ Fri, 26 Jul 2019 14:18:37:  40000000 
+INFO  @ Fri, 26 Jul 2019 14:18:38:  41000000 
+INFO  @ Fri, 26 Jul 2019 14:18:39:  42000000 
+INFO  @ Fri, 26 Jul 2019 14:18:41:  43000000 
+INFO  @ Fri, 26 Jul 2019 14:18:42:  44000000 
+INFO  @ Fri, 26 Jul 2019 14:18:43:  45000000 
+INFO  @ Fri, 26 Jul 2019 14:18:44:  46000000 
+INFO  @ Fri, 26 Jul 2019 14:18:45:  47000000 
+INFO  @ Fri, 26 Jul 2019 14:18:47:  48000000 
+INFO  @ Fri, 26 Jul 2019 14:18:48:  49000000 
+INFO  @ Fri, 26 Jul 2019 14:18:50:  50000000 
+INFO  @ Fri, 26 Jul 2019 14:18:51:  51000000 
+INFO  @ Fri, 26 Jul 2019 14:18:52:  52000000 
+INFO  @ Fri, 26 Jul 2019 14:18:53:  53000000 
+INFO  @ Fri, 26 Jul 2019 14:18:55:  54000000 
+INFO  @ Fri, 26 Jul 2019 14:18:56:  55000000 
+INFO  @ Fri, 26 Jul 2019 14:18:57:  56000000 
+INFO  @ Fri, 26 Jul 2019 14:18:58:  57000000 
+INFO  @ Fri, 26 Jul 2019 14:18:59:  58000000 
+INFO  @ Fri, 26 Jul 2019 14:19:01:  59000000 
+INFO  @ Fri, 26 Jul 2019 14:19:02:  60000000 
+INFO  @ Fri, 26 Jul 2019 14:19:03:  61000000 
+INFO  @ Fri, 26 Jul 2019 14:19:04:  62000000 
+INFO  @ Fri, 26 Jul 2019 14:19:06:  63000000 
+INFO  @ Fri, 26 Jul 2019 14:19:07:  64000000 
+INFO  @ Fri, 26 Jul 2019 14:19:08:  65000000 
+INFO  @ Fri, 26 Jul 2019 14:19:09:  66000000 
+INFO  @ Fri, 26 Jul 2019 14:19:10:  67000000 
+INFO  @ Fri, 26 Jul 2019 14:19:12:  68000000 
+INFO  @ Fri, 26 Jul 2019 14:19:13:  69000000 
+INFO  @ Fri, 26 Jul 2019 14:19:14:  70000000 
+INFO  @ Fri, 26 Jul 2019 14:19:15:  71000000 
+INFO  @ Fri, 26 Jul 2019 14:19:17:  72000000 
+INFO  @ Fri, 26 Jul 2019 14:19:18:  73000000 
+INFO  @ Fri, 26 Jul 2019 14:19:19:  74000000 
+INFO  @ Fri, 26 Jul 2019 14:19:20:  75000000 
+INFO  @ Fri, 26 Jul 2019 14:19:21:  76000000 
+INFO  @ Fri, 26 Jul 2019 14:19:23:  77000000 
+INFO  @ Fri, 26 Jul 2019 14:19:24:  78000000 
+INFO  @ Fri, 26 Jul 2019 14:19:25:  79000000 
+INFO  @ Fri, 26 Jul 2019 14:19:26:  80000000 
+INFO  @ Fri, 26 Jul 2019 14:19:28:  81000000 
+INFO  @ Fri, 26 Jul 2019 14:19:29:  82000000 
+INFO  @ Fri, 26 Jul 2019 14:19:30:  83000000 
+INFO  @ Fri, 26 Jul 2019 14:19:31:  84000000 
+INFO  @ Fri, 26 Jul 2019 14:19:33:  85000000 
+INFO  @ Fri, 26 Jul 2019 14:19:34:  86000000 
+INFO  @ Fri, 26 Jul 2019 14:19:35:  87000000 
+INFO  @ Fri, 26 Jul 2019 14:19:36:  88000000 
+INFO  @ Fri, 26 Jul 2019 14:19:38:  89000000 
+INFO  @ Fri, 26 Jul 2019 14:19:39:  90000000 
+INFO  @ Fri, 26 Jul 2019 14:19:40:  91000000 
+INFO  @ Fri, 26 Jul 2019 14:19:41:  92000000 
+INFO  @ Fri, 26 Jul 2019 14:19:42:  93000000 
+INFO  @ Fri, 26 Jul 2019 14:19:44:  94000000 
+INFO  @ Fri, 26 Jul 2019 14:19:45:  95000000 
+INFO  @ Fri, 26 Jul 2019 14:19:46:  96000000 
+INFO  @ Fri, 26 Jul 2019 14:19:47:  97000000 
+INFO  @ Fri, 26 Jul 2019 14:19:49:  98000000 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #1 tag size is determined as 56 bps 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #1 tag size = 56.0 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #1  total tags in treatment: 98482076 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #1 finished! 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #2 Build Peak Model... 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #2 Skipped... 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #2 Use 73 as fragment length 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #2 Sequencing ends will be shifted towards 5' by 37 bp(s) 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #3 Call peaks... 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #3 Call peaks with given -log10pvalue cutoff: 1.00000 ... 
+INFO  @ Fri, 26 Jul 2019 14:19:58: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Fri, 26 Jul 2019 14:24:07: #3 Call peaks for each chromosome... 
+INFO  @ Fri, 26 Jul 2019 14:25:55: #4 Write output xls file... /home/yuanh/analysis/WI38_ATAC/process/macs2out/hTERT_TP4_omni_B_S28_peaks.xls 
+INFO  @ Fri, 26 Jul 2019 14:25:58: #4 Write peak in narrowPeak format file... /home/yuanh/analysis/WI38_ATAC/process/macs2out/hTERT_TP4_omni_B_S28_peaks.narrowPeak 
+INFO  @ Fri, 26 Jul 2019 14:26:01: #4 Write summits bed file... /home/yuanh/analysis/WI38_ATAC/process/macs2out/hTERT_TP4_omni_B_S28_summits.bed 
+INFO  @ Fri, 26 Jul 2019 14:26:02: Done! 

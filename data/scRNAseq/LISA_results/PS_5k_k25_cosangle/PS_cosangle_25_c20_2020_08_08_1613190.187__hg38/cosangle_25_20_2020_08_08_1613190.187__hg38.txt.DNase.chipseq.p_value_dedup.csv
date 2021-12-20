@@ -1,0 +1,1317 @@
+,pval,species,factor,factor_type,cell_line,cell_type,tissue,qc,TF
+49480|E2F4,5.5210265623006174e-40,Homo sapiens,E2F4,tf,None,Retinal pigment cell,None,1,E2F4
+67455|E2F1,2.2623605255800484e-32,Homo sapiens,E2F1,tf,None,Mesenchymal Stem Cell,Umbilical Cord,1,E2F1
+77534|TFDP1,2.6233478871383877e-31,Homo sapiens,TFDP1,tf,U266B1,None,None,1,TFDP1
+1880|RBL2,9.186848020219447e-28,Homo sapiens,RBL2,both predicted transcription factor and chromatin regulator,IMR90,Fibroblast,Lung,1,RBL2
+1870|RB1,8.44870413224581e-25,Homo sapiens,RB1,tf,IMR90,Fibroblast,Lung,1,RB1
+43572|RNF2,5.048781558188333e-22,Homo sapiens,RNF2,predicted transcription factor,None,Fibroblast,Foreskin,1,RNF2
+72913|HDAC2,1.62685222053124e-19,Homo sapiens,HDAC2,cr,None,Cardiomyocyte,None,1,HDAC2
+8658|HDAC1,7.786042577347597e-17,Homo sapiens,HDAC1,cr,VCaP,Epithelium,Prostate,1,HDAC1
+38698|E2F7,3.571330714781713e-16,Homo sapiens,E2F7,tf,LoVo,None,Colon,1,E2F7
+63655|SIN3A,1.0461580380870858e-15,Homo sapiens,SIN3A,tf,MCF-7,Epithelium,Breast,1,SIN3A
+48824|MBD2,2.693469382902749e-15,Homo sapiens,MBD2,cr,MCF-7,Epithelium,Breast,1,MBD2
+50877|SPI1,3.5388775289967023e-15,Homo sapiens,SPI1,predicted transcription factor,None,None,None,1,SPI1
+58843|XRN2,3.7184862413036795e-15,Homo sapiens,XRN2,not sure,HEK293,Epithelium,Embryonic Kidney,1,XRN2
+73714|AFF1,6.013374041290029e-15,Homo sapiens,AFF1,tf,SEM,B Lymphocyte,None,1,AFF1
+46221|TAF1,1.3289074257671447e-14,Homo sapiens,TAF1,tf,HeLa-S3,Epithelium,Cervix,1,TAF1
+46071|E2F6,1.4204667290261767e-14,Homo sapiens,E2F6,tf,A549,Epithelium,Lung,1,E2F6
+9216|POLR2B,1.6926447395705444e-14,Homo sapiens,POLR2B,tf,HeLa,Epithelium,Cervix,1,POLR2B
+58506|WDR5,2.232951935900359e-14,Homo sapiens,WDR5,cr,BE2-C,Neuroblast,Brain,1,WDR5
+41572|ING2,2.7877325652146914e-14,Homo sapiens,ING2,predicted chromatin regulator,RKO,Epithelium,Colon,1,ING2
+43684|KDM4C,3.8942965675479415e-14,Homo sapiens,KDM4C,cr,KYSE-150,Epitheloid Cell,Esophagus,1,KDM4C
+1312|PHF8,1.0682141459404488e-13,Homo sapiens,PHF8,cr,HeLa,Epithelium,Cervix,0,PHF8
+69874|RELA,1.3257835117365616e-13,Homo sapiens,RELA,tf,None,Th1,None,1,RELA
+69872|AFF4,2.0254196688570786e-13,Homo sapiens,AFF4,tf,None,Th1,None,1,AFF4
+38585|TAF3,2.422413381816698e-13,Homo sapiens,TAF3,cr,None,Epithelium,Colon,1,TAF3
+59170|SETD1A,2.580896487848015e-13,Homo sapiens,SETD1A,predicted chromatin regulator,SEM,Pre-B Lymphocyte,None,1,SETD1A
+45989|MYC,2.781353364373317e-13,Homo sapiens,MYC,tf,MCF-7,Epithelium,Breast,1,MYC
+36230|TTF2,3.137902862546045e-13,Homo sapiens,TTF2,tf,HEK293,Epithelium,Embryonic Kidney,1,TTF2
+42708|ATF2,3.726256353984678e-13,Homo sapiens,ATF2,predicted transcription factor,LoVo,None,Colon,1,ATF2
+73716|KMT2A,3.856302823127641e-13,Homo sapiens,KMT2A,not sure,SEM,B Lymphocyte,None,1,KMT2A
+42720|HOXA4,5.843606415311488e-13,Homo sapiens,HOXA4,tf,LoVo,None,Colon,1,HOXA4
+72405|PARP1,6.149490121734286e-13,Homo sapiens,PARP1,not sure,MCF-7,Human Breast Cancer Cell,Breast,1,PARP1
+45758|NFYB,6.964891008249607e-13,Homo sapiens,NFYB,tf,HeLa-S3,Epithelium,Cervix,1,NFYB
+53346|CDK9,7.083997740863177e-13,Homo sapiens,CDK9,tf,HeLa,Epithelium,Cervix,1,CDK9
+45390|KDM5B,7.975559545123768e-13,Homo sapiens,KDM5B,cr,K562,Erythroblast,Bone Marrow,1,KDM5B
+8482|KAT7,8.485595147305765e-13,Homo sapiens,KAT7,cr,RKO,Epithelium,Colon,1,KAT7
+53673|NIPBL,1.0624555494202655e-12,Homo sapiens,NIPBL,not sure,None,Embryonic Stem Cell,None,1,NIPBL
+8800|SAP30,1.3974483124372178e-12,Homo sapiens,SAP30,not sure,K562,Erythroblast,Bone Marrow,1,SAP30
+71069|MBD3,1.405265233143623e-12,Homo sapiens,MBD3,cr,HeLa,Epithelium,Cervix,1,MBD3
+43400|XBP1,1.4369639786150853e-12,Homo sapiens,XBP1,tf,T47D,Epithelium,Mammary Gland,1,XBP1
+64302|E2F5,1.570921170462411e-12,Homo sapiens,E2F5,,K562,Erythroblast,Bone Marrow,1,E2F5
+394|RBPJ,1.642417501034807e-12,Homo sapiens,RBPJ,tf,CUTLL1,T Lymphocyte,Blood,1,RBPJ
+45650|MAX,1.660784351668991e-12,Homo sapiens,MAX,tf,GM12878,B Lymphocyte,Blood,1,MAX
+74682|FOXO3,1.8765958401682887e-12,Homo sapiens,FOXO3,tf,HepG2,Epithelium,Liver,1,FOXO3
+42738|NFYA,2.3416122967563767e-12,Homo sapiens,NFYA,tf,LoVo,None,Colon,1,NFYA
+43109|BRD4,2.6291986672217866e-12,Homo sapiens,BRD4,cr,CUTLL1,T Lymphocyte,Blood,1,BRD4
+45638|CHD2,3.135179081140758e-12,Homo sapiens,CHD2,cr,GM12878,B Lymphocyte,Blood,1,CHD2
+50163|TBP,3.882046617463661e-12,Homo sapiens,TBP,tf,K562,Erythroblast,Bone Marrow,1,TBP
+63306|CREB1,4.353761165314872e-12,Homo sapiens,CREB1,tf,HepG2,Epithelium,Liver,1,CREB1
+41574|BRD1,4.4985559314203165e-12,Homo sapiens,BRD1,cr,RKO,Epithelium,Colon,1,BRD1
+68223|NR3C1,4.62281358111442e-12,Homo sapiens,NR3C1,tf,BEAS-2B,Epithelium,Lung,1,NR3C1
+34997|FOXM1,4.9618347802014975e-12,Homo sapiens,FOXM1,tf,MDA-MB-231,Epithelium,Breast,1,FOXM1
+68632|KMT2D,5.471758044740406e-12,Homo sapiens,KMT2D,cr,None,patient derived xenograft cells,None,1,KMT2D
+73699|MED1,5.561595845524765e-12,Homo sapiens,MED1,predicted transcription factor,SEM,B Lymphocyte,None,1,MED1
+42212|STAT3,6.906777685261543e-12,Homo sapiens,STAT3,tf,OCI-Ly10,B Lymphocyte,Bone Marrow,1,STAT3
+45770|TFAP2C,9.238803165391641e-12,Homo sapiens,TFAP2C,predicted transcription factor,HeLa-S3,Epithelium,Cervix,1,TFAP2C
+42712|E2F3,1.1508865002195074e-11,Homo sapiens,E2F3,tf,LoVo,None,Colon,1,E2F3
+45949|IRF1,1.3152194013457367e-11,Homo sapiens,IRF1,tf,K562,Erythroblast,Bone Marrow,1,IRF1
+7527|HEY1,1.3507400663771458e-11,Homo sapiens,HEY1,tf,K562,Erythroblast,Bone Marrow,1,HEY1
+47601|KLF5,1.4020510646475482e-11,Homo sapiens,KLF5,tf,KATO III,None,Stomach,1,KLF5
+47416|ERG,1.567701182439668e-11,Homo sapiens,ERG,other,Jurkat,T Lymphocyte,Blood,1,ERG
+55465|NELFA,1.6270623945777068e-11,Homo sapiens,NELFA,not sure,HeLa,Epithelium,Cervix,1,NELFA
+53323|INTS3,1.6886216313978405e-11,Homo sapiens,INTS3,predicted transcription factor,HeLa,Epithelium,Cervix,1,INTS3
+58809|MAF,1.6975998380019122e-11,Homo sapiens,MAF,tf,None,Th2,None,1,MAF
+49493|CDK7,1.7431963050332193e-11,Homo sapiens,CDK7,predicted transcription factor,Jurkat,T Lymphocyte,Blood,1,CDK7
+3273|GATA1,2.0430321470380736e-11,Homo sapiens,GATA1,tf,None,Proerythroblast,Bone Marrow,1,GATA1
+46160|PAX5,2.1199461932093346e-11,Homo sapiens,PAX5,tf,GM12892,Lymphoblastoid,Blood,1,PAX5
+45866|MXI1,2.3309698773499397e-11,Homo sapiens,MXI1,tf,IMR90,Fibroblast,Lung,1,MXI1
+43104|NOTCH1,2.3309698773499397e-11,Homo sapiens,NOTCH1,both predicted transcription factor and chromatin regulator,CUTLL1,T Lymphocyte,Blood,1,NOTCH1
+69807|NELFE,2.3556487716660308e-11,Homo sapiens,NELFE,not sure,MCF-7,Human Breast Cancer Cell,Breast,1,NELFE
+9198|TCF12,2.5625007358283288e-11,Homo sapiens,TCF12,tf,RPMI-8402,T cell leukemia,Blood,1,TCF12
+58939|NRF1,2.7006979573717645e-11,Homo sapiens,NRF1,tf,HCC1954,Epithelium,Mammary Gland,1,NRF1
+56054|ATF1,3.015062972268453e-11,Homo sapiens,ATF1,tf,HepG2,Epithelium,Liver,1,ATF1
+34396|MECP2,4.5045789643601034e-11,Homo sapiens,MECP2,cr,IMR90,Fibroblast,Lung,1,MECP2
+53325|SUPT5H,4.551582178554171e-11,Homo sapiens,SUPT5H,tf,HeLa,Epithelium,Cervix,1,SUPT5H
+64039|HBP1,4.869004485735664e-11,Homo sapiens,HBP1,tf,HepG2,Epithelium,Liver,1,HBP1
+46300|SP1,5.2350501502522566e-11,Homo sapiens,SP1,predicted chromatin regulator,K562,Erythroblast,Bone Marrow,1,SP1
+73701|KDM2B,5.4000393953305973e-11,Homo sapiens,KDM2B,cr,SEM,B Lymphocyte,None,1,KDM2B
+46115|POU2F2,5.541404213945224e-11,Homo sapiens,POU2F2,tf,GM12878,B Lymphocyte,Blood,1,POU2F2
+35517|BCL6,5.7751454329708396e-11,Homo sapiens,BCL6,predicted transcription factor,OCI-Ly1,B cell lymphoma,Bone Marrow,1,BCL6
+74838|JMJD6,6.502141817850253e-11,Homo sapiens,JMJD6,cr,None,3565 cells,None,1,JMJD6
+36842|FOXA1,7.356002400455419e-11,Homo sapiens,FOXA1,tf,MDA-MB-453,Epithelium,Mammary Gland,1,FOXA1
+45421|RBBP5,8.361813164525164e-11,Homo sapiens,RBBP5,cr,K562,Erythroblast,Bone Marrow,1,RBBP5
+45767|HCFC1,8.982519438798181e-11,Homo sapiens,HCFC1,tf,HeLa-S3,Epithelium,Cervix,1,HCFC1
+46278|ETS1,9.028538972452864e-11,Homo sapiens,ETS1,tf,K562,Erythroblast,Bone Marrow,1,ETS1
+50413|KLF11,9.357188188555844e-11,Homo sapiens,KLF11,tf,hMADS-3,Adipocyte,Adipose,1,KLF11
+76520|BPTF,1.0468012113066372e-10,Homo sapiens,BPTF,tf,None,Erythroid Cell,None,1,BPTF
+42722|HOXA6,1.0521452890655536e-10,Homo sapiens,HOXA6,tf,LoVo,None,Colon,1,HOXA6
+36841|TCF7L2,1.3089522961843992e-10,Homo sapiens,TCF7L2,tf,MDA-MB-453,Epithelium,Mammary Gland,1,TCF7L2
+74357|NEUROD1,1.3289944376269374e-10,Homo sapiens,NEUROD1,tf,D-341,None,None,1,NEUROD1
+36226|DCP1A,1.3561840851663574e-10,Homo sapiens,DCP1A,tf,HEK293,Epithelium,Embryonic Kidney,1,DCP1A
+70731|FOXK1,1.5861431686825082e-10,Homo sapiens,FOXK1,tf,HEK293,HEK 293 Cell Line,None,1,FOXK1
+53493|SOX9,1.6431150089441829e-10,Homo sapiens,SOX9,tf,HT29,Epithelium,Colon,1,SOX9
+65056|TGIF2,1.6597564172515997e-10,Homo sapiens,TGIF2,tf,HepG2,Epithelium,Liver,1,TGIF2
+53300|RARA,1.6935343913316002e-10,Homo sapiens,RARA,tf,TSU-1621-MT,None,None,1,RARA
+55543|RAG2,1.7193074119755816e-10,Homo sapiens,RAG2,cr,None,Thymocyte,None,1,RAG2
+37057|FLI1,1.92037069012986e-10,Homo sapiens,FLI1,tf,U937,None,Pleura,1,FLI1
+76682|ASXL1,1.9397480571218168e-10,Homo sapiens,ASXL1,tf,HEK293,None,None,1,ASXL1
+53076|RBP2,1.989030362998554e-10,Homo sapiens,RBP2,other,U937,None,Pleura,1,RBP2
+40164|RUNX1T1,2.1986732942999895e-10,Homo sapiens,RUNX1T1,tf,Kasumi-1,Myeloblast,Blood,1,RUNX1T1
+45761|MAZ,2.2656675795895116e-10,Homo sapiens,MAZ,tf,HeLa-S3,Epithelium,Cervix,1,MAZ
+70095|TET2,2.4177289638281634e-10,Homo sapiens,TET2,cr,293T,None,None,1,TET2
+67768|NFE2,2.766050253138777e-10,Homo sapiens,NFE2,tf,F5,Erythroid Progenitor Cell,Fetal Liver,1,NFE2
+55338|SUMO2,2.8926911680830327e-10,Homo sapiens,SUMO2,other,K562,Erythroblast,Bone Marrow,1,SUMO2
+37621|CBFB,2.921592582063346e-10,Homo sapiens,CBFB,predicted transcription factor,U937,None,Pleura,1,CBFB
+56961|GTF2B,3.1475190119073307e-10,Homo sapiens,GTF2B,tf,HeLa,Epithelium,Cervix,1,GTF2B
+62610|H2AFZ,3.373709504561328e-10,Homo sapiens,H2AFZ,,MCF-7,Epithelium,Breast,1,H2AFZ
+8412|GATA2,3.633651254049906e-10,Homo sapiens,GATA2,tf,None,Haematopoietic Progenitor Cell,Blood,1,GATA2
+68456|USF1,3.9130940072915287e-10,Homo sapiens,USF1,tf,None,Erythroid Cell,None,1,USF1
+64560|SP2,4.469835046238613e-10,Homo sapiens,SP2,predicted chromatin regulator,HEK293,Epithelium,Embryonic Kidney,1,SP2
+8816|KDM4A,5.601185479463022e-10,Homo sapiens,KDM4A,cr,H1,Embryonic Stem Cell,Embryo,1,KDM4A
+46323|ELF1,6.32854427359121e-10,Homo sapiens,ELF1,tf,MCF-7,Epithelium,Breast,1,ELF1
+56379|CDK8,6.644585298616087e-10,Homo sapiens,CDK8,tf,K562,Erythroblast,Bone Marrow,1,CDK8
+55667|PAF1,7.323488836582695e-10,Homo sapiens,PAF1,not sure,HCT-116,None,Colon,1,PAF1
+46301|PML,7.576716088863059e-10,Homo sapiens,PML,tf,K562,Erythroblast,Bone Marrow,1,PML
+43050|BRD3,7.953328304765907e-10,Homo sapiens,BRD3,predicted chromatin regulator,MM1.S,B Lymphocyte,Blood,1,BRD3
+46237|GABPA,8.976457168252867e-10,Homo sapiens,GABPA,tf,HepG2,Epithelium,Liver,1,GABPA
+49481|RPE,9.604293383554985e-10,Homo sapiens,RPE,other,None,Retinal pigment cell,None,1,RPE
+74349|OTX2,9.697406741286335e-10,Homo sapiens,OTX2,tf,D-341,None,None,1,OTX2
+50372|SUZ12,1.0274837230973506e-09,Homo sapiens,SUZ12,cr,None,Proerythroblast,Fetal Liver,1,SUZ12
+51103|CHD8,1.0626998576531203e-09,Homo sapiens,CHD8,cr,None,Neural Stem Cell,None,1,CHD8
+63757|ZBTB33,1.0990907807466409e-09,Homo sapiens,ZBTB33,tf,None,None,Liver,1,ZBTB33
+39350|KLF1,1.1699214104644273e-09,Homo sapiens,KLF1,predicted transcription factor,None,Erythroid Cell,None,1,KLF1
+63155|GABP,1.1812058276909668e-09,Homo sapiens,GABP,,HepG2,Epithelium,Liver,1,GABP
+36804|NR2F2,1.2392372418391675e-09,Homo sapiens,NR2F2,tf,MCF-7,Epithelium,Breast,1,NR2F2
+48755|CBX8,1.26321924686222e-09,Homo sapiens,CBX8,cr,PC-3,Epithelium,Prostate,1,CBX8
+33679|GATA3,1.3834462952551765e-09,Homo sapiens,GATA3,tf,None,Th1,None,1,GATA3
+76965|CNOT3,1.3967317844910436e-09,Homo sapiens,CNOT3,tf,None,None,Snap-frozen tissue,1,CNOT3
+73696|LEO1,1.4511271732988033e-09,Homo sapiens,LEO1,predicted chromatin regulator,SEM,B Lymphocyte,None,1,LEO1
+68966|PR,1.4650450937735089e-09,Homo sapiens,PR,predicted transcription factor,T47D,None,Breast,1,PR
+46260|REST,1.536607684232438e-09,Homo sapiens,REST,tf,HL-60,Promyeloblast,Blood,1,REST
+74432|TFAP4,1.5736540627299255e-09,Homo sapiens,TFAP4,,SNU175,Colorectal cancer cell line,None,1,TFAP4
+35878|BRD2,2.2139909028995485e-09,Homo sapiens,BRD2,predicted chromatin regulator,HEK293,Epithelium,Embryonic Kidney,1,BRD2
+36845|AR,2.467488740386445e-09,Homo sapiens,AR,tf,MDA-MB-453,Epithelium,Mammary Gland,1,AR
+46195|TAF7,2.562113851173921e-09,Homo sapiens,TAF7,predicted transcription factor,H1,Embryonic Stem Cell,Embryo,1,TAF7
+70759|OGT,2.5741874115203154e-09,Homo sapiens,OGT,other,HEK293,HEK 293 Cell Line,None,1,OGT
+43099|RUNX1,2.5863163212611497e-09,Homo sapiens,RUNX1,tf,CUTLL1,T Lymphocyte,Blood,1,RUNX1
+36819|ESR1,2.68536995394949e-09,Homo sapiens,ESR1,tf,MCF-7,Epithelium,Breast,1,ESR1
+48576|KDM6B,2.7491424578608113e-09,Homo sapiens,KDM6B,cr,CUTLL1,T Lymphocyte,Blood,1,KDM6B
+42775|NPAT,2.7620726063791658e-09,Homo sapiens,NPAT,tf,LoVo,None,Colon,1,NPAT
+63295|ZNF335,2.867665647416253e-09,Homo sapiens,ZNF335,tf,HEK293,Epithelium,Embryonic Kidney,1,ZNF335
+63407|POLR2AphosphoS5,2.9356445566385035e-09,Homo sapiens,POLR2AphosphoS5,,None,iPSC,None,1,POLR2AphosphoS5
+65156|ZSCAN22,2.9356445566385035e-09,Homo sapiens,ZSCAN22,,HEK293,Epithelium,Embryonic Kidney,1,ZSCAN22
+42637|CREBBP,3.4252755716091135e-09,Homo sapiens,CREBBP,cr,HEK293,Epithelium,Embryonic Kidney,1,CREBBP
+74681|SMAD4,3.639223756639973e-09,Homo sapiens,SMAD4,predicted transcription factor,HepG2,Epithelium,Liver,1,SMAD4
+43305|CDK6,3.866145237265948e-09,Homo sapiens,CDK6,predicted transcription factor,None,None,None,1,CDK6
+49447|HIF1A,3.920433672684503e-09,Homo sapiens,HIF1A,predicted chromatin regulator,T47D,Epithelium,Mammary Gland,1,HIF1A
+64798|CREM,4.087784033781764e-09,Homo sapiens,CREM,tf,HepG2,Epithelium,Liver,1,CREM
+72878|MYF5,4.382255040326791e-09,Homo sapiens,MYF5,tf,Rh18,rhabdomyosarcoma,None,1,MYF5
+74907|POLR3D,4.5266357001846725e-09,Homo sapiens,POLR3D,tf,THP-1,Macrophage,None,1,POLR3D
+45793|SREBF1,4.74094352446593e-09,Homo sapiens,SREBF1,tf,HepG2,Epithelium,Liver,1,SREBF1
+65204|YY1,5.151812748462699e-09,Homo sapiens,YY1,tf,HEK293,Epithelium,Embryonic Kidney,1,YY1
+74052|NKX2-1,5.175626169657553e-09,Homo sapiens,NKX2-1,tf,A549,Epithelium,Lung,1,NKX2-1
+62840|SP3,5.914693145005071e-09,Homo sapiens,SP3,tf,HEK293,Epithelium,Embryonic Kidney,1,SP3
+50107|CHRM2,6.9757491723300245e-09,Homo sapiens,CHRM2,predicted chromatin regulator,U937,None,Pleura,1,CHRM2
+70804|TCF7L1,7.783531485464557e-09,Homo sapiens,TCF7L1,tf,HCT-116,Colon cancer cell,Colon,1,TCF7L1
+52087|TRIM28,8.035775076915486e-09,Homo sapiens,TRIM28,cr,None,Hematopoietic Stem Cell,None,1,TRIM28
+50573|MYB,8.333780133200078e-09,Homo sapiens,MYB,tf,None,None,None,1,MYB
+68051|NFKB1,8.921730403885344e-09,Homo sapiens,NFKB1,tf,L1236,Hodgkin Lymphoma Cell,None,1,NFKB1
+64866|ZFX,1.0174758956253342e-08,Homo sapiens,ZFX,predicted transcription factor,K562,Erythroblast,Bone Marrow,1,ZFX
+5570|POLR2M,1.0174758956253342e-08,Homo sapiens,POLR2M,tf,HeLa,Epithelium,Cervix,1,POLR2M
+38865|E2F2,1.1136771340148992e-08,Homo sapiens,E2F2,tf,LoVo,None,Colon,1,E2F2
+2110|PRAME,1.1650325031546602e-08,Homo sapiens,PRAME,not sure,K562,Erythroblast,Bone Marrow,1,PRAME
+38724|GMEB2,1.1755759213840456e-08,Homo sapiens,GMEB2,tf,LoVo,None,Colon,1,GMEB2
+71042|ZNF143,1.1915648960311263e-08,Homo sapiens,ZNF143,predicted transcription factor,MCF-7,MCF 7 Cells,None,1,ZNF143
+46295|ZBTB7A,1.4388359004036727e-08,Homo sapiens,ZBTB7A,predicted transcription factor,K562,Erythroblast,Bone Marrow,1,ZBTB7A
+52153|FAIRE,1.587543504599306e-08,Homo sapiens,FAIRE,other,None,Macrophage,None,1,FAIRE
+45683|GTF2F1,1.6161379343769278e-08,Homo sapiens,GTF2F1,tf,H1,Embryonic Stem Cell,Embryo,1,GTF2F1
+38784|RFX1,1.6748332646463545e-08,Homo sapiens,RFX1,tf,LoVo,None,Colon,1,RFX1
+45959|FOS,1.8226422479727416e-08,Homo sapiens,FOS,tf,K562,Erythroblast,Bone Marrow,1,FOS
+9319|SMC1A,1.9054405823271085e-08,Homo sapiens,SMC1A,predicted chromatin regulator,LCL,Lymphoblastoid,Blood,1,SMC1A
+51864|HSF1,2.0821199140661533e-08,Homo sapiens,HSF1,tf,451Lu,Melanoma Cell,None,1,HSF1
+46211|SRF,2.215141064065197e-08,Homo sapiens,SRF,tf,HCT-116,None,Colon,1,SRF
+64913|BCL3,2.234804228377303e-08,Homo sapiens,BCL3,tf,A549,Epithelium,Lung,1,BCL3
+63097|SMAD5,2.7008986327159577e-08,Homo sapiens,SMAD5,tf,GM12878,B Lymphocyte,Blood,1,SMAD5
+1345|SMARCB1,2.8594736726333433e-08,Homo sapiens,SMARCB1,cr,HeLa,Epithelium,Cervix,1,SMARCB1
+1013|FOXP1,2.8846570951506334e-08,Homo sapiens,FOXP1,tf,H9,Embryonic Stem Cell,Embryo,1,FOXP1
+45730|RFX5,3.04033213896792e-08,Homo sapiens,RFX5,tf,HeLa-S3,Epithelium,Cervix,1,RFX5
+955|NANOG,3.3325632313534134e-08,Homo sapiens,NANOG,tf,H1,Embryonic Stem Cell,Embryo,1,NANOG
+52684|FOXA2,3.966265638132931e-08,Homo sapiens,FOXA2,tf,CyT49,Embryonic Stem Cell,Embryo,1,FOXA2
+38496|RBL1,4.0708644068905915e-08,Homo sapiens,RBL1,both predicted transcription factor and chromatin regulator,IMR90,Fibroblast,Lung,1,RBL1
+64107|KDM4B,4.1420756628152876e-08,Homo sapiens,KDM4B,cr,K562,Erythroblast,Bone Marrow,1,KDM4B
+75284|ZBTB48,4.196274185032398e-08,Homo sapiens,ZBTB48,,HeLa,None,None,1,ZBTB48
+33934|CTCF,4.214492483205202e-08,Homo sapiens,CTCF,tf,MM1.S,B Lymphocyte,Blood,1,CTCF
+49002|ELL2,4.3441821981787775e-08,Homo sapiens,ELL2,predicted chromatin regulator,HeLa,Epithelium,Cervix,1,ELL2
+38653|MED12,4.381940648591963e-08,Homo sapiens,MED12,predicted transcription factor,LoVo,None,Colon,1,MED12
+46232|JUND,4.595360015949835e-08,Homo sapiens,JUND,tf,HepG2,Epithelium,Liver,1,JUND
+73984|CD34,4.7363753513447196e-08,Homo sapiens,CD34,other,None,None,Thymus,1,CD34
+46132|EGR1,4.8605720164568505e-08,Homo sapiens,EGR1,tf,GM12878,B Lymphocyte,Blood,1,EGR1
+41573|ING5,5.297745709837972e-08,Homo sapiens,ING5,predicted chromatin regulator,RKO,Epithelium,Colon,1,ING5
+37354|JUN,6.397578160901322e-08,Homo sapiens,JUN,tf,A549,Epithelium,Lung,1,JUN
+45895|CCNT2,7.333022479019303e-08,Homo sapiens,CCNT2,tf,K562,Erythroblast,Bone Marrow,1,CCNT2
+46230|CEBPD,7.5546181861334e-08,Homo sapiens,CEBPD,tf,HepG2,Epithelium,Liver,1,CEBPD
+69884|T,7.716851348638272e-08,Homo sapiens,T,tf,None,Th1,None,1,T
+45920|HMGN3,1.0158086669509822e-07,Homo sapiens,HMGN3,tf,K562,Erythroblast,Bone Marrow,1,HMGN3
+46306|THAP1,1.0639113035559764e-07,Homo sapiens,THAP1,tf,K562,Erythroblast,Bone Marrow,1,THAP1
+72366|TCF4,1.1048984054271159e-07,Homo sapiens,TCF4,tf,Gen2.2,Plasmacytoid dendritic cell,None,1,TCF4
+46358|PBX3,1.2686416465581788e-07,Homo sapiens,PBX3,tf,SK-N-SH,Neuroblastoma cell,Brain,1,PBX3
+76673|ZMYND8,1.3172202053601398e-07,Homo sapiens,ZMYND8,cr,DU145,Epithelium,Prostate,1,ZMYND8
+48277|CEBPA,1.3675931418562464e-07,Homo sapiens,CEBPA,tf,GM12878,B Lymphocyte,Blood,1,CEBPA
+63362|C11orf30,1.480117965141722e-07,Homo sapiens,C11orf30,,K562,Erythroblast,Bone Marrow,1,C11orf30
+37625|MYH11,1.5752179299320006e-07,Homo sapiens,MYH11,not sure,U937,None,Pleura,1,MYH11
+45736|BRCA1,1.6350814569072864e-07,Homo sapiens,BRCA1,predicted chromatin regulator,HeLa-S3,Epithelium,Cervix,1,BRCA1
+64581|CBX1,1.8206165539370557e-07,Homo sapiens,CBX1,cr,HepG2,Epithelium,Liver,1,CBX1
+45775|STAT1,1.866232905431859e-07,Homo sapiens,STAT1,tf,HeLa-S3,Epithelium,Cervix,1,STAT1
+69201|TRIM24,1.889452773048829e-07,Homo sapiens,TRIM24,both predicted transcription factor and chromatin regulator,LNCaP,Epithelium,Prostate,1,TRIM24
+45789|CEBPB,1.960797392979697e-07,Homo sapiens,CEBPB,tf,HepG2,Epithelium,Liver,1,CEBPB
+52092|TP53,2.0015493451348011e-07,Homo sapiens,TP53,predicted transcription factor,IMR90,Fibroblast,Lung,1,TP53
+63410|CBX5,2.0180779161183407e-07,Homo sapiens,CBX5,cr,GM12878,B Lymphocyte,Blood,1,CBX5
+45753|TFAP2A,2.8215482141089514e-07,Homo sapiens,TFAP2A,predicted transcription factor,HeLa-S3,Epithelium,Cervix,1,TFAP2A
+45742|KAT2B,2.8561408556374137e-07,Homo sapiens,KAT2B,predicted chromatin regulator,HeLa-S3,Epithelium,Cervix,1,KAT2B
+63525|ZFP2,2.9623894691774675e-07,Homo sapiens,ZFP2,,HEK293,Epithelium,Embryonic Kidney,1,ZFP2
+71322|RAD21,2.9744273895399873e-07,Homo sapiens,RAD21,not sure,HCT-116,Colon cancer cell,Colon,1,RAD21
+38658|SOX2,3.2646775564303607e-07,Homo sapiens,SOX2,tf,LoVo,None,Colon,1,SOX2
+62762|PKNOX1,3.654972078278892e-07,Homo sapiens,PKNOX1,tf,K562,Erythroblast,Bone Marrow,1,PKNOX1
+49010|CPSF3L,3.744270290565258e-07,Homo sapiens,CPSF3L,other,HeLa,Epithelium,Cervix,1,CPSF3L
+46340|FOXP2,3.8202875720953385e-07,Homo sapiens,FOXP2,tf,SK-N-MC,None,Brain,1,FOXP2
+65110|SP4,3.913471726889301e-07,Homo sapiens,SP4,tf,HEK293,Epithelium,Embryonic Kidney,1,SP4
+8807|CHD1,4.122940538177436e-07,Homo sapiens,CHD1,predicted chromatin regulator,H1,Embryonic Stem Cell,Embryo,1,CHD1
+38824|MNT,4.172791028575578e-07,Homo sapiens,MNT,tf,LoVo,None,Colon,1,MNT
+47598|GATA4,4.574739611076675e-07,Homo sapiens,GATA4,tf,AGS,Epithelium,Stomach,1,GATA4
+63814|L3MBTL2,4.723093773531124e-07,Homo sapiens,L3MBTL2,predicted chromatin regulator,K562,Erythroblast,Bone Marrow,1,L3MBTL2
+42774|NFYC,4.7419605262896397e-07,Homo sapiens,NFYC,tf,LoVo,None,Colon,1,NFYC
+46243|FOSL2,4.798997125953741e-07,Homo sapiens,FOSL2,tf,HepG2,Epithelium,Liver,1,FOSL2
+72356|TAL1,5.13489125522315e-07,Homo sapiens,TAL1,tf,Kasumi-1,Acute myeloid leukemia,None,1,TAL1
+46131|RUNX3,5.300682306971264e-07,Homo sapiens,RUNX3,tf,GM12878,B Lymphocyte,Blood,1,RUNX3
+42715|GLI2,5.321764895221363e-07,Homo sapiens,GLI2,tf,LoVo,None,Colon,1,GLI2
+44562|EMX1,5.44996528776052e-07,Homo sapiens,EMX1,tf,293FT,None,Embryonic Kidney,1,EMX1
+63902|ZXDB,5.603289974029253e-07,Homo sapiens,ZXDB,,HEK293,Epithelium,Embryonic Kidney,1,ZXDB
+65197|KLF15,5.670263665139378e-07,Homo sapiens,KLF15,tf,HEK293,Epithelium,Embryonic Kidney,1,KLF15
+46125|RXRA,6.259138743649687e-07,Homo sapiens,RXRA,tf,GM12878,B Lymphocyte,Blood,1,RXRA
+1219|GATAD1,6.666433012844943e-07,Homo sapiens,GATAD1,predicted chromatin regulator,HeLa,Epithelium,Cervix,1,GATAD1
+1228|CCDC101,7.829820230740124e-07,Homo sapiens,CCDC101,cr,HeLa,Epithelium,Cervix,1,CCDC101
+276|SMAD3,8.498956639800772e-07,Homo sapiens,SMAD3,tf,BG03,Embryonic Stem Cell,Embryo,1,SMAD3
+46241|MYBL2,9.331005306033098e-07,Homo sapiens,MYBL2,tf,HepG2,Epithelium,Liver,1,MYBL2
+46123|MEF2A,9.440356373218675e-07,Homo sapiens,MEF2A,tf,GM12878,B Lymphocyte,Blood,1,MEF2A
+59001|JMJD1C,1.0044672410733695e-06,Homo sapiens,JMJD1C,predicted chromatin regulator,HL-60,Promyeloblast,Blood,1,JMJD1C
+8532|VEZF1,1.0644843120343675e-06,Homo sapiens,VEZF1,tf,HeLa-S3,Epithelium,Cervix,1,VEZF1
+62800|KLF9,1.097886664022183e-06,Homo sapiens,KLF9,tf,MCF-7,Epithelium,Breast,1,KLF9
+76496|BRPF3,1.149884121119267e-06,Homo sapiens,BRPF3,other,RKO,Epithelium,Colon,1,BRPF3
+40215|IRF4,1.163248347028944e-06,Homo sapiens,IRF4,predicted transcription factor,None,B Lymphocyte,Blood,1,IRF4
+46245|ZEB1,1.2904281358948457e-06,Homo sapiens,ZEB1,tf,HepG2,Epithelium,Liver,1,ZEB1
+68828|HEXIM1,1.3306058334224311e-06,Homo sapiens,HEXIM1,other,A375,melanoma,None,1,HEXIM1
+41831|ZBTB17,1.4091976828608515e-06,Homo sapiens,ZBTB17,tf,MDA-MD-231,Epithelium,Mammary Gland,1,ZBTB17
+46209|CBX3,1.4254418135662683e-06,Homo sapiens,CBX3,cr,HCT-116,None,Colon,1,CBX3
+63477|POLR2H,1.4529153784421272e-06,Homo sapiens,POLR2H,,K562,Erythroblast,Bone Marrow,1,POLR2H
+50434|ELK3,1.5799516173598455e-06,Homo sapiens,ELK3,tf,None,Endothelial Cell,Umbilical Vein,1,ELK3
+64317|ETV4,1.967984837122289e-06,Homo sapiens,ETV4,tf,HepG2,Epithelium,Liver,1,ETV4
+63302|NKRF,1.9754163058610483e-06,Homo sapiens,NKRF,,K562,Erythroblast,Bone Marrow,1,NKRF
+55779|CTCFL,2.145879368280397e-06,Homo sapiens,CTCFL,predicted transcription factor,Ovcar8,None,None,1,CTCFL
+64290|ZBTB11,2.1620564755628405e-06,Homo sapiens,ZBTB11,,K562,Erythroblast,Bone Marrow,1,ZBTB11
+63689|GLIS1,2.295746773415248e-06,Homo sapiens,GLIS1,tf,HEK293,Epithelium,Embryonic Kidney,1,GLIS1
+65147|EGR2,2.665504928900564e-06,Homo sapiens,EGR2,tf,HEK293,Epithelium,Embryonic Kidney,1,EGR2
+73854|LMO1,2.9466283213947614e-06,Homo sapiens,LMO1,not sure,Jurkat,T Lymphocyte,Blood,1,LMO1
+65120|ZBTB26,3.353482119886875e-06,Homo sapiens,ZBTB26,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB26
+45777|RCOR1,3.898497472338865e-06,Homo sapiens,RCOR1,both predicted transcription factor and chromatin regulator,HeLa-S3,Epithelium,Cervix,1,RCOR1
+42800|STAT2,4.413736135187377e-06,Homo sapiens,STAT2,predicted transcription factor,LoVo,None,Colon,1,STAT2
+72426|ORC2,4.47846498702498e-06,Homo sapiens,ORC2,tf,K562,Erythroblast,Bone Marrow,1,ORC2
+76529|MBTD1,4.798513387494224e-06,Homo sapiens,MBTD1,other,K562,Lymphoblast,None,1,MBTD1
+45632|BHLHE40,4.833446017686953e-06,Homo sapiens,BHLHE40,predicted transcription factor,GM12878,B Lymphocyte,Blood,1,BHLHE40
+63825|GLIS2,5.585286558201088e-06,Homo sapiens,GLIS2,tf,HEK293,Epithelium,Embryonic Kidney,1,GLIS2
+68455|USF2,5.873877638554117e-06,Homo sapiens,USF2,tf,None,Erythroid Cell,None,0,USF2
+56817|NR2F1,6.243462131889215e-06,Homo sapiens,NR2F1,tf,None,Neural crest cell,Cranial,1,NR2F1
+48339|SNAI2,6.4249656446946574e-06,Homo sapiens,SNAI2,tf,None,Keratinocyte,None,1,SNAI2
+71747|SOX4,7.1769863725626325e-06,Homo sapiens,SOX4,tf,None,Fibroblast,Fetal Lung,1,SOX4
+63322|ELK1,7.6242945641769945e-06,Homo sapiens,ELK1,tf,K562,Erythroblast,Bone Marrow,1,ELK1
+1214|ELK4,7.984159512015379e-06,Homo sapiens,ELK4,tf,HeLa-S3,Epithelium,Cervix,1,ELK4
+65146|ZBTB14,8.783978145459166e-06,Homo sapiens,ZBTB14,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB14
+5194|HMGN1,8.846166546380087e-06,Homo sapiens,HMGN1,both predicted transcription factor and chromatin regulator,None,T Lymphocyte,Blood,1,HMGN1
+74686|KLF10,9.458253507488437e-06,Homo sapiens,KLF10,tf,HepG2,Epithelium,Liver,1,KLF10
+65186|EGR3,9.79640028123506e-06,Homo sapiens,EGR3,,HEK293,Epithelium,Embryonic Kidney,1,EGR3
+1082|SMAD2/3,1.0325285687366928e-05,Homo sapiens,SMAD2/3,tf,H9,Embryonic Stem Cell,Embryo,1,SMAD2/3
+8564|TBL1X,1.0361494666986896e-05,Homo sapiens,TBL1X,cr,HEK293T,Epithelium,Embryonic Kidney,1,TBL1X
+35087|BCOR,1.1150400836433403e-05,Homo sapiens,BCOR,both predicted transcription factor and chromatin regulator,None,B Lymphocyte,None,1,BCOR
+64298|NFE2L2,1.146571480631968e-05,Homo sapiens,NFE2L2,tf,HeLa-S3,Epithelium,Cervix,1,NFE2L2
+33988|TET3,1.146571480631968e-05,Homo sapiens,TET3,cr,HEK293T,Epithelium,Embryonic Kidney,1,TET3
+76469|PHF2,1.2463363489675287e-05,Homo sapiens,PHF2,tf,None,Mesenchymal Cell,None,1,PHF2
+62937|ZBTB40,1.2769559258602562e-05,Homo sapiens,ZBTB40,,GM12878,B Lymphocyte,Blood,1,ZBTB40
+64395|NR2C2,1.3826797211943355e-05,Homo sapiens,NR2C2,tf,K562,Erythroblast,Bone Marrow,1,NR2C2
+45748|IRF3,1.4460650500677453e-05,Homo sapiens,IRF3,tf,HeLa-S3,Epithelium,Cervix,1,IRF3
+52170|PRDM11,1.4864341229123374e-05,Homo sapiens,PRDM11,tf,U-2932,B Lymphocyte,None,1,PRDM11
+356|CDX2,1.6363259173548314e-05,Homo sapiens,CDX2,tf,Caco-2,Epithelium,Colon,1,CDX2
+75942|KDM1A,1.8819408037311588e-05,Homo sapiens,KDM1A,cr,PC-3M-luc,None,Prostate,1,KDM1A
+77256|ZXDC,1.9206945790960468e-05,Homo sapiens,ZXDC,tf,MCF-7,None,None,1,ZXDC
+77300|TRIM25,1.927226738968334e-05,Homo sapiens,TRIM25,,BT-549,None,Breast,1,TRIM25
+54609|YAP1,1.966864691426972e-05,Homo sapiens,YAP1,other,SF268,None,None,1,YAP1
+65123|ZFP64,2.0415519751360267e-05,Homo sapiens,ZFP64,,HEK293,Epithelium,Embryonic Kidney,1,ZFP64
+62931|ZNF341,2.076383285910282e-05,Homo sapiens,ZNF341,,HEK293,Epithelium,Embryonic Kidney,1,ZNF341
+1208|DDX5,2.147744547009801e-05,Homo sapiens,DDX5,predicted chromatin regulator,HeLa,Epithelium,Cervix,1,DDX5
+6710|SRC,2.236450004410568e-05,Homo sapiens,SRC,not sure,OCI-Ly2,Epithelium,Mammary Gland,1,SRC
+45790|HNF4A,2.3130146262521724e-05,Homo sapiens,HNF4A,tf,HepG2,Epithelium,Liver,1,HNF4A
+39918|ZC3H8,2.416269274009408e-05,Homo sapiens,ZC3H8,tf,HCT-116,None,Colon,1,ZC3H8
+41788|EZH2,2.4407102364712124e-05,Homo sapiens,EZH2,cr,None,iPSC,None,1,EZH2
+46210|TEAD4,2.4489091746416266e-05,Homo sapiens,TEAD4,tf,HCT-116,None,Colon,1,TEAD4
+49669|PROX1,2.6097389750658116e-05,Homo sapiens,PROX1,tf,SW480,None,Colon,1,PROX1
+59168|MLLT1,2.6184750917634038e-05,Homo sapiens,MLLT1,not sure,SEM,Pre-B Lymphocyte,None,1,MLLT1
+42714|ETV5,2.6272389162744485e-05,Homo sapiens,ETV5,tf,LoVo,None,Colon,1,ETV5
+53630|STAT5B,2.855584891912525e-05,Homo sapiens,STAT5B,tf,None,T Lymphocyte,Blood,1,STAT5B
+73297|LARP7,3.249699844592932e-05,Homo sapiens,LARP7,predicted transcription factor,HeLa,Epithelium,Cervix,1,LARP7
+68309|NR4A1,3.5755615924005265e-05,Homo sapiens,NR4A1,tf,Kasumi-1,Acute myeloid leukemia,None,1,NR4A1
+68464|ATF3,3.719244249988972e-05,Homo sapiens,ATF3,predicted transcription factor,HCT-116,Colon cancer cell,Colon,1,ATF3
+38719|DLX1,3.743715947369899e-05,Homo sapiens,DLX1,tf,LoVo,None,Colon,1,DLX1
+42482|STAG1,3.85573510385531e-05,Homo sapiens,STAG1,not sure,GM19239,Lymphoblastoid,Blood,1,STAG1
+41793|JARID2,4.116116591573203e-05,Homo sapiens,JARID2,cr,None,iPSC,None,1,JARID2
+565|VDR,4.252456564286274e-05,Homo sapiens,VDR,tf,GM10861,Lymphocyte,Blood,1,VDR
+74663|ZNF18,4.6271871230364644e-05,Homo sapiens,ZNF18,,K562,Erythroblast,Bone Marrow,1,ZNF18
+64919|IKZF1,4.6422048722252704e-05,Homo sapiens,IKZF1,tf,K562,Erythroblast,Bone Marrow,1,IKZF1
+71067|GATAD2B,4.779451595833308e-05,Homo sapiens,GATAD2B,,HeLa,Epithelium,Cervix,1,GATAD2B
+46142|SIX5,4.810466882557067e-05,Homo sapiens,SIX5,predicted transcription factor,GM12878,B Lymphocyte,Blood,1,SIX5
+45958|ZNF263,6.004586760345594e-05,Homo sapiens,ZNF263,predicted transcription factor,K562,Erythroblast,Bone Marrow,1,ZNF263
+63132|PBX2,6.258798088408796e-05,Homo sapiens,PBX2,tf,K562,Erythroblast,Bone Marrow,1,PBX2
+39920|ICE1,6.754976469512696e-05,Homo sapiens,ICE1,other,HCT-116,None,Colon,1,ICE1
+64092|KLF8,7.835871014502851e-05,Homo sapiens,KLF8,,HEK293,Epithelium,Embryonic Kidney,1,KLF8
+59344|EBF1,8.448692264265156e-05,Homo sapiens,EBF1,tf,MutuI,B Lymphocyte,None,1,EBF1
+62946|ZNF766,9.482446914902021e-05,Homo sapiens,ZNF766,,K562,Erythroblast,Bone Marrow,1,ZNF766
+48634|SPIB,9.873063960650692e-05,Homo sapiens,SPIB,tf,H929,B Lymphocyte,Bone Marrow,1,SPIB
+46240|NFIC,9.903729347536656e-05,Homo sapiens,NFIC,tf,HepG2,Epithelium,Liver,1,NFIC
+50373|EZH1,0.00011485479025186692,Homo sapiens,EZH1,cr,None,Proerythroblast,Fetal Liver,1,EZH1
+74643|NFATC3,0.00011989705670275083,Homo sapiens,NFATC3,tf,HepG2,Epithelium,Liver,1,NFATC3
+45693|CTBP2,0.00012249537713297806,Homo sapiens,CTBP2,tf,H1,Embryonic Stem Cell,Embryo,1,CTBP2
+76518|ZBTB16,0.00012785125827979166,Homo sapiens,ZBTB16,tf,None,Stromal Cell,None,1,ZBTB16
+4929|TAFII,0.00013965164502839373,Homo sapiens,TAFII,not sure,H1,Embryonic Stem Cell,Embryo,1,TAFII
+33440|SMARCA4,0.00014703589457523266,Homo sapiens,SMARCA4,cr,None,Hematopoietic Stem Cell,Blood,1,SMARCA4
+77536|REL,0.00015063597084375878,Homo sapiens,REL,tf,GM12878,Lymphoblastoid,None,1,REL
+74670|ZNF639,0.00015385358934352992,Homo sapiens,ZNF639,tf,K562,Erythroblast,Bone Marrow,1,ZNF639
+49448|EGLN2,0.00016587804287509255,Homo sapiens,EGLN2,other,T47D,Epithelium,Mammary Gland,1,EGLN2
+69732|KDM5A,0.00017041807888365163,Homo sapiens,KDM5A,cr,T47D,None,Breast,1,KDM5A
+42752|BARX1,0.00017559878473035482,Homo sapiens,BARX1,tf,LoVo,None,Colon,1,BARX1
+45961|UBTF,0.00017612487860466604,Homo sapiens,UBTF,tf,K562,Erythroblast,Bone Marrow,1,UBTF
+32856|TERC,0.00017718149181413198,Homo sapiens,TERC,other,HeLa,Epithelium,Cervix,1,TERC
+46212|FOSL1,0.00017771201876797788,Homo sapiens,FOSL1,tf,HCT-116,None,Colon,1,FOSL1
+64981|PATZ1,0.0001949144041634017,Homo sapiens,PATZ1,tf,HEK293,Epithelium,Embryonic Kidney,1,PATZ1
+62965|EED,0.0001972441057293609,Homo sapiens,EED,cr,GM12878,B Lymphocyte,Blood,1,EED
+69799|NR1H3,0.00021240443013109,Homo sapiens,NR1H3,tf,HT29,colorectal adenocarcinoma,None,1,NR1H3
+74116|RUNX2,0.00021303290333454442,Homo sapiens,RUNX2,tf,MCF-7,None,None,1,RUNX2
+70928|RBBP4,0.00022597284740286528,Homo sapiens,RBBP4,cr,T98G,Glioblastoma cell,None,1,RBBP4
+47578|TTF1,0.00023408511114683808,Homo sapiens,TTF1,tf,NCI-H441,Epithelium,Lung,1,TTF1
+69798|PPARG,0.00024532451135023684,Homo sapiens,PPARG,tf,HT29,colorectal adenocarcinoma,None,1,PPARG
+38712|ETS2,0.0002989405931284893,Homo sapiens,ETS2,tf,LoVo,None,Colon,1,ETS2
+55354|PIAS1,0.00031035892951242065,Homo sapiens,PIAS1,other,VCaP,Epithelium,Prostate,1,PIAS1
+36252|NKX3-1,0.00032403767174716484,Homo sapiens,NKX3-1,tf,LNCaP,Epithelium,Prostate,1,NKX3-1
+72382|SIX1,0.00033251191127522646,Homo sapiens,SIX1,other,None,Cortex,Embryonic Kidney,1,SIX1
+50979|GATA6,0.0003402171001334524,Homo sapiens,GATA6,tf,PaTu8988S,None,Pancreatic ductal,0,GATA6
+50122|LMNB1,0.0003490836699267944,Homo sapiens,LMNB1,not sure,IMR90,Fibroblast,Lung,1,LMNB1
+63686|ZBTB8A,0.0003706141034642359,Homo sapiens,ZBTB8A,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB8A
+44026|AGO1,0.00039115042058389285,Homo sapiens,AGO1,other,PC-3,Epithelium,Prostate,1,AGO1
+51839|MRE11A,0.00039226000502958164,Homo sapiens,MRE11A,not sure,LNCaP,Epithelium,Prostate,1,MRE11A
+76859|IRAK1,0.0003933725105162418,Homo sapiens,IRAK1,other,HEK293,Epithelium,Embryonic Kidney,1,IRAK1
+48799|ZNF750,0.00045288103532858124,Homo sapiens,ZNF750,tf,None,Keratinocyte,Foreskin,1,ZNF750
+64556|IKZF2,0.00045288103532858124,Homo sapiens,IKZF2,tf,HEK293,Epithelium,Embryonic Kidney,1,IKZF2
+67615|ELF3,0.0004657417693950046,Homo sapiens,ELF3,tf,CFPAC-1,None,Pancreatic ductal,1,ELF3
+50162|ARRB1,0.0005206425779925672,Homo sapiens,ARRB1,tf,C4-2,Epithelium,None,1,ARRB1
+42176|MITF,0.0005293761949608675,Homo sapiens,MITF,tf,None,Melanocyte,None,0,MITF
+63035|PRDM10,0.0005751131800564635,Homo sapiens,PRDM10,,HEK293,Epithelium,Embryonic Kidney,1,PRDM10
+68932|KDM5C,0.0006488303418228067,Homo sapiens,KDM5C,cr,ZR-75-30,None,None,1,KDM5C
+76415|PMEL,0.0006577375748366852,Homo sapiens,PMEL,other,None,None,None,1,PMEL
+50210|DDX21,0.0006631359380592582,Homo sapiens,DDX21,predicted chromatin regulator,HEK293,Epithelium,Embryonic Kidney,1,DDX21
+63600|DDX20,0.0007292100119840673,Homo sapiens,DDX20,,K562,Erythroblast,Bone Marrow,1,DDX20
+64094|CTBP1,0.0007331630327615582,Homo sapiens,CTBP1,tf,MCF-7,Epithelium,Breast,1,CTBP1
+6958|BCLAF1,0.000737135793258358,Homo sapiens,BCLAF1,predicted transcription factor,GM12878,B Lymphocyte,Blood,1,BCLAF1
+63460|MTA3,0.0007655053303675217,Homo sapiens,MTA3,tf,MCF-7,Epithelium,Breast,1,MTA3
+75840|MYCN,0.0007821646207656589,Homo sapiens,MYCN,tf,Rh4,rhabdomyosarcoma,None,1,MYCN
+68490|KAT5,0.0008453923754268442,Homo sapiens,KAT5,cr,K562,Lymphoblast,None,1,KAT5
+38772|CLOCK,0.0008544732949736692,Homo sapiens,CLOCK,tf,LoVo,None,Colon,1,CLOCK
+1226|TRRAP,0.0009181542447032043,Homo sapiens,TRRAP,cr,HeLa,Epithelium,Cervix,1,TRRAP
+41492|BMI1,0.0009205944655900002,Homo sapiens,BMI1,cr,DU145,Epithelium,Prostate,1,BMI1
+38820|BARX2,0.0009579200499129928,Homo sapiens,BARX2,tf,LoVo,None,Colon,1,BARX2
+49781|CHD7,0.0009630004647786424,Homo sapiens,CHD7,cr,None,iPSC,None,1,CHD7
+48353|PRKDC,0.0009809773826589066,Homo sapiens,PRKDC,other,None,Fibroblast,None,1,PRKDC
+39777|REPIN1,0.0009861699390994376,Homo sapiens,REPIN1,predicted transcription factor,Kasumi-1,Myeloblast,Blood,1,REPIN1
+69220|SLC22A2,0.0009992619051086204,Homo sapiens,SLC22A2,not sure,HBL1,B cell lymphoma,None,1,SLC22A2
+42804|ZBTB10,0.0010477248083719402,Homo sapiens,ZBTB10,tf,LoVo,None,Colon,1,ZBTB10
+39372|ETV1,0.0010532405906915868,Homo sapiens,ETV1,tf,LNCaP,Epithelium,Prostate,1,ETV1
+76999|PITX3,0.0011511766525353765,Homo sapiens,PITX3,tf,SH-SY5Y,Neuron,Midbrain,1,PITX3
+65071|KLF12,0.0011602066968273257,Homo sapiens,KLF12,,HEK293,Epithelium,Embryonic Kidney,1,KLF12
+74673|RUVBL1,0.0011754010402049602,Homo sapiens,RUVBL1,cr,HepG2,Epithelium,Liver,1,RUVBL1
+54105|DAXX,0.001280340275902052,Homo sapiens,DAXX,not sure,PC-3,Epithelium,Prostate,1,DAXX
+67601|KLF4,0.0013070381920008414,Homo sapiens,KLF4,tf,CFPAC-1,original PDAC cell line,Pancreatic ductal,1,KLF4
+8566|NCOR1,0.0013342441566563663,Homo sapiens,NCOR1,cr,HEK293T,Epithelium,Embryonic Kidney,0,NCOR1
+38704|HINFP,0.0013342441566563663,Homo sapiens,HINFP,tf,LoVo,None,Colon,1,HINFP
+72857|TRAF7,0.0013973597712955154,Homo sapiens,TRAF7,other,None,None,meningioma,1,TRAF7
+74679|TSC22D4,0.0014781993215382822,Homo sapiens,TSC22D4,,GM12878,B Lymphocyte,Blood,1,TSC22D4
+62632|ZNF76,0.0015048022188744981,Homo sapiens,ZNF76,predicted transcription factor,HEK293,Epithelium,Embryonic Kidney,1,ZNF76
+63122|MBD1_isoform2,0.00154356434632009,Homo sapiens,MBD1_isoform2,,HepG2,Epithelium,Liver,1,MBD1_isoform2
+64745|ZKSCAN1,0.0016034166584025075,Homo sapiens,ZKSCAN1,tf,K562,Erythroblast,Bone Marrow,1,ZKSCAN1
+63393|POU5F1,0.0016653766817125491,Homo sapiens,POU5F1,tf,None,Neuron,None,1,POU5F1
+76402|RELB,0.0016822636271128506,Homo sapiens,RELB,tf,GM12878,Lymphoblastoid,None,1,RELB
+77271|L3MBTL4,0.0017251653113250715,Homo sapiens,L3MBTL4,tf,HepG2,Epithelium,Liver,1,L3MBTL4
+64022|KLF13,0.0017338642340674767,Homo sapiens,KLF13,tf,K562,Erythroblast,Bone Marrow,1,KLF13
+63449|DEAF1,0.0017869014052426745,Homo sapiens,DEAF1,,K562,Erythroblast,Bone Marrow,1,DEAF1
+42770|JUNB,0.0017913871121863906,Homo sapiens,JUNB,tf,LoVo,None,Colon,1,JUNB
+54243|FOXO1,0.001795883059769212,Homo sapiens,FOXO1,tf,None,Stromal Cell,Endometrium,1,FOXO1
+77059|ZNF695,0.0018185171300697204,Homo sapiens,ZNF695,tf,293T,None,None,1,ZNF695
+62920|ZSCAN29,0.001827643166913895,Homo sapiens,ZSCAN29,,K562,Erythroblast,Bone Marrow,1,ZSCAN29
+50020|SCML2,0.0018692278772335946,Homo sapiens,SCML2,tf,K562,Erythroblast,Bone Marrow,1,SCML2
+45901|GTF3C2,0.002034202323454816,Homo sapiens,GTF3C2,tf,K562,Erythroblast,Bone Marrow,1,GTF3C2
+63537|ZNF692,0.0021320469616447554,Homo sapiens,ZNF692,,HEK293,Epithelium,Embryonic Kidney,1,ZNF692
+45746|MAFK,0.0022840301190814533,Homo sapiens,MAFK,tf,HeLa-S3,Epithelium,Cervix,1,MAFK
+77260|WDHD1,0.002518192211878475,Homo sapiens,WDHD1,tf,MCF-7,None,None,1,WDHD1
+63654|SP7,0.002567551144879184,Homo sapiens,SP7,,HEK293,Epithelium,Embryonic Kidney,1,SP7
+55585|MEF2B,0.002605142343362029,Homo sapiens,MEF2B,tf,None,B Lymphocyte,None,1,MEF2B
+51448|EOMES,0.0026560373583007306,Homo sapiens,EOMES,tf,HUES64,Embryonic Stem Cell,Embryo,1,EOMES
+63354|CEBPZ,0.0029594215709754573,Homo sapiens,CEBPZ,tf,GM12878,B Lymphocyte,Blood,1,CEBPZ
+5888|LIN9,0.003030942926934676,Homo sapiens,LIN9,not sure,HeLa,Epithelium,Cervix,1,LIN9
+44876|5HMC,0.003163615278719315,Homo sapiens,5HMC,other,None,Erythroid Cell,None,1,5HMC
+49467|598-SKD,0.0035101910069306893,Homo sapiens,598-SKD,other,MCF-7,Epithelium,Breast,1,598-SKD
+46045|SETDB1,0.0035516578660657297,Homo sapiens,SETDB1,cr,U2OS,None,Bone,1,SETDB1
+65063|ZNF574,0.003560003822309799,Homo sapiens,ZNF574,,HEK293,Epithelium,Embryonic Kidney,1,ZNF574
+65180|ZNF35,0.0037744574207517674,Homo sapiens,ZNF35,,HEK293,Epithelium,Embryonic Kidney,1,ZNF35
+38804|E2F8,0.0040376802509621305,Homo sapiens,E2F8,tf,LoVo,None,Colon,1,E2F8
+57115|LEF1,0.004218930112825856,Homo sapiens,LEF1,tf,RL95-2,None,Uterus,1,LEF1
+38860|CASP8AP2,0.004337119792110817,Homo sapiens,CASP8AP2,tf,LoVo,None,Colon,1,CASP8AP2
+42890|ZNF83,0.004509620673914575,Homo sapiens,ZNF83,tf,LoVo,None,Colon,1,ZNF83
+4126|HDAC6,0.0046882220208493575,Homo sapiens,HDAC6,cr,None,T Lymphocyte,Blood,1,HDAC6
+1227|C17orf49,0.004829029387096965,Homo sapiens,C17orf49,cr,HeLa,Epithelium,Cervix,1,C17orf49
+"56245|TEAD1, TEAD4",0.004840015298062593,Homo sapiens,"TEAD1, TEAD4",tf,CClp1,None,None,1,"TEAD1, TEAD4"
+38773|NFAT5,0.004895279718562762,Homo sapiens,NFAT5,tf,LoVo,None,Colon,1,NFAT5
+77037|ZNF786,0.005516578805698204,Homo sapiens,ZNF786,tf,293T,None,None,1,ZNF786
+77450|NFKB2,0.005807332611597136,Homo sapiens,NFKB2,tf,L1236,Hodgkin Lymphoma Cell,None,1,NFKB2
+8447|SMAD1,0.006486747555741272,Homo sapiens,SMAD1,predicted transcription factor,U937,None,Pleura,1,SMAD1
+8563|GPS2,0.006689173652740695,Homo sapiens,GPS2,not sure,HEK293T,Epithelium,Embryonic Kidney,1,GPS2
+65116|FEZF1,0.006822234363461553,Homo sapiens,FEZF1,,HEK293,Epithelium,Embryonic Kidney,1,FEZF1
+63151|SRSF3,0.006882119191798534,Homo sapiens,SRSF3,,K562,Erythroblast,Bone Marrow,0,SRSF3
+57111|EPO,0.006927336982679624,Homo sapiens,EPO,not sure,RL95-2,None,Uterus,1,EPO
+45747|PRDM1,0.007033866705458078,Homo sapiens,PRDM1,tf,HeLa-S3,Epithelium,Cervix,1,PRDM1
+38647|ETV7,0.007188559626600062,Homo sapiens,ETV7,tf,LoVo,None,Colon,1,ETV7
+35569|SFMBT1,0.0074101685549051955,Homo sapiens,SFMBT1,other,HeLa-S3,Epithelium,Cervix,0,SFMBT1
+2813|RXRG,0.00750697226040643,Homo sapiens,RXRG,tf,UPR9,Promyelocytic cell,Bone Marrow,1,RXRG
+38841|CREB3,0.007687342082160794,Homo sapiens,CREB3,tf,LoVo,None,Colon,1,CREB3
+63536|ZEB2,0.007687342082160794,Homo sapiens,ZEB2,,HEK293,Epithelium,Embryonic Kidney,1,ZEB2
+62861|ZNF584,0.007922413811830765,Homo sapiens,ZNF584,,K562,Erythroblast,Bone Marrow,1,ZNF584
+49954|KDM3A,0.008340124585634684,Homo sapiens,KDM3A,cr,Jurkat,T Lymphocyte,Blood,1,KDM3A
+63744|FOXK2,0.008411591898498905,Homo sapiens,FOXK2,predicted transcription factor,K562,Erythroblast,Bone Marrow,1,FOXK2
+63111|HNRNPLL,0.00892708681393333,Homo sapiens,HNRNPLL,,HepG2,Epithelium,Liver,1,HNRNPLL
+77258|ZNF701,0.00902199649512834,Homo sapiens,ZNF701,tf,MCF-7,None,None,1,ZNF701
+46144|MEF2C,0.009117788788664823,Homo sapiens,MEF2C,predicted transcription factor,GM12878,B Lymphocyte,Blood,1,MEF2C
+64653|FOXJ2,0.009117788788664823,Homo sapiens,FOXJ2,tf,K562,Erythroblast,Bone Marrow,1,FOXJ2
+65165|ZNF449,0.009253393602098208,Homo sapiens,ZNF449,,HEK293,Epithelium,Embryonic Kidney,1,ZNF449
+45922|ZNF384,0.009430333856739284,Homo sapiens,ZNF384,tf,K562,Erythroblast,Bone Marrow,1,ZNF384
+73937|ZNF610,0.009489967961475932,Homo sapiens,ZNF610,,293T,None,None,1,ZNF610
+35041|SPDEF,0.009731814062482342,Homo sapiens,SPDEF,tf,MCF-7,Epithelium,Breast,1,SPDEF
+43826|TERF2,0.009937448479390407,Homo sapiens,TERF2,predicted chromatin regulator,LCL,Lymphoblastoid,Blood,1,TERF2
+65139|ZBTB42,0.009958219074742371,Homo sapiens,ZBTB42,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB42
+36247|LYL1,0.009999873988561218,Homo sapiens,LYL1,predicted transcription factor,None,Haematopoietic Progenitor Cell,Blood,1,LYL1
+64144|NFRKB,0.010274356327853222,Homo sapiens,NFRKB,,K562,Erythroblast,Bone Marrow,1,NFRKB
+76967|MBOAT4,0.010533532877935034,Homo sapiens,MBOAT4,other,HeLa,Epithelium,Cervix,1,MBOAT4
+69803|NR1H2,0.010865499982991177,Homo sapiens,NR1H2,tf,HT29,colorectal adenocarcinoma,None,1,NR1H2
+63089|PRPF4,0.010955547934193021,Homo sapiens,PRPF4,,HepG2,Epithelium,Liver,1,PRPF4
+35708|PIAS4,0.011069020435384104,Homo sapiens,PIAS4,other,WI-38,Fibroblast,Lung,1,PIAS4
+65177|ZNF22,0.011114694858508576,Homo sapiens,ZNF22,,HEK293,Epithelium,Embryonic Kidney,1,ZNF22
+64414|HMBOX1,0.011114694858508576,Homo sapiens,HMBOX1,,K562,Erythroblast,Bone Marrow,1,HMBOX1
+64369|MYNN,0.011322263759075812,Homo sapiens,MYNN,tf,K562,Erythroblast,Bone Marrow,1,MYNN
+73462|MLLT3,0.01186808856438477,Homo sapiens,MLLT3,not sure,THP-1,AML cell line,None,1,MLLT3
+64546|HNF1A,0.011892329265851336,Homo sapiens,HNF1A,tf,HepG2,Epithelium,Liver,1,HNF1A
+45660|TBL1XR1,0.012087805822335828,Homo sapiens,TBL1XR1,predicted chromatin regulator,GM12878,B Lymphocyte,Blood,1,TBL1XR1
+35658|PBX1,0.012211388140880084,Homo sapiens,PBX1,tf,MCF7-LTED,Epithelium,Mammary Gland,1,PBX1
+53704|TAT,0.01223623557208648,Homo sapiens,TAT,not sure,Jurkat,T Lymphocyte,Blood,1,TAT
+54612|TEAD1,0.01223623557208648,Homo sapiens,TEAD1,tf,SF268,None,None,1,TEAD1
+54657|TLX1,0.01236113096848923,Homo sapiens,TLX1,tf,ALL-SIL,T Lymphocyte,Blood,1,TLX1
+45919|ZMIZ1,0.012461840898735534,Homo sapiens,ZMIZ1,not sure,K562,Erythroblast,Bone Marrow,1,ZMIZ1
+77185|ZKSCAN2,0.012794070635907144,Homo sapiens,ZKSCAN2,tf,293T,None,None,1,ZKSCAN2
+70228|DNMT3A,0.013054819933744148,Homo sapiens,DNMT3A,cr,None,Stem cell,Foreskin,1,DNMT3A
+64375|TBX21,0.013320150181014734,Homo sapiens,TBX21,tf,GM12878,B Lymphocyte,Blood,1,TBX21
+65125|PRDM6,0.013644683386194229,Homo sapiens,PRDM6,,HEK293,Epithelium,Embryonic Kidney,1,PRDM6
+53303|FUS,0.013726874833280995,Homo sapiens,FUS,other,TSU-1621-MT,None,None,1,FUS
+49622|RARG,0.013948143176083913,Homo sapiens,RARG,tf,MCF-7,Epithelium,Breast,1,RARG
+52245|CTNNB1,0.0140319080092844,Homo sapiens,CTNNB1,tf,SA121,Embryonic Stem Cell,None,0,CTNNB1
+64561|SNRNP70,0.0144285674704672,Homo sapiens,SNRNP70,,K562,Erythroblast,Bone Marrow,1,SNRNP70
+45690|BACH1,0.01537162134049442,Homo sapiens,BACH1,tf,H1,Embryonic Stem Cell,Embryo,1,BACH1
+38644|HSF4,0.015769591033392674,Homo sapiens,HSF4,tf,LoVo,None,Colon,0,HSF4
+65137|ZBTB18,0.015800566866010845,Homo sapiens,ZBTB18,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB18
+2400|TDRD3,0.01611320583813885,Homo sapiens,TDRD3,cr,MCF-7,Epithelium,Breast,1,TDRD3
+70761|HDAC3,0.01655979635868151,Homo sapiens,HDAC3,cr,MM1.S,B Lymphocyte,Blood,1,HDAC3
+63465|MBD1_isoform1,0.016624451884029688,Homo sapiens,MBD1_isoform1,,HepG2,Epithelium,Liver,1,MBD1_isoform1
+64552|HIC1,0.016656860573332228,Homo sapiens,HIC1,,HEK293,Epithelium,Embryonic Kidney,1,HIC1
+38739|ELF2,0.016885238581510417,Homo sapiens,ELF2,tf,LoVo,None,Colon,1,ELF2
+49156|COIL,0.017016938566665283,Homo sapiens,COIL,other,HeLa,Epithelium,Cervix,1,COIL
+77096|ZNF543,0.017050000435045204,Homo sapiens,ZNF543,tf,293T,None,None,1,ZNF543
+35268|SNAPC1,0.017316477384820242,Homo sapiens,SNAPC1,not sure,MCF-10A,Epithelium,Breast,1,SNAPC1
+38812|ASCL2,0.017654569097861526,Homo sapiens,ASCL2,tf,LoVo,None,Colon,1,ASCL2
+77085|ZNF567,0.017929083455600382,Homo sapiens,ZNF567,tf,293T,None,None,1,ZNF567
+77165|ZNF182,0.018560076038054724,Homo sapiens,ZNF182,tf,293T,None,None,1,ZNF182
+38750|ZNF407,0.018774565720222763,Homo sapiens,ZNF407,tf,LoVo,None,Colon,1,ZNF407
+77175|ZNF133,0.0190274661216614,Homo sapiens,ZNF133,tf,293T,None,None,1,ZNF133
+55660|NR0B2,0.01943073220272007,Homo sapiens,NR0B2,tf,HCT-116,None,Colon,1,NR0B2
+38811|SMC3,0.01961642170027812,Homo sapiens,SMC3,predicted chromatin regulator,LoVo,None,Colon,1,SMC3
+62555|ZNF600,0.019916658493445292,Homo sapiens,ZNF600,,HEK293,Epithelium,Embryonic Kidney,1,ZNF600
+71024|ARNTL,0.020374319618782603,Homo sapiens,ARNTL,predicted transcription factor,U2OS,Osteosarcoma cell,None,1,ARNTL
+76282|EHF,0.02041285718992916,Homo sapiens,EHF,tf,None,Epithelium,None,1,EHF
+74688|GRHL3,0.020528840748024874,Homo sapiens,GRHL3,predicted transcription factor,NHEK,Keratinocyte,Skin,1,GRHL3
+38635|FOXD2,0.020801641984875902,Homo sapiens,FOXD2,tf,LoVo,None,Colon,1,FOXD2
+38826|ZIC2,0.020998373860676645,Homo sapiens,ZIC2,tf,LoVo,None,Colon,0,ZIC2
+55518|ATF4,0.021077506316986842,Homo sapiens,ATF4,tf,HAP-1,None,None,1,ATF4
+45799|PPARGC1A,0.02123652835291992,Homo sapiens,PPARGC1A,tf,HepG2,Epithelium,Liver,1,PPARGC1A
+77055|ZNF714,0.021476963350810084,Homo sapiens,ZNF714,other,293T,None,None,1,ZNF714
+38654|NFATC1,0.021882800927710284,Homo sapiens,NFATC1,tf,None,Endothelial Cell,Umbilical Vein,1,NFATC1
+46146|STAT5A,0.02196474084562925,Homo sapiens,STAT5A,tf,GM12878,B Lymphocyte,Blood,1,STAT5A
+73931|ZNF707,0.0222535734503365,Homo sapiens,ZNF707,,293T,None,None,1,ZNF707
+47736|LANA,0.022295095693582744,Homo sapiens,LANA,other,BCBL1,B cell lymphoma,None,1,LANA
+35724|SUMO1,0.022420054785895042,Homo sapiens,SUMO1,other,WI-38,Fibroblast,Lung,1,SUMO1
+77178|ZNF114,0.02262963245777951,Homo sapiens,ZNF114,tf,293T,None,None,0,ZNF114
+62981|ZBED1,0.02275616998186133,Homo sapiens,ZBED1,,GM12878,B Lymphocyte,Blood,1,ZBED1
+68233|POU2F1,0.023268298627585685,Homo sapiens,POU2F1,tf,VCaP,Epithelium,Prostate,1,POU2F1
+77114|ZNF460,0.02344114968631406,Homo sapiens,ZNF460,tf,293T,None,None,1,ZNF460
+73339|MCM3,0.02357149586354207,Homo sapiens,MCM3,,None,None,None,1,MCM3
+1|BTAF1,0.023615079842284628,Homo sapiens,BTAF1,tf,HeLa,Epithelium,Cervix,0,BTAF1
+77519|H3K18me1,0.02436643855680164,Homo sapiens,H3K18me1,,U2OS,None,Bone,1,H3K18me1
+36248|LMO2,0.02445613905084079,Homo sapiens,LMO2,not sure,None,Haematopoietic Progenitor Cell,Blood,1,LMO2
+65166|ZNF322,0.02472690521861001,Homo sapiens,ZNF322,,HEK293,Epithelium,Embryonic Kidney,1,ZNF322
+65159|ZNF528,0.02500018175313732,Homo sapiens,ZNF528,,HEK293,Epithelium,Embryonic Kidney,1,ZNF528
+55541|RAG1,0.025183769244060183,Homo sapiens,RAG1,cr,Ramos,Thymocyte,None,1,RAG1
+65070|ZNF175,0.02578824853047864,Homo sapiens,ZNF175,,HEK293,Epithelium,Embryonic Kidney,1,ZNF175
+62732|ZNF366,0.025882314478419197,Homo sapiens,ZNF366,,HEK293,Epithelium,Embryonic Kidney,1,ZNF366
+77125|ZNF431,0.025976667347442958,Homo sapiens,ZNF431,tf,293T,None,None,0,ZNF431
+70174|DNMT3B,0.025976667347442958,Homo sapiens,DNMT3B,cr,None,Keratinocyte,Foreskin,1,DNMT3B
+73966|ZNF257,0.026309171182885036,Homo sapiens,ZNF257,,293T,None,None,1,ZNF257
+77331|SP140,0.026838860915578883,Homo sapiens,SP140,tf,None,Macrophage,None,1,SP140
+57670|PCGF1,0.027476308055201182,Homo sapiens,PCGF1,cr,K562,Erythroblast,Bone Marrow,1,PCGF1
+54255|NR3C2,0.027625190341026864,Homo sapiens,NR3C2,tf,None,None,Kidney,1,NR3C2
+44027|AGO2,0.027674966950420408,Homo sapiens,AGO2,other,PC-3,Epithelium,Prostate,1,AGO2
+77081|ZNF585A,0.02772481828609798,Homo sapiens,ZNF585A,tf,293T,None,None,1,ZNF585A
+41411|ERCC3,0.028227459551429093,Homo sapiens,ERCC3,predicted chromatin regulator,HT1080,None,Connective Tissue,1,ERCC3
+36349|PTPN11,0.02832889269037997,Homo sapiens,PTPN11,other,A549,Epithelium,Lung,1,PTPN11
+5455|BCAT1,0.028532669094650045,Homo sapiens,BCAT1,not sure,LS180,Epithelium,Colon,1,BCAT1
+50136|TCF7,0.028532669094650045,Homo sapiens,TCF7,tf,DLD-1,Epithelium,Colon,1,TCF7
+62488|ZNF202,0.02946481009307798,Homo sapiens,ZNF202,,HEK293,Epithelium,Embryonic Kidney,1,ZNF202
+51611|THAP11,0.029993499335292717,Homo sapiens,THAP11,tf,HUES64,Embryonic Stem Cell,Embryo,1,THAP11
+64348|ZNF644,0.030314472047382145,Homo sapiens,ZNF644,predicted transcription factor,K562,Erythroblast,Bone Marrow,1,ZNF644
+69626|PSMA7,0.030314472047382145,Homo sapiens,PSMA7,other,None,Hematopoietic stem and progenitor cell,None,1,PSMA7
+63060|DPF2,0.030476022754697064,Homo sapiens,DPF2,,MCF-7,Epithelium,Breast,1,DPF2
+73963|ZNF266,0.030584118952200562,Homo sapiens,ZNF266,predicted transcription factor,293T,None,None,1,ZNF266
+50899|LHX2,0.03063828601798461,Homo sapiens,LHX2,tf,6540 cells,Epithelium,None,1,LHX2
+63427|INSM2,0.030746858499271026,Homo sapiens,INSM2,,HEK293,Epithelium,Embryonic Kidney,1,INSM2
+65164|ZNF770,0.03096495918991232,Homo sapiens,ZNF770,,HEK293,Epithelium,Embryonic Kidney,1,ZNF770
+73934|ZNF669,0.03101968395811748,Homo sapiens,ZNF669,,293T,None,None,1,ZNF669
+42713|EPAS1,0.031184338624736505,Homo sapiens,EPAS1,tf,LoVo,None,Colon,0,EPAS1
+77143|ZNF28,0.031405002137163684,Homo sapiens,ZNF28,tf,293T,None,None,1,ZNF28
+77152|ZNF267,0.03151581709080506,Homo sapiens,ZNF267,tf,293T,None,None,1,ZNF267
+65182|ZNF708,0.031962313811754885,Homo sapiens,ZNF708,,HEK293,Epithelium,Embryonic Kidney,1,ZNF708
+77079|ZNF605,0.03230060383729502,Homo sapiens,ZNF605,other,293T,None,None,1,ZNF605
+77073|ZNF619,0.03264184323523986,Homo sapiens,ZNF619,tf,293T,None,None,0,ZNF619
+73943|ZNF547,0.032813574610041536,Homo sapiens,ZNF547,,293T,None,None,1,ZNF547
+77040|ZNF782,0.03287098365402949,Homo sapiens,ZNF782,tf,293T,None,None,0,ZNF782
+63395|ZNF488,0.033391399617327865,Homo sapiens,ZNF488,,HEK293,Epithelium,Embryonic Kidney,1,ZNF488
+38642|ZNF236,0.033391399617327865,Homo sapiens,ZNF236,tf,LoVo,None,Colon,0,ZNF236
+77110|ZNF483,0.033742098352752534,Homo sapiens,ZNF483,tf,293T,None,None,1,ZNF483
+36822|GREB1,0.03380084175087285,Homo sapiens,GREB1,not sure,MCF-7,Epithelium,Breast,1,GREB1
+279|BRD7,0.03380084175087285,Homo sapiens,BRD7,tf,BJ,Fibroblast,Skin,0,BRD7
+52715|DYRK1A,0.033859669262022746,Homo sapiens,DYRK1A,not sure,T98G,None,Brain,1,DYRK1A
+56467|EHMT2,0.03391858097053347,Homo sapiens,EHMT2,cr,HEK293T,Epithelium,Embryonic Kidney,1,EHMT2
+77092|ZNF555,0.034095822123804014,Homo sapiens,ZNF555,tf,293T,None,None,1,ZNF555
+71777|PAX6,0.034392915869049204,Homo sapiens,PAX6,tf,None,Beta cell,None,1,PAX6
+51333|ASH2L,0.03457219092588179,Homo sapiens,ASH2L,cr,VCaP,Epithelium,Prostate,1,ASH2L
+45247|SIRT6,0.034872688028075464,Homo sapiens,SIRT6,cr,H1,Embryonic Stem Cell,Embryo,0,SIRT6
+42717|HEYL,0.03499348571164306,Homo sapiens,HEYL,tf,LoVo,None,Colon,1,HEYL
+76943|SRPK1,0.0352361113898873,Homo sapiens,SRPK1,other,MCF-10A,Epithelium,None,1,SRPK1
+69246|SIX2,0.03548011533274405,Homo sapiens,SIX2,tf,None,Cortex,Kidney,1,SIX2
+42884|ZNF217,0.03548011533274405,Homo sapiens,ZNF217,predicted transcription factor,LoVo,None,Colon,1,ZNF217
+64879|ZBTB1,0.035910454995227686,Homo sapiens,ZBTB1,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB1
+63957|ZNF197,0.035972279707691894,Homo sapiens,ZNF197,,K562,Erythroblast,Bone Marrow,1,ZNF197
+73957|ZNF324,0.036345061292158684,Homo sapiens,ZNF324,,293T,None,None,1,ZNF324
+48621|BATF,0.03640749790030162,Homo sapiens,BATF,predicted transcription factor,OCI-Ly3,B Lymphocyte,Bone Marrow,1,BATF
+72465|IRAK4,0.0366581227161619,Homo sapiens,IRAK4,other,SEM,B cell precursor,None,1,IRAK4
+62889|ZNF518A,0.036720998940833686,Homo sapiens,ZNF518A,,HEK293,Epithelium,Embryonic Kidney,1,ZNF518A
+73946|ZNF454,0.03678396334378175,Homo sapiens,ZNF454,,293T,None,None,1,ZNF454
+64551|GTF2A2,0.036910157024582606,Homo sapiens,GTF2A2,,K562,Erythroblast,Bone Marrow,1,GTF2A2
+64129|ILK,0.0369733864725005,Homo sapiens,ILK,,K562,Erythroblast,Bone Marrow,1,ILK
+58829|CD59,0.03716360626693757,Homo sapiens,CD59,other,Raji,B Lymphocyte,Blood,0,CD59
+74388|IL1B,0.03767477133239479,Homo sapiens,IL1B,other,MCF-7,None,Breast,1,IL1B
+70762|HDAC4,0.03773906861728637,Homo sapiens,HDAC4,cr,MM1.S,B Lymphocyte,Blood,1,HDAC4
+77151|ZNF26,0.03799715400628685,Homo sapiens,ZNF26,tf,293T,None,None,1,ZNF26
+45735|ZZZ3,0.03799715400628685,Homo sapiens,ZZZ3,predicted transcription factor,HeLa-S3,Epithelium,Cervix,1,ZZZ3
+65131|ZNF350,0.038256677483630604,Homo sapiens,ZNF350,,HEK293,Epithelium,Embryonic Kidney,1,ZNF350
+63182|NBN,0.03838698020973333,Homo sapiens,NBN,tf,GM12878,B Lymphocyte,Blood,1,NBN
+4598|STAT6,0.038583112451082376,Homo sapiens,STAT6,tf,None,T Lymphocyte,Cord blood,1,STAT6
+64927|HES2,0.03891181361022062,Homo sapiens,HES2,tf,A549,Epithelium,Lung,1,HES2
+63264|PTTG1,0.03897782672313942,Homo sapiens,PTTG1,,K562,Erythroblast,Bone Marrow,1,PTTG1
+74636|ZMYM3,0.03917641335953743,Homo sapiens,ZMYM3,,MCF-7,None,None,1,ZMYM3
+46186|BCL11A,0.039242791621944696,Homo sapiens,BCL11A,predicted transcription factor,H1,Embryonic Stem Cell,Embryo,1,BCL11A
+56131|H2AFX,0.03984432375553795,Homo sapiens,H2AFX,predicted chromatin regulator,MCF-7,Epithelium,Breast,1,H2AFX
+38081|SSRP1,0.039979010329568486,Homo sapiens,SSRP1,cr,HT1080,None,Connective Tissue,1,SSRP1
+33851|SF1,0.04004649223333626,Homo sapiens,SF1,not sure,H295R,Epithelium,Adrenal Gland,1,SF1
+49730|ASCL1,0.040114066662116636,Homo sapiens,ASCL1,tf,HCC4018,Epithelium,Lung,1,ASCL1
+68001|GRHL2,0.040317345952428106,Homo sapiens,GRHL2,tf,PEO1,None,None,1,GRHL2
+57659|BAHD1,0.04079491861249144,Homo sapiens,BAHD1,both predicted transcription factor and chromatin regulator,HEK293,Epithelium,Embryonic Kidney,1,BAHD1
+41412|ERCC2,0.040863516452678786,Homo sapiens,ERCC2,tf,HT1080,None,Connective Tissue,1,ERCC2
+38791|HOXA10,0.040863516452678786,Homo sapiens,HOXA10,tf,LoVo,None,Colon,0,HOXA10
+65216|ZNF563,0.04106987161406318,Homo sapiens,ZNF563,,HEK293,Epithelium,Embryonic Kidney,1,ZNF563
+68199|ATRX,0.04120791060987709,Homo sapiens,ATRX,cr,K562,Erythroblast,Bone Marrow,1,ATRX
+42790|TERF1,0.04141567414440277,Homo sapiens,TERF1,predicted chromatin regulator,LoVo,None,Colon,0,TERF1
+64871|ZBTB49,0.04155465419125661,Homo sapiens,ZBTB49,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB49
+63270|DROSHA,0.04155465419125661,Homo sapiens,DROSHA,,HepG2,Epithelium,Liver,1,DROSHA
+65167|ZBTB12,0.04169401185449816,Homo sapiens,ZBTB12,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB12
+59015|EP400,0.041763832505832967,Homo sapiens,EP400,cr,U2OS,None,Bone,0,EP400
+36141|TP63,0.04190375787506715,Homo sapiens,TP63,predicted transcription factor,None,Keratinocyte,None,0,TP63
+4403|KAT8,0.04197386276382016,Homo sapiens,KAT8,cr,None,T Lymphocyte,Blood,1,KAT8
+73926|ZNF816,0.04204406256923197,Homo sapiens,ZNF816,,293T,None,None,1,ZNF816
+1794|SND1,0.042114357376727765,Homo sapiens,SND1,tf,IB4,Lymphocyte,Blood,1,SND1
+65174|ZNF8,0.0422552323396674,Homo sapiens,ZNF8,,HEK293,Epithelium,Embryonic Kidney,1,ZNF8
+77257|ZNF75A,0.04239648833601933,Homo sapiens,ZNF75A,tf,MCF-7,None,None,1,ZNF75A
+75037|SMARCE1,0.042538126049141284,Homo sapiens,SMARCE1,,None,HMLE-Twist-ER_125nM,None,0,SMARCE1
+2651|PAX3,0.04268014616236356,Homo sapiens,PAX3,tf,RD,None,Muscle,0,PAX3
+76836|GCSAM,0.04296533632226135,Homo sapiens,GCSAM,other,HeLa,Epithelium,Cervix,1,GCSAM
+77204|CTRL,0.04303687392990392,Homo sapiens,CTRL,other,HCT-116,Colon cancer cell,Colon,1,CTRL
+77126|ZNF430,0.04303687392990392,Homo sapiens,ZNF430,tf,293T,None,None,1,ZNF430
+77160|ZNF211,0.04325206428160885,Homo sapiens,ZNF211,tf,293T,None,None,1,ZNF211
+62801|PTRF,0.04339600664396292,Homo sapiens,PTRF,,K562,Erythroblast,Bone Marrow,1,PTRF
+2|GAPDH,0.04346812271965727,Homo sapiens,GAPDH,not sure,HeLa,Epithelium,Cervix,0,GAPDH
+43676|CDK2,0.04354033550553287,Homo sapiens,CDK2,not sure,T47D-MTVL,Epithelium,Mammary Gland,0,CDK2
+54635|HECTD1,0.04426780120387695,Homo sapiens,HECTD1,predicted chromatin regulator,MCF-7,Epithelium,Breast,0,HECTD1
+77098|ZNF534,0.0446351905572468,Homo sapiens,ZNF534,tf,293T,None,None,1,ZNF534
+38838|LHX3,0.0447089623133244,Homo sapiens,LHX3,tf,LoVo,None,Colon,0,LHX3
+50112|MAFB,0.044782832230214065,Homo sapiens,MAFB,tf,None,Keratinocyte,Foreskin,1,MAFB
+64714|ZNF800,0.04485680039319267,Homo sapiens,ZNF800,,HEK293,Epithelium,Embryonic Kidney,1,ZNF800
+77144|ZNF287,0.045153657211279626,Homo sapiens,ZNF287,tf,293T,None,None,1,ZNF287
+77148|ZNF282,0.04530267731351557,Homo sapiens,ZNF282,tf,293T,None,None,1,ZNF282
+45806|ARID3A,0.04552694900102476,Homo sapiens,ARID3A,tf,HepG2,Epithelium,Liver,1,ARID3A
+34479|NFKBIA,0.04650912874078815,Homo sapiens,NFKBIA,other,None,Keratinocyte,Foreskin,0,NFKBIA
+47774|LDB1,0.04673818371943272,Homo sapiens,LDB1,not sure,None,Erythroid Progenitor Cell,Blood,1,LDB1
+77020|ZNF891,0.04735342348283583,Homo sapiens,ZNF891,other,293T,None,None,0,ZNF891
+49036|ERCC6,0.047430782691986285,Homo sapiens,ERCC6,predicted chromatin regulator,None,Fibroblast,Skin,1,ERCC6
+77083|ZNF571,0.04750824312624339,Homo sapiens,ZNF571,tf,293T,None,None,1,ZNF571
+74649|TP73,0.047585804870522164,Homo sapiens,TP73,predicted transcription factor,GM12878,B Lymphocyte,Blood,1,TP73
+56010|CDK12,0.047585804870522164,Homo sapiens,CDK12,tf,Jurkat,T Lymphocyte,Blood,1,CDK12
+65190|ZBTB6,0.04774123262873901,Homo sapiens,ZBTB6,,HEK293,Epithelium,Embryonic Kidney,1,ZBTB6
+42730|KLF6,0.047819098812440536,Homo sapiens,KLF6,tf,LoVo,None,Colon,0,KLF6
+77192|RBAK,0.047819098812440536,Homo sapiens,RBAK,tf,293T,None,None,1,RBAK
+42878|ZBTB2,0.047897066645690434,Homo sapiens,ZBTB2,tf,LoVo,None,Colon,0,ZBTB2
+77193|HKR1,0.04797513621333597,Homo sapiens,HKR1,tf,293T,None,None,1,HKR1
+73968|ZNF224,0.04820995617090735,Homo sapiens,ZNF224,,293T,None,None,1,ZNF224
+63845|MCM7,0.04828843352432445,Homo sapiens,MCM7,,K562,Erythroblast,Bone Marrow,1,MCM7
+44086|STAT5,0.04828843352432445,Homo sapiens,STAT5,tf,None,T Lymphocyte,Blood,1,STAT5
+77054|ZNF716,0.04868235436265075,Homo sapiens,ZNF716,tf,293T,None,None,1,ZNF716
+77086|ZNF566,0.04899933700187694,Homo sapiens,ZNF566,tf,293T,None,None,1,ZNF566
+59381|DUX4,0.049078839751828064,Homo sapiens,DUX4,other,None,Myoblast,None,1,DUX4
+44144|PHF6,0.049078839751828064,Homo sapiens,PHF6,predicted chromatin regulator,Jurkat,T Lymphocyte,Blood,1,PHF6
+2685|ZNF711,0.049397881650737996,Homo sapiens,ZNF711,predicted transcription factor,SH-SY5Y,None,Bone Marrow,1,ZNF711
+77075|ZNF615,0.049397881650737996,Homo sapiens,ZNF615,tf,293T,None,None,1,ZNF615
+44029|PALB2,0.04963824788685424,Homo sapiens,PALB2,predicted transcription factor,MCF-10A,Epithelium,Breast,1,PALB2
+63204|ZNF354C,0.04979900988922755,Homo sapiens,ZNF354C,,HEK293,Epithelium,Embryonic Kidney,1,ZNF354C
+38661|CAMTA2,0.049960186955998825,Homo sapiens,CAMTA2,tf,LoVo,None,Colon,1,CAMTA2
+51500|HNF1B,0.05004093134962848,Homo sapiens,HNF1B,tf,HUES64,Embryonic Stem Cell,Embryo,0,HNF1B
+77123|ZNF433,0.05012177976263415,Homo sapiens,ZNF433,tf,293T,None,None,1,ZNF433
+77080|ZNF587,0.0506906382822528,Homo sapiens,ZNF587,tf,293T,None,None,1,ZNF587
+77181|ZNF100,0.0506906382822528,Homo sapiens,ZNF100,other,293T,None,None,1,ZNF100
+35703|UBE2I,0.050772321886560966,Homo sapiens,UBE2I,other,WI-38,Fibroblast,Lung,0,UBE2I
+76686|CCND2,0.05085411026902365,Homo sapiens,CCND2,other,MM1.S,B Lymphocyte,Blood,1,CCND2
+45921|BRF2,0.05085411026902365,Homo sapiens,BRF2,tf,K562,Erythroblast,Bone Marrow,0,BRF2
+73928|ZNF778,0.05085411026902365,Homo sapiens,ZNF778,,293T,None,None,1,ZNF778
+73936|ZNF641,0.050936003513849616,Homo sapiens,ZNF641,,293T,None,None,0,ZNF641
+63031|t-IgG-control,0.0514295698054967,Homo sapiens,t-IgG-control,,None,None,Liver,1,t-IgG-control
+55211|MAPK1,0.05184377418556289,Homo sapiens,MAPK1,predicted chromatin regulator,HeLa,Epithelium,Cervix,1,MAPK1
+42860|PCF11,0.052093566596148916,Homo sapiens,PCF11,not sure,LoVo,None,Colon,0,PCF11
+56291|LMNA,0.05242810925543605,Homo sapiens,LMNA,not sure,None,Adipocyte,None,1,LMNA
+77060|ZNF684,0.05242810925543605,Homo sapiens,ZNF684,tf,293T,None,None,1,ZNF684
+77026|ZNF81,0.05251201085625565,Homo sapiens,ZNF81,tf,293T,None,None,1,ZNF81
+37189|IRF5,0.05327192969488617,Homo sapiens,IRF5,tf,None,Monocyte,Blood,0,IRF5
+41755|ZMYND11,0.05335690048043976,Homo sapiens,ZMYND11,predicted chromatin regulator,U2OS,None,Bone,0,ZMYND11
+45796|ESRRA,0.05352716426962198,Homo sapiens,ESRRA,tf,HepG2,Epithelium,Liver,1,ESRRA
+42767|ID2,0.05369785823932624,Homo sapiens,ID2,tf,LoVo,None,Colon,0,ID2
+63874|MTA2,0.0543849492635521,Homo sapiens,MTA2,tf,MCF-7,Epithelium,Breast,1,MTA2
+77130|ZNF398,0.05455780413717474,Homo sapiens,ZNF398,tf,293T,None,None,1,ZNF398
+62905|DIDO1,0.05473109318874272,Homo sapiens,DIDO1,,K562,Erythroblast,Bone Marrow,1,DIDO1
+43893|HOXC9,0.05481790073898034,Homo sapiens,HOXC9,tf,BE2-C,Neuroblast,Brain,1,HOXC9
+65212|ZNF513,0.055253572055368766,Homo sapiens,ZNF513,,HEK293,Epithelium,Embryonic Kidney,1,ZNF513
+45381|CHD4,0.055604074362360006,Homo sapiens,CHD4,cr,K562,Erythroblast,Bone Marrow,0,CHD4
+8784|CHD3,0.055604074362360006,Homo sapiens,CHD3,cr,K562,Erythroblast,Bone Marrow,0,CHD3
+64442|ZSCAN20,0.055868100969508894,Homo sapiens,ZSCAN20,,HEK293,Epithelium,Embryonic Kidney,1,ZSCAN20
+69218|BIRA,0.05595632930394962,Homo sapiens,BIRA,not sure,BJAB,GCB DLBCL cells,None,1,BIRA
+77184|ZKSCAN3,0.05622167386043223,Homo sapiens,ZKSCAN3,tf,293T,None,None,1,ZKSCAN3
+76969|LRWD1,0.05666611825118011,Homo sapiens,LRWD1,cr,U2OS,Osteosarcoma cell,None,1,LRWD1
+38816|IRX3,0.05711332590106227,Homo sapiens,IRX3,tf,LoVo,None,Colon,0,IRX3
+77089|ZNF562,0.05711332590106227,Homo sapiens,ZNF562,tf,293T,None,None,1,ZNF562
+35107|DOT1L,0.05711332590106227,Homo sapiens,DOT1L,cr,NCCIT,None,Embryo,0,DOT1L
+63523|TARDBP,0.057292984978142274,Homo sapiens,TARDBP,,GM12878,B Lymphocyte,Blood,1,TARDBP
+77121|ZNF440,0.057382981134849326,Homo sapiens,ZNF440,tf,293T,None,None,1,ZNF440
+77076|ZNF614,0.05747308847982504,Homo sapiens,ZNF614,tf,293T,None,None,1,ZNF614
+64887|NCOA1,0.057563307095143734,Homo sapiens,NCOA1,cr,K562,Erythroblast,Bone Marrow,1,NCOA1
+63772|NR2F6,0.05783463138337399,Homo sapiens,NR2F6,tf,HepG2,Epithelium,Liver,1,NR2F6
+58465|ARID1B,0.05810696005597463,Homo sapiens,ARID1B,predicted transcription factor,HepG2,Epithelium,Liver,0,ARID1B
+39657|NCOR2,0.058471631148193474,Homo sapiens,NCOR2,cr,LS180,Epithelium,Colon,0,NCOR2
+72700|NUP98,0.05856307914400812,Homo sapiens,NUP98,other,HEK293FT,None,Kidney,1,NUP98
+5363|SMAD2,0.05865463939226245,Homo sapiens,SMAD2,predicted transcription factor,H9,Embryonic Stem Cell,Embryo,0,SMAD2
+64975|H3F3A,0.05865463939226245,Homo sapiens,H3F3A,,DOHH-2,None,None,1,H3F3A
+45812|SREBF2,0.058746311974558874,Homo sapiens,SREBF2,tf,HepG2,Epithelium,Liver,1,SREBF2
+42778|OVOL2,0.058746311974558874,Homo sapiens,OVOL2,tf,LoVo,None,Colon,1,OVOL2
+54106|DNMT1,0.05892999446749954,Homo sapiens,DNMT1,cr,PC-3,Epithelium,Prostate,1,DNMT1
+38744|RAX2,0.059114127274892764,Homo sapiens,RAX2,tf,LoVo,None,Colon,0,RAX2
+62697|ZNF207,0.059206362750111576,Homo sapiens,ZNF207,,MCF-7,Epithelium,Breast,1,ZNF207
+38722|DLX4,0.059298711048189415,Homo sapiens,DLX4,tf,LoVo,None,Colon,0,DLX4
+72954|TBX5,0.059391172250460825,Homo sapiens,TBX5,tf,None,Cardiomyocyte,None,1,TBX5
+65080|ZNF582,0.059669234095196685,Homo sapiens,ZNF582,,HEK293,Epithelium,Embryonic Kidney,0,ZNF582
+77099|ZNF530,0.059762147726805374,Homo sapiens,ZNF530,tf,293T,None,None,1,ZNF530
+77142|ZNF300,0.0598551746686913,Homo sapiens,ZNF300,other,293T,None,None,1,ZNF300
+65108|OSR2,0.06050954275674435,Homo sapiens,OSR2,,HEK293,Epithelium,Embryonic Kidney,1,OSR2
+76408|ESCO2,0.06060347909695064,Homo sapiens,ESCO2,other,None,None,None,1,ESCO2
+36026|HIRA,0.06154912793309296,Homo sapiens,HIRA,predicted transcription factor,None,Epithelium,Cervix,1,HIRA
+42690|LHX6,0.06154912793309296,Homo sapiens,LHX6,tf,LoVo,None,Colon,0,LHX6
+77171|ZNF157,0.06221791054375327,Homo sapiens,ZNF157,tf,293T,None,None,1,ZNF157
+44100|FOXP3,0.06241002873518928,Homo sapiens,FOXP3,tf,None,T Lymphocyte,Blood,1,FOXP3
+65196|ZNF586,0.06318313049238387,Homo sapiens,ZNF586,,HEK293,Epithelium,Embryonic Kidney,1,ZNF586
+5982|SUPT20H,0.06318313049238387,Homo sapiens,SUPT20H,other,HeLa,Epithelium,Cervix,0,SUPT20H
+62558|PLRG1,0.0633775663688944,Homo sapiens,PLRG1,,HepG2,Epithelium,Liver,1,PLRG1
+44423|SMARCC1,0.0633775663688944,Homo sapiens,SMARCC1,cr,MCF-7,Epithelium,Breast,0,SMARCC1
+8556|CBX2,0.06357246769341056,Homo sapiens,CBX2,cr,HEK293T,Epithelium,Embryonic Kidney,0,CBX2
+57945|SOX15,0.06367009309721111,Homo sapiens,SOX15,tf,CP-A,Epithelium,Esophagus,0,SOX15
+76527|EPC1,0.06425829689648069,Homo sapiens,EPC1,tf,K562,Lymphoblast,None,1,EPC1
+54631|NCAPG2,0.06445530058686863,Homo sapiens,NCAPG2,predicted chromatin regulator,MCF-7,Epithelium,Breast,1,NCAPG2
+77101|ZNF527,0.06455397824217729,Homo sapiens,ZNF527,tf,293T,None,None,0,ZNF527
+76671|SMARCA1,0.06475168556747589,Homo sapiens,SMARCA1,cr,LNCaP,Epithelium,Prostate,0,SMARCA1
+77053|ZNF730,0.06494986277103354,Homo sapiens,ZNF730,other,293T,None,None,1,ZNF730
+77176|ZNF132,0.06494986277103354,Homo sapiens,ZNF132,tf,293T,None,None,1,ZNF132
+64693|ZNF382,0.06504912777397652,Homo sapiens,ZNF382,,HEK293,Epithelium,Embryonic Kidney,1,ZNF382
+73956|ZNF331,0.06514851048256312,Homo sapiens,ZNF331,,293T,None,None,1,ZNF331
+1452|HNF4G,0.06514851048256312,Homo sapiens,HNF4G,predicted transcription factor,HepG2,Epithelium,Liver,0,HNF4G
+77164|ZNF189,0.06524801097538012,Homo sapiens,ZNF189,other,293T,None,None,1,ZNF189
+73927|ZNF792,0.06524801097538012,Homo sapiens,ZNF792,,293T,None,None,1,ZNF792
+77153|ZNF25,0.06534762933096294,Homo sapiens,ZNF25,tf,293T,None,None,0,ZNF25
+42768|ID3,0.0656471923588863,Homo sapiens,ID3,tf,LoVo,None,Colon,0,ID3
+49154|SFPQ,0.0656471923588863,Homo sapiens,SFPQ,not sure,MCF-7,Epithelium,Breast,1,SFPQ
+77021|ZNF880,0.0656471923588863,Homo sapiens,ZNF880,other,293T,None,None,0,ZNF880
+65134|KLF7,0.06574728294985285,Homo sapiens,KLF7,,HEK293,Epithelium,Embryonic Kidney,0,KLF7
+77050|ZNF749,0.06574728294985285,Homo sapiens,ZNF749,tf,293T,None,None,1,ZNF749
+68962|PRDM14,0.06584749179548527,Homo sapiens,PRDM14,tf,NCCIT,Embryonal carcinoma cell,None,1,PRDM14
+65101|GTF3A,0.06594781897400669,Homo sapiens,GTF3A,,HEK293,Epithelium,Embryonic Kidney,0,GTF3A
+54385|DKK1,0.06604826456358733,Homo sapiens,DKK1,not sure,DLD-1,Epithelium,Colon,0,DKK1
+65158|ZNF394,0.06604826456358733,Homo sapiens,ZNF394,,HEK293,Epithelium,Embryonic Kidney,0,ZNF394
+65211|ZFP28,0.06614882864234481,Homo sapiens,ZFP28,,HEK293,Epithelium,Embryonic Kidney,1,ZFP28
+38835|DLX6,0.06624951128834312,Homo sapiens,DLX6,tf,LoVo,None,Colon,0,DLX6
+35290|BRDU,0.06635031257959312,Homo sapiens,BRDU,other,HeLa-S3,Epithelium,Cervix,1,BRDU
+64081|NFE2L1,0.06665342910415656,Homo sapiens,NFE2L1,tf,K562,Erythroblast,Bone Marrow,1,NFE2L1
+65085|ZNF134,0.06665342910415656,Homo sapiens,ZNF134,,HEK293,Epithelium,Embryonic Kidney,1,ZNF134
+77109|ZNF484,0.06665342910415656,Homo sapiens,ZNF484,tf,293T,None,None,1,ZNF484
+63821|GTF2E2,0.06675470575544665,Homo sapiens,GTF2E2,tf,K562,Erythroblast,Bone Marrow,0,GTF2E2
+5562|RAC3,0.06675470575544665,Homo sapiens,RAC3,cr,H3396,Epithelium,Mammary Gland,1,RAC3
+77266|ZSCAN2,0.06685610144123441,Homo sapiens,ZSCAN2,tf,HepG2,Epithelium,Liver,1,ZSCAN2
+77094|ZNF550,0.06695761623920599,Homo sapiens,ZNF550,tf,293T,None,None,1,ZNF550
+77038|ZNF785,0.06726287608226167,Homo sapiens,ZNF785,tf,293T,None,None,0,ZNF785
+42716|HES4,0.06726287608226167,Homo sapiens,HES4,tf,LoVo,None,Colon,0,HES4
+52206|IL1RN,0.06746697962698663,Homo sapiens,IL1RN,other,HEK293T,Epithelium,Embryonic Kidney,0,IL1RN
+38638|ZFHX3,0.06767156148022302,Homo sapiens,ZFHX3,tf,LoVo,None,Colon,0,ZFHX3
+77034|ZNF791,0.06777403196574253,Homo sapiens,ZNF791,tf,293T,None,None,0,ZNF791
+77159|ZNF212,0.06777403196574253,Homo sapiens,ZNF212,tf,293T,None,None,1,ZNF212
+42694|MSC,0.06777403196574253,Homo sapiens,MSC,tf,LoVo,None,Colon,0,MSC
+65181|ZNF250,0.06787662226012857,Homo sapiens,ZNF250,tf,HEK293,Epithelium,Embryonic Kidney,1,ZNF250
+77105|ZNF496,0.06787662226012857,Homo sapiens,ZNF496,tf,293T,None,None,0,ZNF496
+65088|ZNF41,0.06787662226012857,Homo sapiens,ZNF41,,HEK293,Epithelium,Embryonic Kidney,1,ZNF41
+77190|ZFP1,0.06787662226012857,Homo sapiens,ZFP1,tf,293T,None,None,1,ZFP1
+77072|ZNF620,0.06797933244050958,Homo sapiens,ZNF620,tf,293T,None,None,0,ZNF620
+55216|MAP2K1,0.06797933244050958,Homo sapiens,MAP2K1,not sure,HeLa,Epithelium,Cervix,1,MAP2K1
+76675|HP1BP3,0.06808216258395705,Homo sapiens,HP1BP3,other,HeLa,None,None,0,HP1BP3
+42862|PRDM4,0.06808216258395705,Homo sapiens,PRDM4,tf,LoVo,None,Colon,0,PRDM4
+42666|HIVEP3,0.06808216258395705,Homo sapiens,HIVEP3,tf,LoVo,None,Colon,0,HIVEP3
+64424|KLF16,0.06808216258395705,Homo sapiens,KLF16,,K562,Erythroblast,Bone Marrow,1,KLF16
+38798|ZBED4,0.0681851127674855,Homo sapiens,ZBED4,tf,LoVo,None,Colon,0,ZBED4
+74427|ZSCAN5A,0.06839137356255567,Homo sapiens,ZSCAN5A,,BeWo,None,None,0,ZSCAN5A
+62647|MCM5,0.06839137356255567,Homo sapiens,MCM5,,K562,Erythroblast,Bone Marrow,1,MCM5
+42805|ZNF281,0.0687016669778199,Homo sapiens,ZNF281,tf,LoVo,None,Colon,0,ZNF281
+56435|TOP2B,0.06890913163156652,Homo sapiens,TOP2B,predicted chromatin regulator,MCF-7,Epithelium,Breast,0,TOP2B
+77022|ZNF879,0.06890913163156652,Homo sapiens,ZNF879,tf,293T,None,None,1,ZNF879
+77115|ZNF45,0.06922123370912565,Homo sapiens,ZNF45,other,293T,None,None,0,ZNF45
+42701|NKX6-1,0.06932550939994818,Homo sapiens,NKX6-1,tf,LoVo,None,Colon,0,NKX6-1
+42699|NHLH1,0.06932550939994818,Homo sapiens,NHLH1,predicted transcription factor,LoVo,None,Colon,0,NHLH1
+42693|MIXL1,0.06932550939994818,Homo sapiens,MIXL1,tf,LoVo,None,Colon,0,MIXL1
+43546|C10orf12,0.06942990605049286,Homo sapiens,C10orf12,not sure,HEK293T,Epithelium,Embryonic Kidney,0,C10orf12
+42880|ZBTB4,0.0695344237370125,Homo sapiens,ZBTB4,tf,LoVo,None,Colon,0,ZBTB4
+77167|ZNF180,0.0696390625356998,Homo sapiens,ZNF180,tf,293T,None,None,1,ZNF180
+64874|IRF9,0.0696390625356998,Homo sapiens,IRF9,tf,K562,Erythroblast,Bone Marrow,1,IRF9
+77119|ZNF442,0.06984870377404714,Homo sapiens,ZNF442,tf,293T,None,None,1,ZNF442
+65143|ZNF354A,0.06995370636579051,Homo sapiens,ZNF354A,,HEK293,Epithelium,Embryonic Kidney,0,ZNF354A
+42723|HOXB4,0.07005883037386795,Homo sapiens,HOXB4,tf,LoVo,None,Colon,0,HOXB4
+73935|ZNF667,0.0701640758741687,Homo sapiens,ZNF667,,293T,None,None,1,ZNF667
+37179|STAT4,0.07037493165469139,Homo sapiens,STAT4,tf,None,Monocyte,Blood,0,STAT4
+38727|MZF1,0.07069212841084838,Homo sapiens,MZF1,tf,LoVo,None,Colon,0,MZF1
+63774|ZNF264,0.07069212841084838,Homo sapiens,ZNF264,,HEK293,Epithelium,Embryonic Kidney,1,ZNF264
+77162|ZNF205,0.07079810445471828,Homo sapiens,ZNF205,tf,293T,None,None,1,ZNF205
+77095|ZNF548,0.07090420252030874,Homo sapiens,ZNF548,tf,293T,None,None,0,ZNF548
+52209|TALE,0.07090420252030874,Homo sapiens,TALE,other,HEK293T,Epithelium,Embryonic Kidney,0,TALE
+63819|ZNF740,0.07101042268301268,Homo sapiens,ZNF740,,K562,Erythroblast,Bone Marrow,1,ZNF740
+62620|CHAMP1,0.0711167650181601,Homo sapiens,CHAMP1,,K562,Erythroblast,Bone Marrow,1,CHAMP1
+77270|ZNF410,0.0711167650181601,Homo sapiens,ZNF410,tf,K562,Erythroblast,Bone Marrow,1,ZNF410
+64140|HHEX,0.0713298165067894,Homo sapiens,HHEX,tf,HepG2,Epithelium,Liver,1,HHEX
+42726|IRF2,0.0713298165067894,Homo sapiens,IRF2,predicted transcription factor,LoVo,None,Colon,0,IRF2
+76474|CCNT1,0.0713298165067894,Homo sapiens,CCNT1,tf,C4-2,None,Prostate,0,CCNT1
+77069|ZNF627,0.07154335758756868,Homo sapiens,ZNF627,tf,293T,None,None,1,ZNF627
+77506|None,0.07154335758756868,Homo sapiens,None,None,None,Patient,None,0,None
+43084|7SK,0.0719719109259517,Homo sapiens,7SK,other,HEK293T,Epithelium,Embryonic Kidney,0,7SK
+49181|EGFA-T1,0.07229461556674413,Homo sapiens,EGFA-T1,other,HEK293T,Epithelium,Embryonic Kidney,0,EGFA-T1
+77102|ZNF525,0.07251036722663247,Homo sapiens,ZNF525,other,293T,None,None,1,ZNF525
+73967|ZNF225,0.07283491905467973,Homo sapiens,ZNF225,other,293T,None,None,1,ZNF225
+73091|RPA2,0.07283491905467973,Homo sapiens,RPA2,other,HeLa,Epithelium,Cervix,0,RPA2
+77166|ZNF181,0.07316058187122151,Homo sapiens,ZNF181,tf,293T,None,None,0,ZNF181
+49698|DEK,0.07337830861953988,Homo sapiens,DEK,predicted chromatin regulator,U937,None,Pleura,0,DEK
+69234|CENPT,0.07348735767676068,Homo sapiens,CENPT,other,HuRef,Lymphoblastoid,None,1,CENPT
+65150|SNAI1,0.07370582752643882,Homo sapiens,SNAI1,tf,HEK293,Epithelium,Embryonic Kidney,0,SNAI1
+77139|ZNF311,0.07381524846633711,Homo sapiens,ZNF311,other,293T,None,None,1,ZNF311
+77031|ZNF799,0.07381524846633711,Homo sapiens,ZNF799,tf,293T,None,None,1,ZNF799
+77100|ZNF529,0.0739247935144548,Homo sapiens,ZNF529,tf,293T,None,None,1,ZNF529
+77063|ZNF681,0.0739247935144548,Homo sapiens,ZNF681,tf,293T,None,None,1,ZNF681
+42889|ZNF581,0.07403446274434106,Homo sapiens,ZNF581,predicted transcription factor,LoVo,None,Colon,0,ZNF581
+40348|CHD5,0.07403446274434106,Homo sapiens,CHD5,cr,SH-SY5Y,None,Bone Marrow,1,CHD5
+76457|USP7,0.07414425622947599,Homo sapiens,USP7,tf,MDA-MB-231,Epithelium,Mammary Gland,1,USP7
+54628|NCAPG,0.07436421625906657,Homo sapiens,NCAPG,predicted chromatin regulator,MCF-7,Epithelium,Breast,0,NCAPG
+63357|ZFP41,0.07458467418968097,Homo sapiens,ZFP41,,HEK293,Epithelium,Embryonic Kidney,1,ZFP41
+77124|ZNF432,0.07458467418968097,Homo sapiens,ZNF432,tf,293T,None,None,1,ZNF432
+65099|ZFP42,0.07480563060665729,Homo sapiens,ZFP42,tf,HEK293,Epithelium,Embryonic Kidney,0,ZFP42
+77122|ZNF439,0.07491629593014211,Homo sapiens,ZNF439,tf,293T,None,None,0,ZNF439
+65089|ZNF136,0.07513800117170999,Homo sapiens,ZNF136,,HEK293,Epithelium,Embryonic Kidney,1,ZNF136
+38760|PDX1,0.07513800117170999,Homo sapiens,PDX1,tf,LoVo,None,Colon,0,PDX1
+73975|ZNF12,0.07513800117170999,Homo sapiens,ZNF12,predicted transcription factor,293T,None,None,1,ZNF12
+38849|MEIS2,0.07524904123542225,Homo sapiens,MEIS2,tf,LoVo,None,Colon,0,MEIS2
+63514|PYGO2,0.07536020635805428,Homo sapiens,PYGO2,,K562,Erythroblast,Bone Marrow,1,PYGO2
+74644|HES1,0.07580611888942737,Homo sapiens,HES1,tf,HepG2,Epithelium,Liver,1,HES1
+69945|INO80,0.07580611888942737,Homo sapiens,INO80,predicted chromatin regulator,A549,Epithelium,Lung,1,INO80
+65103|ZNF419,0.0759179103947644,Homo sapiens,ZNF419,,HEK293,Epithelium,Embryonic Kidney,1,ZNF419
+42689|LHX5,0.0759179103947644,Homo sapiens,LHX5,tf,LoVo,None,Colon,1,LHX5
+77172|ZNF154,0.07602982739375877,Homo sapiens,ZNF154,tf,293T,None,None,1,ZNF154
+73981|PRDM9,0.07602982739375877,Homo sapiens,PRDM9,predicted transcription factor,293T,None,None,0,PRDM9
+62568|ZNF592,0.07602982739375877,Homo sapiens,ZNF592,,MCF-7,Epithelium,Breast,1,ZNF592
+76846|EBF3,0.07602982739375877,Homo sapiens,EBF3,tf,SK-N-SH,Neuroblastoma cell,Brain,0,EBF3
+77233|FOXR2,0.07614186995861323,Homo sapiens,FOXR2,tf,MDA-MB-468,None,Breast,0,FOXR2
+52219|EBNA3A,0.07614186995861323,Homo sapiens,EBNA3A,other,HEK293T,Epithelium,Embryonic Kidney,0,EBNA3A
+77145|ZNF285,0.07614186995861323,Homo sapiens,ZNF285,other,293T,None,None,0,ZNF285
+71278|KAT2A,0.07614186995861323,Homo sapiens,KAT2A,cr,BGC823,human gastric cancer cells,None,1,KAT2A
+53471|SVIL,0.07614186995861323,Homo sapiens,SVIL,other,SH-SY5Y,None,Bone Marrow,1,SVIL
+65161|ZNF774,0.07614186995861323,Homo sapiens,ZNF774,,HEK293,Epithelium,Embryonic Kidney,0,ZNF774
+77156|ZNF235,0.07614186995861323,Homo sapiens,ZNF235,tf,293T,None,None,1,ZNF235
+70103|HIST1H1B,0.07614186995861323,Homo sapiens,HIST1H1B,predicted chromatin regulator,HeLa,Epithelium,Cervix,0,HIST1H1B
+73755|FOXD3,0.07614186995861323,Homo sapiens,FOXD3,tf,A549,Epithelium,Lung,0,FOXD3
+8552|PCGF2,0.07614186995861323,Homo sapiens,PCGF2,cr,HEK293T,Epithelium,Embryonic Kidney,0,PCGF2
+8554|PCGF5,0.07614186995861323,Homo sapiens,PCGF5,predicted chromatin regulator,HEK293T,Epithelium,Embryonic Kidney,0,PCGF5
+76665|PAX8,0.07614186995861323,Homo sapiens,PAX8,tf,KURAMOCHI,None,None,0,PAX8
+38781|NEUROG3,0.07614186995861323,Homo sapiens,NEUROG3,tf,LoVo,None,Colon,0,NEUROG3
+77058|ZNF69,0.07614186995861323,Homo sapiens,ZNF69,tf,293T,None,None,0,ZNF69
+69877|CCR5,0.07614186995861323,Homo sapiens,CCR5,other,None,Th1,None,1,CCR5
+77056|ZNF705G,0.07614186995861323,Homo sapiens,ZNF705G,other,293T,None,None,0,ZNF705G
+39347|USP49,0.07614186995861323,Homo sapiens,USP49,predicted chromatin regulator,HCT-116,None,Colon,1,USP49
+77097|ZNF540,0.07625403816145765,Homo sapiens,ZNF540,tf,293T,None,None,1,ZNF540
+76888|TERT,0.07625403816145765,Homo sapiens,TERT,other,VA13,Fibroblast,Lung,1,TERT
+1230|GTF3C1,0.07625403816145765,Homo sapiens,GTF3C1,tf,HeLa,Epithelium,Cervix,0,GTF3C1
+38802|MEF2D,0.07625403816145765,Homo sapiens,MEF2D,tf,LoVo,None,Colon,0,MEF2D
+36659|YBX1,0.07636633207434858,Homo sapiens,YBX1,tf,HEK293,Epithelium,Embryonic Kidney,1,YBX1
+42835|HOXD1,0.07647875176926908,Homo sapiens,HOXD1,tf,LoVo,None,Colon,0,HOXD1
+42834|HOXB7,0.07647875176926908,Homo sapiens,HOXB7,tf,LoVo,None,Colon,0,HOXB7
+731|ZNF274,0.07647875176926908,Homo sapiens,ZNF274,predicted transcription factor,GM12878,B Lymphocyte,Blood,0,ZNF274
+42661|HES5,0.07647875176926908,Homo sapiens,HES5,tf,LoVo,None,Colon,0,HES5
+58996|TAF15,0.07647875176926908,Homo sapiens,TAF15,not sure,HEK293,Epithelium,Embryonic Kidney,0,TAF15
+42663|HESX1,0.07647875176926908,Homo sapiens,HESX1,tf,LoVo,None,Colon,1,HESX1
+42840|MAFF,0.07647875176926908,Homo sapiens,MAFF,tf,LoVo,None,Colon,0,MAFF
+77533|H2AK119ub,0.07647875176926908,Homo sapiens,H2AK119ub,,None,Fibroblast,None,1,H2AK119ub
+42838|LCOR,0.07647875176926908,Homo sapiens,LCOR,tf,LoVo,None,Colon,0,LCOR
+42837|KCMF1,0.07647875176926908,Homo sapiens,KCMF1,not sure,LoVo,None,Colon,0,KCMF1
+76829|PGBD5,0.07647875176926908,Homo sapiens,PGBD5,other,G-401,None,Kidney,0,PGBD5
+42841|MEOX2,0.07647875176926908,Homo sapiens,MEOX2,tf,LoVo,None,Colon,0,MEOX2
+42662|HES7,0.07647875176926908,Homo sapiens,HES7,tf,LoVo,None,Colon,0,HES7
+42872|THAP4,0.07647875176926908,Homo sapiens,THAP4,tf,LoVo,None,Colon,0,THAP4
+42851|HOXC11,0.07647875176926908,Homo sapiens,HOXC11,tf,LoVo,None,Colon,0,HOXC11
+42879|ZBTB39,0.07647875176926908,Homo sapiens,ZBTB39,tf,LoVo,None,Colon,0,ZBTB39
+42875|WHSC1,0.07647875176926908,Homo sapiens,WHSC1,cr,LoVo,None,Colon,0,WHSC1
+42874|TSHZ1,0.07647875176926908,Homo sapiens,TSHZ1,tf,LoVo,None,Colon,0,TSHZ1
+42867|SKI,0.07647875176926908,Homo sapiens,SKI,predicted chromatin regulator,LoVo,None,Colon,0,SKI
+42873|TOE1,0.07647875176926908,Homo sapiens,TOE1,not sure,LoVo,None,Colon,0,TOE1
+72701|NUP98-HOXA9,0.07647875176926908,Homo sapiens,NUP98-HOXA9,other,HEK293FT,None,Kidney,0,NUP98-HOXA9
+397|IGF1R,0.07647875176926908,Homo sapiens,IGF1R,not sure,DFB,Melanocyte,Skin,0,IGF1R
+73095|RAD51,0.07647875176926908,Homo sapiens,RAD51,predicted chromatin regulator,U2OS,sarcoma-derived cells,None,0,RAD51
+42853|IRX2,0.07647875176926908,Homo sapiens,IRX2,tf,LoVo,None,Colon,0,IRX2
+42856|NFE2L3,0.07647875176926908,Homo sapiens,NFE2L3,tf,LoVo,None,Colon,0,NFE2L3
+42857|NFIB,0.07647875176926908,Homo sapiens,NFIB,predicted transcription factor,LoVo,None,Colon,0,NFIB
+42858|NKX2-3,0.07647875176926908,Homo sapiens,NKX2-3,tf,LoVo,None,Colon,0,NKX2-3
+42748|AHCTF1,0.07647875176926908,Homo sapiens,AHCTF1,tf,LoVo,None,Colon,0,AHCTF1
+42750|ATF7,0.07647875176926908,Homo sapiens,ATF7,tf,LoVo,None,Colon,0,ATF7
+42861|PLAG1,0.07647875176926908,Homo sapiens,PLAG1,tf,LoVo,None,Colon,0,PLAG1
+42833|HOXA9,0.07647875176926908,Homo sapiens,HOXA9,tf,LoVo,None,Colon,0,HOXA9
+42810|ASH1L,0.07647875176926908,Homo sapiens,ASH1L,cr,LoVo,None,Colon,0,ASH1L
+42809|ARNTL2,0.07647875176926908,Homo sapiens,ARNTL2,tf,LoVo,None,Colon,0,ARNTL2
+42808|ADNP2,0.07647875176926908,Homo sapiens,ADNP2,tf,LoVo,None,Colon,1,ADNP2
+42806|ZNF3,0.07647875176926908,Homo sapiens,ZNF3,tf,LoVo,None,Colon,0,ZNF3
+42811|BBX,0.07647875176926908,Homo sapiens,BBX,tf,LoVo,None,Colon,0,BBX
+76942|SRPK2,0.07647875176926908,Homo sapiens,SRPK2,other,MCF-10A,Epithelium,None,1,SRPK2
+42736|NCOA3,0.07647875176926908,Homo sapiens,NCOA3,cr,LoVo,None,Colon,0,NCOA3
+55365|LOXL1,0.07647875176926908,Homo sapiens,LOXL1,other,None,None,Schlemm's canal,0,LOXL1
+42802|TFAM,0.07647875176926908,Homo sapiens,TFAM,tf,LoVo,None,Colon,0,TFAM
+42803|UBP1,0.07647875176926908,Homo sapiens,UBP1,tf,LoVo,None,Colon,0,UBP1
+52109|CGGBP1,0.07647875176926908,Homo sapiens,CGGBP1,tf,1064Sk,Epidermal cell,Foreskin,0,CGGBP1
+"52211|HBG1, HBG2",0.07647875176926908,Homo sapiens,"HBG1, HBG2",other,HEK293T,Epithelium,Embryonic Kidney,1,"HBG1, HBG2"
+42781|SALL4,0.07647875176926908,Homo sapiens,SALL4,tf,LoVo,None,Colon,0,SALL4
+52587|WIZ,0.07647875176926908,Homo sapiens,WIZ,other,HEK293T,Epithelium,Embryonic Kidney,1,WIZ
+42776|NR1D1,0.07647875176926908,Homo sapiens,NR1D1,tf,LoVo,None,Colon,0,NR1D1
+42795|CAMTA1,0.07647875176926908,Homo sapiens,CAMTA1,tf,LoVo,None,Colon,0,CAMTA1
+44388|PPARD,0.07647875176926908,Homo sapiens,PPARD,tf,None,Endothelial Cell,Umbilical Vein,0,PPARD
+34532|GCG,0.07647875176926908,Homo sapiens,GCG,not sure,HEK293T,Epithelium,Embryonic Kidney,0,GCG
+42830|GZF1,0.07647875176926908,Homo sapiens,GZF1,tf,LoVo,None,Colon,0,GZF1
+42827|FOXF2,0.07647875176926908,Homo sapiens,FOXF2,predicted transcription factor,LoVo,None,Colon,0,FOXF2
+42740|NR2E3,0.07647875176926908,Homo sapiens,NR2E3,tf,LoVo,None,Colon,0,NR2E3
+42826|FOXC1,0.07647875176926908,Homo sapiens,FOXC1,tf,LoVo,None,Colon,0,FOXC1
+42824|ELF4,0.07647875176926908,Homo sapiens,ELF4,tf,LoVo,None,Colon,0,ELF4
+42656|FOXF1,0.07647875176926908,Homo sapiens,FOXF1,predicted transcription factor,LoVo,None,Colon,0,FOXF1
+76574|CENPC,0.07647875176926908,Homo sapiens,CENPC,other,HuRef,Lymphoblastoid,None,1,CENPC
+42652|FERD3L,0.07647875176926908,Homo sapiens,FERD3L,tf,LoVo,None,Colon,0,FERD3L
+42651|EVX1,0.07647875176926908,Homo sapiens,EVX1,tf,LoVo,None,Colon,0,EVX1
+42649|CREB3L1,0.07647875176926908,Homo sapiens,CREB3L1,tf,LoVo,None,Colon,0,CREB3L1
+76551|POLB,0.07647875176926908,Homo sapiens,POLB,other,MCF-7,MCF 7 Cells,None,0,POLB
+42818|CREBL2,0.07647875176926908,Homo sapiens,CREBL2,tf,LoVo,None,Colon,0,CREBL2
+42817|CDX1,0.07647875176926908,Homo sapiens,CDX1,tf,LoVo,None,Colon,0,CDX1
+42816|CDC5L,0.07647875176926908,Homo sapiens,CDC5L,not sure,LoVo,None,Colon,0,CDC5L
+42769|JAZF1,0.07647875176926908,Homo sapiens,JAZF1,not sure,LoVo,None,Colon,0,JAZF1
+1348|SMC4,0.07647875176926908,Homo sapiens,SMC4,predicted chromatin regulator,HeLa,Epithelium,Cervix,0,SMC4
+42766|ID1,0.07647875176926908,Homo sapiens,ID1,tf,LoVo,None,Colon,0,ID1
+76549|MDM2,0.07647875176926908,Homo sapiens,MDM2,cr,H1299,Epithelium,Lung,0,MDM2
+42739|NR1I2,0.07647875176926908,Homo sapiens,NR1I2,tf,LoVo,None,Colon,0,NR1I2
+42647|BHLHE41,0.07647875176926908,Homo sapiens,BHLHE41,tf,LoVo,None,Colon,0,BHLHE41
+42822|DRAP1,0.07647875176926908,Homo sapiens,DRAP1,tf,LoVo,None,Colon,0,DRAP1
+42646|BATF3,0.07647875176926908,Homo sapiens,BATF3,tf,LoVo,None,Colon,0,BATF3
+42821|DMRT2,0.07647875176926908,Homo sapiens,DMRT2,tf,LoVo,None,Colon,0,DMRT2
+42764|HOXB8,0.07647875176926908,Homo sapiens,HOXB8,tf,LoVo,None,Colon,0,HOXB8
+42820|DDIT3,0.07647875176926908,Homo sapiens,DDIT3,tf,LoVo,None,Colon,0,DDIT3
+42675|HOXD4,0.07647875176926908,Homo sapiens,HOXD4,tf,LoVo,None,Colon,0,HOXD4
+38660|TGIF1,0.07647875176926908,Homo sapiens,TGIF1,tf,LoVo,None,Colon,0,TGIF1
+38637|OTX1,0.07647875176926908,Homo sapiens,OTX1,tf,LoVo,None,Colon,0,OTX1
+38579|HSF2,0.07647875176926908,Homo sapiens,HSF2,tf,K562,Erythroblast,Bone Marrow,0,HSF2
+42674|HOXD13,0.07647875176926908,Homo sapiens,HOXD13,tf,LoVo,None,Colon,0,HOXD13
+42678|IKZF5,0.07647875176926908,Homo sapiens,IKZF5,tf,LoVo,None,Colon,0,IKZF5
+42677|ID4,0.07647875176926908,Homo sapiens,ID4,predicted transcription factor,LoVo,None,Colon,0,ID4
+42676|HOXD9,0.07647875176926908,Homo sapiens,HOXD9,tf,LoVo,None,Colon,0,HOXD9
+40319|SIRT3,0.07647875176926908,Homo sapiens,SIRT3,cr,U2OS,None,Bone,0,SIRT3
+42705|NR5A2,0.07647875176926908,Homo sapiens,NR5A2,tf,LoVo,None,Colon,0,NR5A2
+42671|HOXB2,0.07647875176926908,Homo sapiens,HOXB2,tf,LoVo,None,Colon,0,HOXB2
+42670|HOXB1,0.07647875176926908,Homo sapiens,HOXB1,tf,LoVo,None,Colon,0,HOXB1
+42669|HOXA11,0.07647875176926908,Homo sapiens,HOXA11,tf,LoVo,None,Colon,0,HOXA11
+8524|HNRNPL,0.07647875176926908,Homo sapiens,HNRNPL,predicted transcription factor,HeLa,Epithelium,Cervix,0,HNRNPL
+42673|HOXD11,0.07647875176926908,Homo sapiens,HOXD11,tf,LoVo,None,Colon,0,HOXD11
+42672|HOXB5,0.07647875176926908,Homo sapiens,HOXB5,tf,LoVo,None,Colon,0,HOXB5
+38676|HMGA1,0.07647875176926908,Homo sapiens,HMGA1,tf,LoVo,None,Colon,0,HMGA1
+38828|BTF3,0.07647875176926908,Homo sapiens,BTF3,tf,LoVo,None,Colon,0,BTF3
+38822|HOXA7,0.07647875176926908,Homo sapiens,HOXA7,tf,LoVo,None,Colon,0,HOXA7
+38842|YBX3,0.07647875176926908,Homo sapiens,YBX3,tf,LoVo,None,Colon,0,YBX3
+38748|PAX2,0.07647875176926908,Homo sapiens,PAX2,tf,LoVo,None,Colon,0,PAX2
+38787|TBX3,0.07647875176926908,Homo sapiens,TBX3,tf,LoVo,None,Colon,0,TBX3
+5564|CARM1,0.07647875176926908,Homo sapiens,CARM1,cr,H3396,Epithelium,Mammary Gland,0,CARM1
+38745|PITX1,0.07647875176926908,Homo sapiens,PITX1,tf,LoVo,None,Colon,0,PITX1
+38775|CIC,0.07647875176926908,Homo sapiens,CIC,tf,LoVo,None,Colon,0,CIC
+42681|IRF8,0.07647875176926908,Homo sapiens,IRF8,tf,LoVo,None,Colon,0,IRF8
+38769|TFEB,0.07647875176926908,Homo sapiens,TFEB,tf,LoVo,None,Colon,0,TFEB
+49198|F2RL1,0.07647875176926908,Homo sapiens,F2RL1,not sure,HEK293,Epithelium,Embryonic Kidney,0,F2RL1
+38757|NFIL3,0.07647875176926908,Homo sapiens,NFIL3,tf,LoVo,None,Colon,0,NFIL3
+38837|MSX2,0.07647875176926908,Homo sapiens,MSX2,tf,LoVo,None,Colon,0,MSX2
+38810|NFATC4,0.07647875176926908,Homo sapiens,NFATC4,tf,LoVo,None,Colon,0,NFATC4
+42685|FOXO4,0.07647875176926908,Homo sapiens,FOXO4,tf,LoVo,None,Colon,0,FOXO4
+38859|CEBPE,0.07647875176926908,Homo sapiens,CEBPE,tf,LoVo,None,Colon,0,CEBPE
+42665|HIC2,0.07647875176926908,Homo sapiens,HIC2,tf,LoVo,None,Colon,0,HIC2
+38711|TRPS1,0.07647875176926908,Homo sapiens,TRPS1,tf,LoVo,None,Colon,0,TRPS1
+38801|ETV6,0.07647875176926908,Homo sapiens,ETV6,tf,LoVo,None,Colon,0,ETV6
+38776|TFDP2,0.07647875176926908,Homo sapiens,TFDP2,tf,LoVo,None,Colon,0,TFDP2
+38728|CASZ1,0.07647875176926908,Homo sapiens,CASZ1,tf,LoVo,None,Colon,0,CASZ1
+42682|IRX5,0.07647875176926908,Homo sapiens,IRX5,tf,LoVo,None,Colon,0,IRX5
+71840|EWSR1,0.07659129731812869,Homo sapiens,EWSR1,tf,VCaP,Epithelium,Prostate,1,EWSR1
+56895|MAP1LC3A,0.07659129731812869,Homo sapiens,MAP1LC3A,other,IMR90,Fibroblast,Lung,0,MAP1LC3A
+76670|DDX11,0.07659129731812869,Homo sapiens,DDX11,other,A549,Epithelium,Lung,1,DDX11
+42696|MYF6,0.07659129731812869,Homo sapiens,MYF6,tf,LoVo,None,Colon,1,MYF6
+42930|RFX2,0.07659129731812869,Homo sapiens,RFX2,tf,GP5d,None,Colon,1,RFX2
+38752|DMRT1,0.07659129731812869,Homo sapiens,DMRT1,tf,LoVo,None,Colon,0,DMRT1
+77132|ZNF354B,0.07659129731812869,Homo sapiens,ZNF354B,tf,293T,None,None,1,ZNF354B
+77363|ZNF516,0.07659129731812869,Homo sapiens,ZNF516,tf,MCF-7,None,Breast,1,ZNF516
+73756|MEN1,0.07659129731812869,Homo sapiens,MEN1,tf,MCF-10A,None,Breast,1,MEN1
+42709|ATF6,0.07670396879276306,Homo sapiens,ATF6,tf,LoVo,None,Colon,0,ATF6
+55206|EGFR,0.07670396879276306,Homo sapiens,EGFR,not sure,HeLa,Epithelium,Cervix,1,EGFR
+38725|TFE3,0.0768167662649337,Homo sapiens,TFE3,tf,LoVo,None,Colon,0,TFE3
+77163|ZNF19,0.07715591538316344,Homo sapiens,ZNF19,tf,293T,None,None,1,ZNF19
+67859|EBNA2,0.07715591538316344,Homo sapiens,EBNA2,other,GM12878,B Lymphocyte,Blood,0,EBNA2
+77019|ZNF90,0.0772692175616059,Homo sapiens,ZNF90,tf,293T,None,None,0,ZNF90
+42866|RLF,0.0772692175616059,Homo sapiens,RLF,not sure,LoVo,None,Colon,0,RLF
+63186|SIX4,0.07738264609527383,Homo sapiens,SIX4,tf,MCF-7,Epithelium,Breast,1,SIX4
+65201|ZNF30,0.07738264609527383,Homo sapiens,ZNF30,,HEK293,Epithelium,Embryonic Kidney,1,ZNF30
+42855|MYBL1,0.07749620105547983,Homo sapiens,MYBL1,tf,LoVo,None,Colon,0,MYBL1
+65064|ZNF34,0.07760988251346095,Homo sapiens,ZNF34,,HEK293,Epithelium,Embryonic Kidney,0,ZNF34
+42868|SNAPC4,0.07760988251346095,Homo sapiens,SNAPC4,not sure,LoVo,None,Colon,0,SNAPC4
+74119|OLFM2,0.07760988251346095,Homo sapiens,OLFM2,other,MCF7-LTED,None,None,1,OLFM2
+38700|CUX1,0.07772369054037832,Homo sapiens,CUX1,tf,LoVo,None,Colon,0,CUX1
+77088|ZNF564,0.07806587474521938,Homo sapiens,ZNF564,tf,293T,None,None,1,ZNF564
+77186|ZIM2,0.07829463169432062,Homo sapiens,ZIM2,tf,293T,None,None,0,ZIM2
+77133|ZNF343,0.07840920062497017,Homo sapiens,ZNF343,tf,293T,None,None,1,ZNF343
+1221|GLYR1,0.0786387197515902,Homo sapiens,GLYR1,cr,HeLa,Epithelium,Cervix,1,GLYR1
+52785|CIITA,0.0786387197515902,Homo sapiens,CIITA,predicted transcription factor,Raji,B Lymphocyte,Blood,1,CIITA
+77189|ZFP69,0.07875367008857714,Homo sapiens,ZFP69,tf,293T,None,None,1,ZFP69
+38723|ARNT,0.07909928503870793,Homo sapiens,ARNT,predicted transcription factor,LoVo,None,Colon,0,ARNT
+42683|ISL2,0.07921474490259095,Homo sapiens,ISL2,tf,LoVo,None,Colon,0,ISL2
+73940|ZNF558,0.07956189011684106,Homo sapiens,ZNF558,,293T,None,None,1,ZNF558
+68963|CBFA2T2,0.07967786062885535,Homo sapiens,CBFA2T2,tf,NCCIT,Embryonal carcinoma cell,None,1,CBFA2T2
+73945|ZNF486,0.07967786062885535,Homo sapiens,ZNF486,not sure,293T,None,None,1,ZNF486
+77141|ZNF302,0.07979395897750141,Homo sapiens,ZNF302,tf,293T,None,None,1,ZNF302
+42831|HAND1,0.08002653946333001,Homo sapiens,HAND1,not sure,LoVo,None,Colon,0,HAND1
+42704|NR4A2,0.08037637070620796,Homo sapiens,NR4A2,tf,LoVo,None,Colon,1,NR4A2
+42688|LHX4,0.08061023268673029,Homo sapiens,LHX4,tf,LoVo,None,Colon,1,LHX4
+63398|ZFP37,0.08072735623016103,Homo sapiens,ZFP37,,HEK293,Epithelium,Embryonic Kidney,1,ZFP37
+77187|ZIK1,0.08084460823444299,Homo sapiens,ZIK1,tf,293T,None,None,1,ZIK1
+77044|ZNF776,0.08096198876852767,Homo sapiens,ZNF776,tf,293T,None,None,1,ZNF776
+70101|5MC,0.08096198876852767,Homo sapiens,5MC,other,293T,None,None,1,5MC
+42887|ZNF280D,0.08107949790128427,Homo sapiens,ZNF280D,predicted transcription factor,LoVo,None,Colon,0,ZNF280D
+77051|ZNF737,0.08131490223787907,Homo sapiens,ZNF737,tf,293T,None,None,0,ZNF737
+43552|C17orf96,0.08131490223787907,Homo sapiens,C17orf96,not sure,HEK293T,Epithelium,Embryonic Kidney,0,C17orf96
+73949|ZNF418,0.08143279757904354,Homo sapiens,ZNF418,,293T,None,None,1,ZNF418
+65136|ZNF184,0.0815508217935324,Homo sapiens,ZNF184,,HEK293,Epithelium,Embryonic Kidney,0,ZNF184
+77134|ZNF33B,0.0815508217935324,Homo sapiens,ZNF33B,tf,293T,None,None,0,ZNF33B
+77138|ZNF324B,0.08178725711622309,Homo sapiens,ZNF324B,tf,293T,None,None,0,ZNF324B
+71950|BANP,0.08190566836108598,Homo sapiens,BANP,tf,HCT-116,Human colorectal carcinoma,None,0,BANP
+77036|ZNF789,0.08190566836108598,Homo sapiens,ZNF789,other,293T,None,None,1,ZNF789
+58949|SMN1,0.08249966314625384,Homo sapiens,SMN1,not sure,HEK293,Epithelium,Embryonic Kidney,1,SMN1
+52241|ZTA,0.08249966314625384,Homo sapiens,ZTA,other,Akata,B Lymphocyte,None,1,ZTA
+62811|COPS2,0.08297718932072651,Homo sapiens,COPS2,,K562,Erythroblast,Bone Marrow,1,COPS2
+64446|OVOL3,0.08309689508734841,Homo sapiens,OVOL3,,HEK293,Epithelium,Embryonic Kidney,1,OVOL3
+45803|GRP20,0.08309689508734841,Homo sapiens,GRP20,other,HepG2,Epithelium,Liver,1,GRP20
+38754|GLI3,0.08345679160044811,Homo sapiens,GLI3,tf,LoVo,None,Colon,0,GLI3
+42695|MTF1,0.08345679160044811,Homo sapiens,MTF1,cr,LoVo,None,Colon,0,MTF1
+63872|ZNF138,0.08381785834332206,Homo sapiens,ZNF138,,HEK293,Epithelium,Embryonic Kidney,1,ZNF138
+65145|ZSCAN16,0.08393847428784684,Homo sapiens,ZSCAN16,,HEK293,Epithelium,Embryonic Kidney,0,ZSCAN16
+52055|HJURP,0.08393847428784684,Homo sapiens,HJURP,predicted chromatin regulator,HeLa,Epithelium,Cervix,1,HJURP
+76422|MAML3,0.08393847428784684,Homo sapiens,MAML3,tf,SK-N-SH,Neuroblastoma cell,Brain,1,MAML3
+58463|ARID1A,0.08393847428784684,Homo sapiens,ARID1A,predicted transcription factor,HepG2,Epithelium,Liver,0,ARID1A
+73978|ZFP69B,0.08430110414658354,Homo sapiens,ZFP69B,,293T,None,None,1,ZFP69B
+73941|ZNF549,0.08454350973887302,Homo sapiens,ZNF549,,293T,None,None,1,ZNF549
+63764|ZNF48,0.08466490844014285,Homo sapiens,ZNF48,,HEK293,Epithelium,Embryonic Kidney,1,ZNF48
+8550|RYBP,0.08466490844014285,Homo sapiens,RYBP,tf,HEK293T,Epithelium,Embryonic Kidney,1,RYBP
+75293|POLR3G,0.08466490844014285,Homo sapiens,POLR3G,tf,NT2-D1,Stem cell,None,1,POLR3G
+62967|HDGF,0.08466490844014285,Homo sapiens,HDGF,,MCF-7,Epithelium,Breast,1,HDGF
+42700|NKX2-8,0.08478643783314965,Homo sapiens,NKX2-8,tf,LoVo,None,Colon,0,NKX2-8
+72433|SMARCA2,0.08478643783314965,Homo sapiens,SMARCA2,cr,LNCaP,Epithelium,Prostate,0,SMARCA2
+77239|ZSCAN5B,0.08478643783314965,Homo sapiens,ZSCAN5B,tf,HEK293,HEK 293 Cell Line,None,0,ZSCAN5B
+65217|ZNF502,0.08490809798402205,Homo sapiens,ZNF502,,HEK293,Epithelium,Embryonic Kidney,0,ZNF502
+58136|ARID3B,0.08502988895879998,Homo sapiens,ARID3B,predicted transcription factor,OECM1,None,Head and neck,1,ARID3B
+42742|PPARA,0.08527386364378364,Homo sapiens,PPARA,tf,LoVo,None,Colon,0,PPARA
+65065|ZNF595,0.08551836241462535,Homo sapiens,ZNF595,,HEK293,Epithelium,Embryonic Kidney,1,ZNF595
+77106|ZNF492,0.085640808496388,Homo sapiens,ZNF492,tf,293T,None,None,0,ZNF492
+64308|ZNF837,0.0857633857964083,Homo sapiens,ZNF837,,HEK293,Epithelium,Embryonic Kidney,1,ZNF837
+52497|TCF21,0.0861319056596514,Homo sapiens,TCF21,tf,None,None,Coronary artery smooth muscle,1,TCF21
+56848|KRAB,0.0861319056596514,Homo sapiens,KRAB,other,K562,Erythroblast,Bone Marrow,1,KRAB
+42869|TCFL5,0.08625500848588236,Homo sapiens,TCFL5,tf,LoVo,None,Colon,0,TCFL5
+77077|ZNF613,0.08625500848588236,Homo sapiens,ZNF613,tf,293T,None,None,1,ZNF613
+77129|ZNF417,0.08625500848588236,Homo sapiens,ZNF417,tf,293T,None,None,1,ZNF417
+38764|ZNF706,0.08650160883647008,Homo sapiens,ZNF706,tf,LoVo,None,Colon,0,ZNF706
+77191|ZFP14,0.08687249708056421,Homo sapiens,ZFP14,tf,293T,None,None,1,ZFP14
+62818|ZFP3,0.0869963901455787,Homo sapiens,ZFP3,,HEK293,Epithelium,Embryonic Kidney,1,ZFP3
+77070|ZNF626,0.0871204151433117,Homo sapiens,ZNF626,other,293T,None,None,0,ZNF626
+77117|ZNF445,0.08736886119442523,Homo sapiens,ZNF445,tf,293T,None,None,1,ZNF445
+36358|SNAPC2,0.08761783574795534,Homo sapiens,SNAPC2,not sure,IMR90,Fibroblast,Lung,0,SNAPC2
+2638|EBNA1BP2,0.08761783574795534,Homo sapiens,EBNA1BP2,not sure,Raji,B Lymphocyte,Blood,1,EBNA1BP2
+53165|ALKBH3,0.08786733931645146,Homo sapiens,ALKBH3,other,PC-3,Epithelium,Prostate,1,ALKBH3
+69558|PSIP1,0.08786733931645146,Homo sapiens,PSIP1,predicted transcription factor,MV4-11,Leukemia Cell,None,1,PSIP1
+63598|GFI1B,0.08811737241095557,Homo sapiens,GFI1B,predicted transcription factor,HEK293,Epithelium,Embryonic Kidney,1,GFI1B
+42697|NEUROD2,0.08836793554099542,Homo sapiens,NEUROD2,tf,LoVo,None,Colon,0,NEUROD2
+38648|GLI1,0.08836793554099542,Homo sapiens,GLI1,tf,LoVo,None,Colon,0,GLI1
+38710|SATB1,0.08836793554099542,Homo sapiens,SATB1,tf,LoVo,None,Colon,0,SATB1
+42734|MYOD1,0.08836793554099542,Homo sapiens,MYOD1,tf,LoVo,None,Colon,0,MYOD1
+38840|ALX4,0.08836793554099542,Homo sapiens,ALX4,tf,LoVo,None,Colon,0,ALX4
+77268|HMG20A,0.0884934160281527,Homo sapiens,HMG20A,tf,GM12878,B Lymphocyte,Blood,0,HMG20A
+42871|TFCP2,0.0884934160281527,Homo sapiens,TFCP2,tf,LoVo,None,Colon,0,TFCP2
+64420|PRDM12,0.08861902921457676,Homo sapiens,PRDM12,,HEK293,Epithelium,Embryonic Kidney,1,PRDM12
+41627|BDP1,0.08899666560158853,Homo sapiens,BDP1,tf,IMR90,Fibroblast,Lung,1,BDP1
+36364|SNAPC5,0.08899666560158853,Homo sapiens,SNAPC5,not sure,IMR90,Fibroblast,Lung,1,SNAPC5
+77093|ZNF552,0.08924908784650121,Homo sapiens,ZNF552,tf,293T,None,None,1,ZNF552
+38792|MEIS3,0.08924908784650121,Homo sapiens,MEIS3,tf,LoVo,None,Colon,0,MEIS3
+67832|EBNA3C,0.08937549855365873,Homo sapiens,EBNA3C,other,None,Lymphoblast,None,0,EBNA3C
+38655|HOXC6,0.08950204240089328,Homo sapiens,HOXC6,tf,LoVo,None,Colon,0,HOXC6
+76470|MBD3L2,0.08950204240089328,Homo sapiens,MBD3L2,other,None,None,None,0,MBD3L2
+77127|ZNF429,0.08962871945079004,Homo sapiens,ZNF429,other,293T,None,None,1,ZNF429
+76684|CDKN1B,0.08975552976583734,Homo sapiens,CDKN1B,other,MM1.S,B Lymphocyte,Blood,1,CDKN1B
+77136|ZNF334,0.09013676092529477,Homo sapiens,ZNF334,tf,293T,None,None,1,ZNF334
+42721|HOXA5,0.09039158249855857,Homo sapiens,HOXA5,tf,LoVo,None,Colon,0,HOXA5
+42660|FOXQ1,0.09039158249855857,Homo sapiens,FOXQ1,tf,LoVo,None,Colon,0,FOXQ1
+38854|DLX2,0.09103097617680472,Homo sapiens,DLX2,tf,LoVo,None,Colon,1,DLX2
+73969|ZNF214,0.0911592565046157,Homo sapiens,ZNF214,,293T,None,None,0,ZNF214
+77049|ZNF74,0.0911592565046157,Homo sapiens,ZNF74,tf,293T,None,None,0,ZNF74
+38821|HIVEP1,0.0912876708397496,Homo sapiens,HIVEP1,tf,LoVo,None,Colon,0,HIVEP1
+77035|ZNF790,0.0912876708397496,Homo sapiens,ZNF790,tf,293T,None,None,0,ZNF790
+56544|WWTR1,0.09167371850059636,Homo sapiens,WWTR1,other,HuCCT1,None,None,0,WWTR1
+38690|CEBPG,0.09206097442453842,Homo sapiens,CEBPG,tf,LoVo,None,Colon,0,CEBPG
+68570|POU3F2,0.0923198171073909,Homo sapiens,POU3F2,tf,None,Neural Progenitor Cell,None,1,POU3F2
+77154|ZNF254,0.09270909044083392,Homo sapiens,ZNF254,tf,293T,None,None,1,ZNF254
+43577|CBX7,0.09336057482823873,Homo sapiens,CBX7,cr,None,Fibroblast,Foreskin,0,CBX7
+42852|HOXC13,0.09336057482823873,Homo sapiens,HOXC13,tf,LoVo,None,Colon,0,HOXC13
+77157|ZNF223,0.09362211340293036,Homo sapiens,ZNF223,other,293T,None,None,1,ZNF223
+73980|ZFP57,0.09454175882868177,Homo sapiens,ZFP57,tf,293T,None,None,1,ZFP57
+77061|ZNF682,0.09480573387081752,Homo sapiens,ZNF682,tf,293T,None,None,1,ZNF682
+62532|ZNF585B,0.09493792488602998,Homo sapiens,ZNF585B,,HEK293,Epithelium,Embryonic Kidney,1,ZNF585B
+33467|ELF5,0.0950702516417794,Homo sapiens,ELF5,tf,T47D,Epithelium,Mammary Gland,1,ELF5
+38782|AEBP2,0.09546804693368638,Homo sapiens,AEBP2,tf,LoVo,None,Colon,1,AEBP2
+56126|APOBEC3B,0.09546804693368638,Homo sapiens,APOBEC3B,other,MCF-7,Epithelium,Breast,1,APOBEC3B
+42888|ZNF395,0.09600034454213413,Homo sapiens,ZNF395,predicted transcription factor,LoVo,None,Colon,0,ZNF395
+73924|ZNF85,0.0964009976791319,Homo sapiens,ZNF85,,293T,None,None,1,ZNF85
+65102|ZSCAN31,0.09653482139819204,Homo sapiens,ZSCAN31,,HEK293,Epithelium,Embryonic Kidney,1,ZSCAN31
+62991|GLI4,0.09666878154905706,Homo sapiens,GLI4,,HEK293,Epithelium,Embryonic Kidney,1,GLI4
+4401|MEIS1,0.09680287818862804,Homo sapiens,MEIS1,tf,None,Haematopoietic Progenitor Cell,Cord blood,1,MEIS1
+38689|CREB3L2,0.09707148116094384,Homo sapiens,CREB3L2,tf,LoVo,None,Colon,0,CREB3L2
+77084|ZNF570,0.0973406307681553,Homo sapiens,ZNF570,tf,293T,None,None,1,ZNF570
+65059|ZFP82,0.09924002147743792,Homo sapiens,ZFP82,,HEK293,Epithelium,Embryonic Kidney,0,ZFP82
+42732|KMT2B,0.09924002147743792,Homo sapiens,KMT2B,cr,LoVo,None,Colon,0,KMT2B
+62764|ZNF24,0.09924002147743792,Homo sapiens,ZNF24,,K562,Erythroblast,Bone Marrow,1,ZNF24
+38780|LMX1B,0.09951356025958867,Homo sapiens,LMX1B,tf,LoVo,None,Colon,0,LMX1B
+63977|ZNF512,0.09992490100377266,Homo sapiens,ZNF512,,K562,Erythroblast,Bone Marrow,1,ZNF512
+68780|TOP1,0.10033748213633008,Homo sapiens,TOP1,not sure,HCT-116,Colon cancer cell,Colon,1,TOP1
+77174|ZNF135,0.1006132260495472,Homo sapiens,ZNF135,tf,293T,None,None,1,ZNF135
+47100|CBFA2T3,0.10130500334854986,Homo sapiens,CBFA2T3,tf,CAL-1,Dendritic Cell,None,1,CBFA2T3
+38656|MSX1,0.10144377366622953,Homo sapiens,MSX1,tf,LoVo,None,Colon,0,MSX1
+76831|SETX,0.10158268239367507,Homo sapiens,SETX,other,A549,Epithelium,Lung,1,SETX
+50456|AUTS2,0.10158268239367507,Homo sapiens,AUTS2,not sure,293T-Rex,None,None,1,AUTS2
+63050|ZNF292,0.10200023956228088,Homo sapiens,ZNF292,,HEK293,Epithelium,Embryonic Kidney,1,ZNF292
+39915|ELL,0.10227930402219748,Homo sapiens,ELL,predicted chromatin regulator,HCT-116,None,Colon,0,ELL
+58466|ARID2,0.10283909805769248,Homo sapiens,ARID2,predicted transcription factor,HepG2,Epithelium,Liver,0,ARID2
+2972|ATF7IP,0.1034011150144754,Homo sapiens,ATF7IP,cr,WM262,Melanocyte,Skin,1,ATF7IP
+77188|ZFP90,0.10382408850673276,Homo sapiens,ZFP90,tf,293T,None,None,1,ZFP90
+76974|RPA1,0.1041067672084836,Homo sapiens,RPA1,other,HeLa,Epithelium,Cervix,0,RPA1
+77090|ZNF561,0.1042483156238488,Homo sapiens,ZNF561,tf,293T,None,None,1,ZNF561
+76929|CD74,0.10439000348299897,Homo sapiens,CD74,other,None,B Lymphocyte,None,1,CD74
+38688|NKX2-5,0.10481590422697724,Homo sapiens,NKX2-5,tf,LoVo,None,Colon,0,NKX2-5
+65183|ZNF33A,0.10495815036447677,Homo sapiens,ZNF33A,,HEK293,Epithelium,Embryonic Kidney,0,ZNF33A
+76278|CALU,0.10510053619675737,Homo sapiens,CALU,other,Calu-3,None,Lung,1,CALU
+42711|DR1,0.1058145625197462,Homo sapiens,DR1,tf,LoVo,None,Colon,1,DR1
+38681|PHF20,0.10610115264712017,Homo sapiens,PHF20,cr,LoVo,None,Colon,0,PHF20
+64311|PRDM2,0.10682008039330933,Homo sapiens,PRDM2,,HEK293,Epithelium,Embryonic Kidney,1,PRDM2
+38807|ISL1,0.10682008039330933,Homo sapiens,ISL1,tf,LoVo,None,Colon,0,ISL1
+65215|ZNF784,0.10696428674777242,Homo sapiens,ZNF784,,HEK293,Epithelium,Embryonic Kidney,0,ZNF784
+64786|ZNF687,0.10725312064846876,Homo sapiens,ZNF687,,MCF-7,Epithelium,Breast,1,ZNF687
+65208|ZNF680,0.1075425164582272,Homo sapiens,ZNF680,,HEK293,Epithelium,Embryonic Kidney,1,ZNF680
+44757|DICER1,0.1075425164582272,Homo sapiens,DICER1,not sure,HEK293,Epithelium,Embryonic Kidney,0,DICER1
+38856|ATOH1,0.1079776645880468,Homo sapiens,ATOH1,tf,LoVo,None,Colon,1,ATOH1
+38666|ZBTB7B,0.10943731196428884,Homo sapiens,ZBTB7B,tf,LoVo,None,Colon,1,ZBTB7B
+77091|ZNF557,0.10943731196428884,Homo sapiens,ZNF557,tf,293T,None,None,1,ZNF557
+43668|DPPA2,0.10973093413731723,Homo sapiens,DPPA2,predicted chromatin regulator,HEK293T,Epithelium,Embryonic Kidney,0,DPPA2
+38815|MXD1,0.10987795711111432,Homo sapiens,MXD1,tf,LoVo,None,Colon,0,MXD1
+77087|ZNF565,0.11002512140405024,Homo sapiens,ZNF565,tf,293T,None,None,1,ZNF565
+77046|ZNF764,0.11046746265255042,Homo sapiens,ZNF764,tf,293T,None,None,0,ZNF764
+38686|SOX3,0.11091107740534156,Homo sapiens,SOX3,predicted transcription factor,LoVo,None,Colon,0,SOX3
+36113|FANCD2,0.11105923220039926,Homo sapiens,FANCD2,predicted chromatin regulator,HEK293T,Epithelium,Embryonic Kidney,0,FANCD2
+77082|ZNF573,0.1112075286753616,Homo sapiens,ZNF573,tf,293T,None,None,1,ZNF573
+77067|ZNF662,0.11180213226244867,Homo sapiens,ZNF662,tf,293T,None,None,1,ZNF662
+38845|DBP,0.11195113780192713,Homo sapiens,DBP,tf,LoVo,None,Colon,0,DBP
+51251|KDM1B,0.11284815340883995,Homo sapiens,KDM1B,cr,HepG2,Epithelium,Liver,0,KDM1B
+65202|ZNF37A,0.11359957665691868,Homo sapiens,ZNF37A,,HEK293,Epithelium,Embryonic Kidney,1,ZNF37A
+35296|ORC1,0.11375028839224455,Homo sapiens,ORC1,other,HeLa-S3,Epithelium,Cervix,1,ORC1
+77023|ZNF860,0.1140521392873992,Homo sapiens,ZNF860,other,293T,None,None,0,ZNF860
+58187|BANF1,0.11541752909139558,Homo sapiens,BANF1,other,None,Keratinocyte,None,1,BANF1
+38708|HOXA2,0.11602808305472655,Homo sapiens,HOXA2,tf,LoVo,None,Colon,0,HOXA2
+43567|CBX6,0.11602808305472655,Homo sapiens,CBX6,cr,None,Fibroblast,Foreskin,1,CBX6
+38734|ADNP,0.11618107914045744,Homo sapiens,ADNP,tf,LoVo,None,Colon,0,ADNP
+42847|STAG2,0.11618107914045744,Homo sapiens,STAG2,not sure,LoVo,None,Colon,1,STAG2
+64463|BCL11B,0.11618107914045744,Homo sapiens,BCL11B,,HEK293,Epithelium,Embryonic Kidney,1,BCL11B
+77169|ZNF169,0.11664092626703272,Homo sapiens,ZNF169,tf,293T,None,None,1,ZNF169
+77112|ZNF479,0.1180282067173517,Homo sapiens,ZNF479,tf,293T,None,None,1,ZNF479
+77177|ZNF124,0.11818306641579418,Homo sapiens,ZNF124,tf,293T,None,None,1,ZNF124
+8555|PCGF6,0.11849321673041785,Homo sapiens,PCGF6,cr,HEK293T,Epithelium,Embryonic Kidney,0,PCGF6
+77029|ZNF7,0.1189595200663328,Homo sapiens,ZNF7,tf,293T,None,None,0,ZNF7
+42891|ZNF84,0.11927110797268176,Homo sapiens,ZNF84,predicted transcription factor,LoVo,None,Colon,1,ZNF84
+77179|ZNF10,0.11973956910259498,Homo sapiens,ZNF10,tf,293T,None,None,1,ZNF10
+77041|ZNF780A,0.12099513751273595,Homo sapiens,ZNF780A,tf,293T,None,None,1,ZNF780A
+64496|ZNF781,0.1211527324960906,Homo sapiens,ZNF781,,HEK293,Epithelium,Embryonic Kidney,1,ZNF781
+75838|MYOG,0.1249783896316186,Homo sapiens,MYOG,tf,Rh4,rhabdomyosarcoma,None,1,MYOG
+39008|H3Pan,0.12530096166293414,Homo sapiens,H3Pan,other,A549,Epithelium,Lung,0,H3Pan
+42765|HOXC8,0.12530096166293414,Homo sapiens,HOXC8,tf,LoVo,None,Colon,0,HOXC8
+47711|SOX11,0.12562411449213126,Homo sapiens,SOX11,tf,GRANTA-519,B Lymphocyte,None,1,SOX11
+77135|ZNF337,0.126597060275554,Homo sapiens,ZNF337,tf,293T,None,None,1,ZNF337
+65060|ZNF329,0.12675972679500996,Homo sapiens,ZNF329,,HEK293,Epithelium,Embryonic Kidney,1,ZNF329
+49460|552-SKD,0.12692253879280285,Homo sapiens,552-SKD,other,MCF-7,Epithelium,Breast,0,552-SKD
+45931|BRF1,0.12692253879280285,Homo sapiens,BRF1,tf,K562,Erythroblast,Bone Marrow,0,BRF1
+45891|ZC3H11A,0.12692253879280285,Homo sapiens,ZC3H11A,other,K562,Erythroblast,Bone Marrow,0,ZC3H11A
+64288|ZSCAN23,0.12741184795772004,Homo sapiens,ZSCAN23,,HEK293,Epithelium,Embryonic Kidney,1,ZSCAN23
+65104|ZNF596,0.12888764092740185,Homo sapiens,ZNF596,,HEK293,Epithelium,Embryonic Kidney,0,ZNF596
+2109|POLR3A,0.12938219635316128,Homo sapiens,POLR3A,tf,K562,Erythroblast,Bone Marrow,1,POLR3A
+38790|KLF3,0.1300436469271059,Homo sapiens,KLF3,tf,LoVo,None,Colon,1,KLF3
+76568|UHRF2,0.13020937463684346,Homo sapiens,UHRF2,other,293T,None,None,1,UHRF2
+50713|GTF2I,0.13037524842763948,Homo sapiens,GTF2I,tf,None,Fibroblast,None,1,GTF2I
+1347|SMARCC2,0.1305412683265016,Homo sapiens,SMARCC2,cr,HeLa,Epithelium,Cervix,1,SMARCC2
+77140|ZNF304,0.1305412683265016,Homo sapiens,ZNF304,other,293T,None,None,1,ZNF304
+77111|ZNF480,0.1307074343602817,Homo sapiens,ZNF480,tf,293T,None,None,1,ZNF480
+38680|JDP2,0.13120680953731695,Homo sapiens,JDP2,tf,LoVo,None,Colon,0,JDP2
+48692|H3F3B,0.1317075008803344,Homo sapiens,H3F3B,other,None,Spermatid,None,1,H3F3B
+77120|ZNF441,0.1317075008803344,Homo sapiens,ZNF441,tf,293T,None,None,1,ZNF441
+38678|HOXA13,0.13220950908905715,Homo sapiens,HOXA13,tf,LoVo,None,Colon,1,HOXA13
+64322|ZNF362,0.13355464084005636,Homo sapiens,ZNF362,,HEK293,Epithelium,Embryonic Kidney,1,ZNF362
+42763|HOXB6,0.13406148333705298,Homo sapiens,HOXB6,tf,LoVo,None,Colon,1,HOXB6
+49742|SSU72,0.13406148333705298,Homo sapiens,SSU72,other,H1,Embryonic Stem Cell,Embryo,1,SSU72
+58061|ZNF165,0.13490915439192575,Homo sapiens,ZNF165,tf,WHIM12,Epithelium,Breast,0,ZNF165
+77263|NFIA,0.13661550760510704,Homo sapiens,NFIA,tf,K562,Erythroblast,Bone Marrow,1,NFIA
+38830|FEV,0.13799117283581944,Homo sapiens,FEV,tf,LoVo,None,Colon,1,FEV
+64009|ZNF589,0.1390291018874728,Homo sapiens,ZNF589,,K562,Erythroblast,Bone Marrow,1,ZNF589
+77457|SON,0.14024672040094072,Homo sapiens,SON,,K562,Leukemia,None,1,SON
+77074|ZNF616,0.1407707675871378,Homo sapiens,ZNF616,tf,293T,None,None,1,ZNF616
+62986|ZNF391,0.1407707675871378,Homo sapiens,ZNF391,,HEK293,Epithelium,Embryonic Kidney,1,ZNF391
+63641|ZNF140,0.1427036313641583,Homo sapiens,ZNF140,,HEK293,Epithelium,Embryonic Kidney,1,ZNF140
+77131|ZNF383,0.14412056931223274,Homo sapiens,ZNF383,tf,293T,None,None,1,ZNF383
+64089|TEAD2,0.14447628101048482,Homo sapiens,TEAD2,tf,K562,Erythroblast,Bone Marrow,1,TEAD2
+64839|NONO,0.14465435851856406,Homo sapiens,NONO,,MCF-7,Epithelium,Breast,1,NONO
+64060|CSDE1,0.1457259276320081,Homo sapiens,CSDE1,,K562,Erythroblast,Bone Marrow,1,CSDE1
+65118|ZNF768,0.1460843001460423,Homo sapiens,ZNF768,,HEK293,Epithelium,Embryonic Kidney,1,ZNF768
+49193|CSNK2A1,0.14626370823579438,Homo sapiens,CSNK2A1,other,LNCaP,Epithelium,Prostate,1,CSNK2A1
+77028|ZNF805,0.14716296748520447,Homo sapiens,ZNF805,other,293T,None,None,1,ZNF805
+41630|POLR3GL,0.15006546095513856,Homo sapiens,POLR3GL,tf,IMR90,Fibroblast,Lung,1,POLR3GL
+55571|BACH2,0.1507970075166934,Homo sapiens,BACH2,tf,None,B Lymphocyte,None,1,BACH2
+42692|MAFG,0.15098026450621055,Homo sapiens,MAFG,tf,LoVo,None,Colon,1,MAFG
+72432|GUCY1B3,0.15393252991998446,Homo sapiens,GUCY1B3,other,U87,glioma cancer cell line overexpressing sGC-beta1,None,1,GUCY1B3
+42772|MXD3,0.1546765254262833,Homo sapiens,MXD3,tf,LoVo,None,Colon,1,MXD3
+38800|RORA,0.15598422595699268,Homo sapiens,RORA,tf,LoVo,None,Colon,0,RORA
+77078|ZNF611,0.15843209065382094,Homo sapiens,ZNF611,tf,293T,None,None,1,ZNF611
+54380|LMTK3,0.15881090978461776,Homo sapiens,LMTK3,not sure,MCF-7,Epithelium,Breast,1,LMTK3
+63579|ZNF239,0.16071390377062938,Homo sapiens,ZNF239,,HEK293,Epithelium,Embryonic Kidney,1,ZNF239
+77137|ZNF333,0.16109628217480734,Homo sapiens,ZNF333,tf,293T,None,None,1,ZNF333
+77043|ZNF777,0.1616709619664874,Homo sapiens,ZNF777,tf,293T,None,None,1,ZNF777
+38827|FOXG1,0.1624392776543398,Homo sapiens,FOXG1,tf,LoVo,None,Colon,1,FOXG1
+36814|TLE3,0.16263172726331315,Homo sapiens,TLE3,not sure,MCF-7,Epithelium,Breast,1,TLE3
+77025|ZNF823,0.16475845767451142,Homo sapiens,ZNF823,tf,293T,None,None,1,ZNF823
+38643|ERF,0.16553626098854465,Homo sapiens,ERF,tf,LoVo,None,Colon,0,ERF
+62682|ZNF16,0.1674911415359442,Homo sapiens,ZNF16,,HEK293,Epithelium,Embryonic Kidney,1,ZNF16
+77261|ZNF597,0.16808049428847038,Homo sapiens,ZNF597,tf,GM12878,B Lymphocyte,Blood,1,ZNF597
+77168|ZNF17,0.1692631979120634,Homo sapiens,ZNF17,tf,293T,None,None,1,ZNF17
+77052|ZNF736,0.1694608333463365,Homo sapiens,ZNF736,other,293T,None,None,0,ZNF736
+64617|HDAC8,0.17104724463915266,Homo sapiens,HDAC8,cr,K562,Erythroblast,Bone Marrow,1,HDAC8
+50035|NME2,0.17324401756368024,Homo sapiens,NME2,tf,A549,Epithelium,Lung,0,NME2
+73959|ZNF317,0.1750546789213645,Homo sapiens,ZNF317,,293T,None,None,1,ZNF317
+63632|ZNF501,0.17566089105068367,Homo sapiens,ZNF501,,HEK293,Epithelium,Embryonic Kidney,1,ZNF501
+77255|DPF1,0.17708055149624952,Homo sapiens,DPF1,other,MCF-7,None,None,1,DPF1
+38729|HOXB13,0.177691190075128,Homo sapiens,HOXB13,tf,LoVo,None,Colon,1,HOXB13
+63310|ZNF318,0.1785074388473758,Homo sapiens,ZNF318,,K562,Erythroblast,Bone Marrow,1,ZNF318
+38641|ATF5,0.17932604538293356,Homo sapiens,ATF5,tf,LoVo,None,Colon,0,ATF5
+1010|FOXH1,0.1830389176840303,Homo sapiens,FOXH1,tf,H9,Embryonic Stem Cell,Embryo,1,FOXH1
+63038|ZNF121,0.1832465850801264,Homo sapiens,ZNF121,,HEK293,Epithelium,Embryonic Kidney,1,ZNF121
+38817|HOXA1,0.18428712466604946,Homo sapiens,HOXA1,tf,LoVo,None,Colon,1,HOXA1
+45630|WRNIP1,0.18554061470308786,Homo sapiens,WRNIP1,predicted chromatin regulator,GM12878,B Lymphocyte,Blood,1,WRNIP1
+39924|ICE2,0.18869741699983428,Homo sapiens,ICE2,other,HCT-116,None,Colon,1,ICE2
+77147|ZNF283,0.19252898966293547,Homo sapiens,ZNF283,other,293T,None,None,1,ZNF283
+62617|KLF17,0.192957636236094,Homo sapiens,KLF17,,HEK293,Epithelium,Embryonic Kidney,1,KLF17
+73976|ZNF101,0.19597445249065212,Homo sapiens,ZNF101,,293T,None,None,1,ZNF101
+38747|TOX4,0.1983647646203081,Homo sapiens,TOX4,tf,LoVo,None,Colon,0,TOX4
+62769|ZNF71,0.2012122483766593,Homo sapiens,ZNF71,,HEK293,Epithelium,Embryonic Kidney,1,ZNF71
+45877|XRCC4,0.2012122483766593,Homo sapiens,XRCC4,tf,K562,Erythroblast,Bone Marrow,0,XRCC4
+77068|ZNF649,0.20297666404374626,Homo sapiens,ZNF649,tf,293T,None,None,1,ZNF649
+77048|ZNF75D,0.20297666404374626,Homo sapiens,ZNF75D,tf,293T,None,None,1,ZNF75D
+38695|RBCK1,0.20586346759637264,Homo sapiens,RBCK1,tf,LoVo,None,Colon,1,RBCK1
+42865|RFX7,0.20653309586873345,Homo sapiens,RFX7,tf,LoVo,None,Colon,0,RFX7
+77155|ZNF248,0.2069802306448834,Homo sapiens,ZNF248,tf,293T,None,None,1,ZNF248
+41489|RING1,0.20832506741855944,Homo sapiens,RING1,cr,DU145,Epithelium,Prostate,1,RING1
+77064|ZNF675,0.21012617825987054,Homo sapiens,ZNF675,tf,293T,None,None,1,ZNF675
+38709|GLIS3,0.2126175834536122,Homo sapiens,GLIS3,tf,LoVo,None,Colon,0,GLIS3
+77146|ZNF284,0.2188054892999311,Homo sapiens,ZNF284,tf,293T,None,None,1,ZNF284
+77027|ZNF808,0.2218214292571385,Homo sapiens,ZNF808,other,293T,None,None,1,ZNF808
+38799|GMEB1,0.2281605788983345,Homo sapiens,GMEB1,tf,LoVo,None,Colon,1,GMEB1
+69998|SMARCA5,0.23292117782666336,Homo sapiens,SMARCA5,cr,LNCaP,Epithelium,Prostate,1,SMARCA5
+38808|BARHL1,0.23363999639159425,Homo sapiens,BARHL1,tf,LoVo,None,Colon,0,BARHL1
+73961|ZNF2,0.2346003314573248,Homo sapiens,ZNF2,,293T,None,None,1,ZNF2
+77024|ZNF846,0.2384634175026145,Homo sapiens,ZNF846,other,293T,None,None,1,ZNF846
+68102|CRY1,0.2401644063648785,Homo sapiens,CRY1,not sure,U2OS,None,Bone,1,CRY1
+38796|ZFAT,0.2406516150461057,Homo sapiens,ZFAT,tf,LoVo,None,Colon,1,ZFAT
+76547|CHAT,0.2438315460768008,Homo sapiens,CHAT,other,SH-SY5Y,Neuron,None,0,CHAT
+65135|SCRT1,0.2440770919859649,Homo sapiens,SCRT1,,HEK293,Epithelium,Embryonic Kidney,0,SCRT1
+42850|GRHL1,0.2450606078649493,Homo sapiens,GRHL1,predicted transcription factor,LoVo,None,Colon,1,GRHL1
+77103|ZNF519,0.2475286955856896,Homo sapiens,ZNF519,tf,293T,None,None,1,ZNF519
+77108|ZNF485,0.2542583260022995,Homo sapiens,ZNF485,other,293T,None,None,1,ZNF485
+77018|ZNF93,0.2555149977556791,Homo sapiens,ZNF93,tf,293T,None,None,1,ZNF93
+77158|ZNF222,0.2575324013731096,Homo sapiens,ZNF222,other,293T,None,None,1,ZNF222
+63011|ZNF697,0.2610826621379411,Homo sapiens,ZNF697,,HEK293,Epithelium,Embryonic Kidney,1,ZNF697
+63594|SOX13,0.2644017160270774,Homo sapiens,SOX13,,HepG2,Epithelium,Liver,1,SOX13
+63904|ZNF438,0.2667120383148979,Homo sapiens,ZNF438,,HEK293,Epithelium,Embryonic Kidney,1,ZNF438
+64359|ZNF788,0.27266218788117913,Homo sapiens,ZNF788,,HEK293,Epithelium,Embryonic Kidney,1,ZNF788
+42707|ARNT2,0.2799936591469631,Homo sapiens,ARNT2,tf,LoVo,None,Colon,1,ARNT2
+77033|ZNF793,0.2831647136750961,Homo sapiens,ZNF793,other,293T,None,None,1,ZNF793
+65128|ZNF436,0.2831647136750961,Homo sapiens,ZNF436,,HEK293,Epithelium,Embryonic Kidney,1,ZNF436
+54240|PGR,0.2831647136750961,Homo sapiens,PGR,tf,None,Stromal Cell,Endometrium,1,PGR
+76814|NEUROG2,0.28582035262198513,Homo sapiens,NEUROG2,tf,None,Fibroblast,Fetal Lung,1,NEUROG2
+62565|ZNF623,0.2879533550387787,Homo sapiens,ZNF623,,HEK293,Epithelium,Embryonic Kidney,1,ZNF623
+77065|ZNF674,0.2911668765955096,Homo sapiens,ZNF674,tf,293T,None,None,1,ZNF674
+63679|ZNF423,0.29331848474046873,Homo sapiens,ZNF423,,HEK293,Epithelium,Embryonic Kidney,1,ZNF423
+65187|ZNF146,0.2935879530351364,Homo sapiens,ZNF146,,HEK293,Epithelium,Embryonic Kidney,1,ZNF146
+33035|AHR,0.2976436594293909,Homo sapiens,AHR,tf,MCF-7,Epithelium,Breast,1,AHR
+76567|ZNF618,0.2990012210453515,Homo sapiens,ZNF618,tf,293T,None,None,1,ZNF618
+43555|CBX4,0.30968527801484874,Homo sapiens,CBX4,cr,HEK293T,Epithelium,Embryonic Kidney,1,CBX4
+38736|NKX2-2,0.31300587904251165,Homo sapiens,NKX2-2,tf,LoVo,None,Colon,1,NKX2-2
+65062|ZNF467,0.3157846962512271,Homo sapiens,ZNF467,,HEK293,Epithelium,Embryonic Kidney,1,ZNF467
+64174|ZNF580,0.31662038544251536,Homo sapiens,ZNF580,,HEK293,Epithelium,Embryonic Kidney,1,ZNF580
+52549|SOX10,0.3180152814274363,Homo sapiens,SOX10,tf,501-Mel,Melanoma Cell,None,1,SOX10
+77116|ZNF44,0.3196925693022121,Homo sapiens,ZNF44,tf,293T,None,None,1,ZNF44
+65069|ZNF490,0.3372355763816074,Homo sapiens,ZNF490,,HEK293,Epithelium,Embryonic Kidney,1,ZNF490
+72398|BRD9,0.3380938714424814,Homo sapiens,BRD9,other,NOMO-1,Acute myeloid leukemia,None,1,BRD9
+77128|ZNF425,0.3386665363765781,Homo sapiens,ZNF425,other,293T,None,None,1,ZNF425
+77183|ZKSCAN5,0.3455672930857739,Homo sapiens,ZKSCAN5,tf,293T,None,None,1,ZKSCAN5
+77150|ZNF273,0.3510671650473648,Homo sapiens,ZNF273,tf,293T,None,None,1,ZNF273
+77045|ZNF765,0.3630408303122401,Homo sapiens,ZNF765,other,293T,None,None,1,ZNF765
+62665|HLTF,0.3656876984152329,Homo sapiens,HLTF,,K562,Erythroblast,Bone Marrow,1,HLTF
+77113|ZNF468,0.37100054852798975,Homo sapiens,ZNF468,other,293T,None,None,1,ZNF468
+65157|ZNF260,0.3855856962592653,Homo sapiens,ZNF260,,HEK293,Epithelium,Embryonic Kidney,1,ZNF260
+38721|CREB3L4,0.3861846181291105,Homo sapiens,CREB3L4,tf,LoVo,None,Colon,1,CREB3L4
+63765|ZNF414,0.3867838113381261,Homo sapiens,ZNF414,,HEK293,Epithelium,Embryonic Kidney,1,ZNF414
+65061|ZNF554,0.3912862730891172,Homo sapiens,ZNF554,,HEK293,Epithelium,Embryonic Kidney,1,ZNF554
+46251|MBD4,0.4051824680870633,Homo sapiens,MBD4,cr,HepG2,Epithelium,Liver,1,MBD4
+65081|ZIM3,0.4070042705559828,Homo sapiens,ZIM3,,HEK293,Epithelium,Embryonic Kidney,1,ZIM3
+63611|ZKSCAN8,0.42287350770045773,Homo sapiens,ZKSCAN8,,K562,Erythroblast,Bone Marrow,1,ZKSCAN8
+63808|HLF,0.4345514936821169,Homo sapiens,HLF,,HepG2,Epithelium,Liver,1,HLF
+64977|WT1,0.4413393118008307,Homo sapiens,WT1,tf,HEK293,Epithelium,Embryonic Kidney,1,WT1
+65142|ZNF320,0.4465963780660419,Homo sapiens,ZNF320,,HEK293,Epithelium,Embryonic Kidney,1,ZNF320
+63555|MIER1,0.4599335429356227,Homo sapiens,MIER1,,K562,Erythroblast,Bone Marrow,1,MIER1
+62900|ZNF346,0.4689548391937338,Homo sapiens,ZNF346,,HEK293,Epithelium,Embryonic Kidney,1,ZNF346
+77366|TIAM1,0.473627584960697,Homo sapiens,TIAM1,other,SW480,Epithelium,Colon,1,TIAM1
+65073|ZNF280A,0.4817352415132946,Homo sapiens,ZNF280A,,HEK293,Epithelium,Embryonic Kidney,1,ZNF280A
+38174|EBNA3,0.5123349602081554,Homo sapiens,EBNA3,other,Mutu III,B Lymphocyte,None,1,EBNA3
+77104|ZNF506,0.5157684179320953,Homo sapiens,ZNF506,tf,293T,None,None,1,ZNF506
+64314|ZNF664,0.5282419850573701,Homo sapiens,ZNF664,,HEK293,Epithelium,Embryonic Kidney,1,ZNF664
+38858|MECOM,0.5329130986529088,Homo sapiens,MECOM,tf,LoVo,None,Colon,1,MECOM
+32847|HOTAIR,0.5444144831887966,Homo sapiens,HOTAIR,other,MDA-231,Epithelium,Mammary Gland,1,HOTAIR
+44131|SRCAP,0.545035208060901,Homo sapiens,SRCAP,cr,None,T Lymphocyte,Blood,1,SRCAP
+77039|ZNF783,0.5558787625513754,Homo sapiens,ZNF783,tf,293T,None,None,1,ZNF783
+64619|TRIM22,0.5648321975350455,Homo sapiens,TRIM22,,GM12878,B Lymphocyte,Blood,1,TRIM22
+63738|ZNF654,0.583857264882626,Homo sapiens,ZNF654,,HEK293,Epithelium,Embryonic Kidney,1,ZNF654
+56997|DACOR1,0.6242561495125947,Homo sapiens,DACOR1,other,None,None,Colon,1,DACOR1
+77066|ZNF671,0.6867167132879791,Homo sapiens,ZNF671,tf,293T,None,None,1,ZNF671
+49482|ZNF92,0.7325155929323403,Homo sapiens,ZNF92,tf,None,Retinal pigment cell,None,1,ZNF92
+74573|SPIN1,0.7588606387643846,Homo sapiens,SPIN1,other,T778,None,None,1,SPIN1
+77173|ZNF141,0.7692278897203231,Homo sapiens,ZNF141,tf,293T,None,None,1,ZNF141
+76854|CDCA2,0.8746990383370659,Homo sapiens,CDCA2,other,HeLa,Epithelium,Cervix,1,CDCA2
+63316|SCRT2,0.901577295455518,Homo sapiens,SCRT2,,HEK293,Epithelium,Embryonic Kidney,1,SCRT2
+75571|HAP1,0.9025245892990672,Homo sapiens,HAP1,other,None,None,None,1,HAP1
+76709|MGEA5,0.9278130756188344,Homo sapiens,MGEA5,other,BJAB,None,None,1,MGEA5
